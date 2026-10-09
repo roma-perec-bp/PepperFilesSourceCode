@@ -1,0 +1,363 @@
+package funkin.data;
+
+import haxe.Json;
+import lime.utils.Assets;
+
+import funkin.game.notes.Note;
+
+typedef SwagSong =
+{
+	var song:String;
+	var postfix:String; //mostly for chart editor
+	var displayName:String; //it has no use rn but will be used on freeplay shit in future
+	var notes:Array<SwagSection>;
+	var events:Array<Dynamic>;
+	var bpm:Float;
+	var needsVoices:Bool;
+	var speed:Float;
+	var offset:Float;
+
+	var player1:String;
+	var player2:String;
+	var gfVersion:String;
+	var stage:String;
+	var format:String;
+
+	@:optional var gameOverChar:String;
+	@:optional var gameOverSound:String;
+	@:optional var gameOverLoop:String;
+	@:optional var gameOverEnd:String;
+	
+	@:optional var disableNoteRGB:Bool;
+	@:optional var disableTimeBar:Bool;
+
+	@:optional var arrowSkin:String;
+	@:optional var splashSkin:String;
+	@:optional var holdSkin:String;
+
+	@:optional var strumOffset:String;
+
+	@:optional var originalHealthColors:Bool;
+	@:optional var opponentDisabled:Bool;
+	@:optional var comboInGameCam:Bool;
+	@:optional var comboX:Float;
+	@:optional var comboY:Float;
+
+	@:optional var quietCountdown:Bool;
+	@:optional var skipCountdown:Bool;
+	@:optional var skipArrowTween:Bool;
+	@:optional var charFocusStart:String;
+	@:optional var cameraOffsetX:Float;
+	@:optional var cameraOffsetY:Float;
+	@:optional var followCamOffset:Float;
+	@:optional var cameraSpeedMult:Float;
+	@:optional var countdownSuffix:String;
+	@:optional var swapNotes:Bool;
+	@:optional var swapPlayers:Bool;
+	@:optional var swapMustPlay:Bool;
+
+	@:optional var art:String;
+	@:optional var music:String;
+	@:optional var code:String;
+	@:optional var chart:String;
+
+	@:optional var fadeOutStart:Bool;
+	@:optional var fadeCount:Bool;
+	@:optional var fadeDuration:Float;
+	@:optional var inFrontFade:Bool;
+	@:optional var disableSplash:Bool;
+	@:optional var disableHoldCover:Bool;
+	@:optional var disableHoldSparkle:Bool;
+	@:optional var showYOUtext:Bool;
+	@:optional var opponentArrowSkin:String;
+	@:optional var disableDadRGB:Bool;
+	@:optional var timeBarFake:Float;
+
+	@:optional var fullRestart:Bool;
+	@:optional var toggleTransIn:Bool;
+	@:optional var toggleTransOut:Bool;
+}
+
+typedef SwagSection =
+{
+	var sectionNotes:Array<Dynamic>;
+	var sectionBeats:Float;
+	var mustHitSection:Bool; //might be deleted later
+
+	var followCam:Bool;
+	var charFollow:String;
+	var tweenFollow:String; 
+	var followTime:Float;
+
+	var zoom:Float;
+	var zoomTime:Float;
+	var tweenZoom:String;
+	var stgZoom:Bool;
+
+	@:optional var altAnim:Bool;
+	@:optional var gfSection:Bool;
+	@:optional var bpm:Float;
+	@:optional var changeBPM:Bool;
+
+	@:optional var zoomCam:Bool;
+
+	@:optional var followX:Float;
+	@:optional var followY:Float;
+}
+
+class Song
+{
+	public var song:String;
+	public var notes:Array<SwagSection>;
+	public var events:Array<Dynamic>;
+	public var bpm:Float;
+	public var needsVoices:Bool = true;
+
+	public var arrowSkin:String;
+	public var splashSkin:String;
+	public var holdSkin:String;
+
+	public var gameOverChar:String;
+	public var gameOverSound:String;
+	public var gameOverLoop:String;
+	public var gameOverEnd:String;
+
+	public var disableNoteRGB:Bool = false;
+	public var disableTimeBar:Bool = false;
+	public var strumOffset:String;
+	public var originalHealthColors:Bool;
+	public var opponentDisabled:Bool;
+	public var comboInGameCam:Bool;
+	public var comboX:Float = 650;
+	public var comboY:Float = 300;
+
+	public var quietCountdown:Bool = false;
+	public var skipCountdown:Bool = false;
+	public var skipArrowTween:Bool = false;
+	public var charFocusStart:String;
+	public var cameraOffsetX:Float = 0;
+	public var cameraOffsetY:Float = 0;
+	public var followCamOffset:Float = 0;
+	public var cameraSpeedMult:Float = 0;
+	public var countdownSuffix:String;
+	public var swapNotes:Bool = false;
+	public var swapPlayers:Bool = false;
+	public var swapMustPlay:Bool = false;
+
+	public var art:String;
+	public var music:String;
+	public var code:String;
+	public var chart:String;
+
+	public var fadeOutStart:Bool = false;
+	public var fadeCount:Bool = false;
+	public var fadeDuration:Float;
+	public var inFrontFade:Bool = false;
+	public var disableSplash:Bool = false;
+	public var disableHoldCover:Bool = false;
+	public var disableHoldSparkle:Bool = false;
+	public var showYOUtext:Bool = false;
+	public var opponentArrowSkin:String;
+	public var disableDadRGB:Bool;
+	public var timeBarFake:Float;
+
+	public var fullRestart:Bool = false;
+	public var toggleTransIn:Bool = false;
+	public var toggleTransOut:Bool = false;
+
+	public var speed:Float = 1;
+	public var stage:String;
+	public var player1:String = 'bf';
+	public var player2:String = 'dad';
+	public var gfVersion:String = 'gf';
+	public var format:String = 'psych_v1';
+
+	public static function convert(songJson:Dynamic) // Convert old charts to psych_v1 format
+	{
+		if(songJson.gfVersion == null)
+		{
+			songJson.gfVersion = songJson.player3;
+			if(Reflect.hasField(songJson, 'player3')) Reflect.deleteField(songJson, 'player3');
+		}
+
+		if(songJson.events == null)
+		{
+			songJson.events = [];
+			for (secNum in 0...songJson.notes.length)
+			{
+				var sec:SwagSection = songJson.notes[secNum];
+
+				var i:Int = 0;
+				var notes:Array<Dynamic> = sec.sectionNotes;
+				var len:Int = notes.length;
+				while(i < len)
+				{
+					var note:Array<Dynamic> = notes[i];
+					if(note[1] < 0)
+					{
+						songJson.events.push([note[0], [[note[2], note[3], note[4]]]]);
+						notes.remove(note);
+						len = notes.length;
+					}
+					else i++;
+				}
+			}
+		}
+
+		var sectionsData:Array<SwagSection> = songJson.notes;
+		if(sectionsData == null) return;
+
+		for (section in sectionsData)
+		{
+			var beats:Null<Float> = cast section.sectionBeats;
+			if (beats == null || Math.isNaN(beats))
+			{
+				section.sectionBeats = 4;
+				if(Reflect.hasField(section, 'lengthInSteps')) Reflect.deleteField(section, 'lengthInSteps');
+			}
+
+			for (note in section.sectionNotes)
+			{
+				var gottaHitNote:Bool = (note[1] < 4) ? section.mustHitSection : !section.mustHitSection;
+				note[1] = (note[1] % 4) + (gottaHitNote ? 0 : 4);
+
+				if(!Std.isOfType(note[3], String))
+				{
+					if (note[3] == 'Alt Animation')
+						note[5] = '-alt';
+	
+					if (note[3] == 'No Animation')
+						note[9] = true;
+					
+					note[3] = (note[3] != null) ? Note.defaultNoteTypes[note[3]] : ''; //compatibility with Week 7 and 0.1-0.3 psych charts
+				}
+
+			}
+
+			if(section.mustHitSection)
+			{
+				section.followCam = true;
+				section.charFollow = 'bf';
+				section.tweenFollow = 'CLASSIC'; 
+			}
+			else
+			{
+				section.followCam = true;
+				section.charFollow = 'dad';
+				section.tweenFollow = 'CLASSIC'; 
+			}
+		}
+	}
+
+	public static function convertGold(songJson:Dynamic) // Convert psychs to gold
+	{
+		var sectionsData:Array<SwagSection> = songJson.notes;
+		if(sectionsData == null) return;
+
+		for (section in sectionsData)
+		{
+			if(section.mustHitSection)
+			{
+				section.followCam = true;
+				section.charFollow = 'bf';
+				section.tweenFollow = 'CLASSIC'; 
+			}
+			else
+			{
+				section.followCam = true;
+				section.charFollow = 'dad';
+				section.tweenFollow = 'CLASSIC'; 
+			}
+
+			for (note in section.sectionNotes)
+			{
+				if(!Std.isOfType(note[3], String))
+				{
+					if (note[3] == 'Alt Animation')
+					{
+						note[5] = '-alt';
+						note[3] = '';
+					}
+	
+					if (note[3] == 'No Animation')
+					{
+						note[9] = true;
+						note[3] = '';
+					}
+				}
+	
+			}
+		}
+	}
+
+	public static var chartPath:String;
+	public static var loadedSongName:String;
+	public static function loadFromJson(jsonInput:String, ?folder:String):SwagSong
+	{
+		if(folder == null) folder = jsonInput;
+		PlayState.SONG = getChart(jsonInput, folder);
+		loadedSongName = folder;
+		chartPath = _lastPath;
+		#if windows
+		// prevent any saving errors by fixing the path on Windows (being the only OS to ever use backslashes instead of forward slashes for paths)
+		chartPath = chartPath.replace('/', '\\');
+		#end
+		StageData.loadDirectory(PlayState.SONG);
+		return PlayState.SONG;
+	}
+
+	static var _lastPath:String;
+	public static function getChart(jsonInput:String, ?folder:String):SwagSong
+	{
+		if(folder == null) folder = jsonInput;
+		var rawData:String = null;
+		
+		var formattedFolder:String = Paths.formatToSongPath(folder);
+		var formattedSong:String = Paths.formatToSongPath(jsonInput);
+		_lastPath = Paths.json('$formattedFolder/$formattedSong');
+
+		#if MODS_ALLOWED
+		if(FileSystem.exists(_lastPath))
+			rawData = File.getContent(_lastPath);
+		else
+		#end
+			rawData = Assets.getText(_lastPath);
+
+		return rawData != null ? parseJSON(rawData, jsonInput) : null;
+	}
+
+	public static function parseJSON(rawData:String, ?nameForError:String = null, ?convertTo:String = 'psych_v1'):SwagSong
+	{
+		var songJson:SwagSong = cast Json.parse(rawData);
+		if(Reflect.hasField(songJson, 'song'))
+		{
+			var subSong:SwagSong = Reflect.field(songJson, 'song');
+			if(subSong != null && Type.typeof(subSong) == TObject)
+				songJson = subSong;
+		}
+
+		if(convertTo != null && convertTo.length > 0)
+		{
+			var fmt:String = songJson.format;
+			if(fmt == null) fmt = songJson.format = 'unknown';
+
+			switch(convertTo)
+			{
+				case 'psych_v1':
+					if(fmt.startsWith('psych_v1')) //IM GENIUS, IF IT IS PSYCH V1 THEN DO THE THING
+					{
+						trace('converting chart $nameForError with format $fmt to gold_v1 format...');
+						songJson.format = 'gold_v1_convert';
+						convertGold(songJson);
+					}
+					else if(!fmt.startsWith('gold_v1')) //Convert to Psych 1.0 format
+					{
+						trace('converting chart $nameForError with format $fmt to psych_v1 format...');
+						songJson.format = 'psych_v1_convert';
+						convert(songJson);
+					}
+			}
+		}
+		return songJson;
+	}
+}

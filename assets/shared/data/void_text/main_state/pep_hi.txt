@@ -1,0 +1,9 @@
+:happy:Привет!
+:happy:Здарова!
+:happy:Hi!
+:happy:Hello!
+:look:Как дела?
+:left:Как поживаешь?
+:default:Решил заглянуть?
+:left:Как успехи?
+:happy:О вот и ты!

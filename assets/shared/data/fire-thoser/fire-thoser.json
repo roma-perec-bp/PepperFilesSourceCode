@@ -1,0 +1,2373 @@
+{
+	"inFrontFade": true,
+	"fadeDuration": 9999,
+	"fadeOutStart": true,
+	"player1": "bfnew",
+	"notes": [
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"stgZoom": true,
+			"altAnim": false,
+			"zoom": 0.9,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[4800, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[5100, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[5400, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[5700, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"gfSection": false,
+			"followCam": true,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[6000, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[6300, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[6450, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[6600, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[6750, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[6900, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[7050, 6, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[7200, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[7500, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[7800, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[8100, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[8400, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[8700, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[8850, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[9000, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[9150, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[9300, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[9450, 5, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[9600, 6, 225, null, null, "", 0, "", true, false, "", true, false, false],
+				[9900, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[10200, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[10500, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[10800, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[11100, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[11250, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[11400, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[11550, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[11700, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[11850, 5, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[12000, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[12150, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[12225, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[12300, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[12600, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[12900, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[13200, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[13500, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[13650, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[13800, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[13950, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[14100, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[14250, 5, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[14400, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[14400, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[14700, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[14700, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[15000, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[15000, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[15300, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[15300, 3, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": true,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[15600, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[15600, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[15900, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[15900, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[16050, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[16050, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[16200, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[16200, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[16350, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[16350, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[16500, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[16500, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[16650, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[16650, 2, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[16800, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[16800, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[17100, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[17100, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[17400, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[17400, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[17700, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[17700, 4, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[18000, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18000, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18300, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18300, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18450, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18450, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18600, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18600, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18675, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18750, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18750, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18825, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18900, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18900, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[19050, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[19050, 1, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[19200, 2, 225, null, null, "", 0, "", true, false, "", true, false, false],
+				[19200, 6, 2362.5, null, null, "", 0, "", true, false, "", true, false, false],
+				[19500, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[19800, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[20100, 3, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[20400, 4, 2362.5, null, null, "", 0, "", true, false, "", true, false, false],
+				[20400, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[20700, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[20850, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[21000, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[21150, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[21300, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[21450, 3, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[21600, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[21600, 5, 1762.5, null, null, "", 0, "", true, false, "", true, false, false],
+				[21750, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[21825, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[21900, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[22200, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[22500, 3, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[22800, 7, 562.5, null, null, "", 0, "", true, false, "", true, false, false],
+				[22800, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[23100, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[23250, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[23400, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[23550, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[23550, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[23700, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[23850, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[23850, 4, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"stgZoom": true,
+			"altAnim": false,
+			"zoom": 0.7,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[24000, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[24300, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[24375, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[24450, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[24525, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[24600, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[24900, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[25050, 5, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"gfSection": false,
+			"followCam": true,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[25200, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[25500, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[25575, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[25650, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[25800, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[25875, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[25950, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[26100, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[26175, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[26250, 5, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[26400, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[26475, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[26550, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[26700, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[27000, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[27300, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[27375, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[27450, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[27525, 4, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[27600, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[27900, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[27975, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[28050, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[28125, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[28200, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[28275, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[28350, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[28425, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[28500, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[28575, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[28650, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[28725, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"zoomTime": 4,
+			"sectionBeats": 4,
+			"stgZoom": true,
+			"altAnim": false,
+			"zoom": 1,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[28800, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[28800, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[28950, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[29100, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[29400, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[29700, 6, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "expoOut",
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[30000, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[30300, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[30450, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[30600, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[30750, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[30900, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[31050, 6, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[31200, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[31200, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[31350, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[31425, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[31500, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[31800, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[32100, 6, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[32400, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[32550, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[32625, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[32700, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[32850, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[33000, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[33150, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[33300, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[33375, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[33450, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[33525, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[33600, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[33900, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[33975, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[34050, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[34125, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[34200, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[34500, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[34650, 1, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": true,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[34800, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[35100, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[35175, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[35250, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[35400, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[35475, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[35550, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[35700, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[35700, 4, 300, null, null, "", 0, "", false, false, "", true, false, true],
+				[35775, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[35850, 5, 225, null, null, "", 0, "", false, false, "", true, false, true],
+				[35850, 1, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[36000, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[36000, 7, 262.5, null, null, "", 0, "", false, false, "", true, false, true],
+				[36075, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[36150, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[36300, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[36300, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[36450, 6, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[36596.25, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[36600, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[36615, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[36639.375, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[36645, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[36646.875, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[36697.5, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[36701.25, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[36714.375, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[36738.75, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[36738.75, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[36778.125, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[36825, 6, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[36900, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[36975, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[37050, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[37050, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[37125, 0, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[37200, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[37200, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[37350, 5, 150, null, null, "", 0, "", false, false, "", true, false, true],
+				[37425, 6, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[37500, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[37500, 7, 37.5, null, null, "", 0, "", false, false, "", true, false, true],
+				[37575, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[37575, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[37650, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[37650, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[37725, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[37725, 6, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[37725, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[37800, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[37875, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[37950, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[38025, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[38100, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[38100, 6, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[38100, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[38175, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[38250, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[38325, 3, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"zoomTime": 8,
+			"sectionBeats": 4,
+			"stgZoom": true,
+			"altAnim": false,
+			"zoom": 1,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[38400, 1, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[38550, 3, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[38550, 0, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[38700, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[38700, 6, 825, null, null, "", 0, "", true, false, "", true, false, false],
+				[39000, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[39300, 2, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "expoOut",
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[39600, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[39600, 7, 1125, null, null, "", 0, "", true, false, "", true, false, false],
+				[39900, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[40050, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[40200, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[40350, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[40500, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[40650, 2, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[40800, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[40800, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[40800, 4, 2325, null, null, "", 0, "", true, false, "", true, false, false],
+				[40950, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[41025, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[41100, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[41400, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[41700, 2, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"zoomTime": 16,
+			"sectionBeats": 4,
+			"stgZoom": true,
+			"altAnim": false,
+			"zoom": 1,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "expoInOut",
+			"sectionNotes": [
+				[42000, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[42000, 5, 1125, null, null, "", 0, "", true, false, "", true, false, false],
+				[42150, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[42225, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[42300, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[42450, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[42600, 3, 525, null, null, "", 0, "", true, false, "", true, false, false],
+				[42600, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false],
+				[42600, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false],
+				[42600, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[42600, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[42600, 0, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followTime": 16,
+			"tweenZoom": "expoIn",
+			"gfSection": false,
+			"followCam": true,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"zoomTime": 240,
+			"sectionBeats": 4,
+			"stgZoom": true,
+			"altAnim": false,
+			"zoom": 0.6,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[43350, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[43650, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[43950, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[44250, 6, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "smootherStepInOut",
+			"gfSection": false,
+			"followCam": true,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[44550, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[44850, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[45150, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[45450, 6, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[45750, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[46050, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[46350, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[46650, 4, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[46950, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[47250, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[47550, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[47850, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[48150, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[48450, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[48750, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[49050, 4, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[49350, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[49650, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[49950, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[50250, 4, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[50550, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[50850, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[51150, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[51450, 5, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[51750, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[52050, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[52350, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[52650, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[52950, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[53250, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[53550, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[53850, 2, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": true,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[54150, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[54450, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[54750, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[55050, 2, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[55350, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[55650, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[55950, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[56250, 0, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[56550, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[56850, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[57075, 7, 300, null, null, "", 0, "", false, false, "", true, false, true],
+				[57150, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[57375, 4, 300, null, null, "", 0, "", false, false, "", true, false, true],
+				[57436.875, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[57450, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[57495, 6, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[57551.25, 7, 0, null, null, "", 0, "", false, false, "", true, false, true]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "smootherStepInOut",
+			"sectionNotes": [
+				[57600, 6, 600, null, null, "", 0, "", false, false, "", true, false, true],
+				[57750, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[58050, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[58134.375, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58140, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58153.125, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58164.375, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58181.25, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58183.125, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58190.625, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58213.125, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58215, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58218.75, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58230, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58241.25, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58245, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58256.25, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58258.125, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58260, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58263.75, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58278.75, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58280.625, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58295.625, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58350, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[58650, 0, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followTime": 48,
+			"gfSection": false,
+			"followCam": true,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[58815, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58826.25, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58867.5, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58897.5, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58906.875, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58929.375, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58936.875, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58946.25, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[58950, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[58995, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[59017.5, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[59026.875, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[59030.625, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[59036.25, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[59040, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[59053.125, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[59062.5, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[59068.125, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[59070, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[59071.875, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[59081.25, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[59085, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[59085, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[59090.625, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[59175, 7, 225, null, null, "", 0, "", false, false, "", true, false, true],
+				[59250, 6, 150, null, null, "", 0, "", false, false, "", true, false, true],
+				[59250, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[59400, 4, 262.5, null, null, "", 0, "", false, false, "", true, false, true],
+				[59550, 5, 187.5, null, null, "", 0, "", false, false, "", true, false, true],
+				[59550, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[59700, 7, 562.5, null, null, "", 0, "", false, false, "", true, false, true],
+				[59850, 0, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[60150, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[60258.75, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[60275.625, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[60290.625, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[60326.25, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[60331.875, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[60345, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[60350.625, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[60369.375, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[60371.25, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[60450, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[60750, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[61050, 1, 0, null, null, "", 0, "", false, true, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"zoomTime": 4,
+			"sectionBeats": 4,
+			"stgZoom": true,
+			"altAnim": false,
+			"zoom": 0.7,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[61200, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[61500, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[61500, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[61800, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[62100, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[62100, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "expoOut",
+			"gfSection": false,
+			"followCam": true,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"stgZoom": true,
+			"altAnim": false,
+			"zoom": 1,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[62400, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[62400, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[62400, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[62400, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false],
+				[62400, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[62700, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[63000, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[63300, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"gfSection": false,
+			"followCam": true,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[63600, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[63900, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[64050, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[64200, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[64350, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[64500, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[64650, 6, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[64800, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[65100, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[65400, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[65700, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[66000, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[66300, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[66450, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[66600, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[66750, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[66900, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[67050, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[67200, 6, 225, null, null, "", 0, "", true, false, "", true, false, false],
+				[67500, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[67800, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[68100, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[68400, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[68700, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[68850, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[69000, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[69150, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[69300, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[69450, 5, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[69600, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[69750, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[69825, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[69900, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[70200, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[70500, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[70800, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[71100, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[71250, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[71400, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[71550, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[71700, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[71850, 5, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[72000, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[72000, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[72000, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false],
+				[72000, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[72000, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[72000, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[72300, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[72300, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[72600, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[72600, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[72900, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[72900, 3, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": true,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[73200, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73200, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73500, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73500, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73650, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73650, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73800, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73800, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73950, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73950, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74100, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74100, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74250, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74250, 2, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[74400, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[74400, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[74400, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false],
+				[74400, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[74400, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74400, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74700, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74700, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[75000, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[75000, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[75300, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[75300, 3, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[75600, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[75600, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[75900, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[75900, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[76050, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[76050, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[76200, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[76200, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[76275, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[76350, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[76350, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[76425, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[76500, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[76500, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[76650, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[76650, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[76796.25, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[76800, 2, 225, null, null, "", 0, "", true, false, "", true, false, false],
+				[76800, 6, 2287.5, null, null, "", 0, "", true, false, "", true, false, false],
+				[76800, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[76800, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[76800, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[77100, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[77400, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[77700, 3, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[78000, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[78000, 4, 2325, null, null, "", 0, "", true, false, "", true, false, false],
+				[78300, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[78450, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[78600, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[78750, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[78900, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[79050, 1, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[79200, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false],
+				[79200, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false],
+				[79200, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[79200, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[79200, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[79200, 5, 1725, null, null, "", 0, "", true, false, "", true, false, false],
+				[79350, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[79425, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[79500, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[79800, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[80100, 3, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 150,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[80400, 7, 525, null, null, "", 0, "", true, false, "", true, false, false],
+				[80400, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[80700, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[80850, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[81000, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[81150, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[81150, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[81300, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[81450, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[81450, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[81594.375, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 153,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"stgZoom": true,
+			"altAnim": false,
+			"zoom": 0.4,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[81600, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[81600, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[81600, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[81600, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[81600, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[81900, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[81900, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[81975, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[82050, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[82125, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[82200, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[82200, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[82500, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[82500, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[82650, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[82796.25, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followTime": 0,
+			"gfSection": false,
+			"followCam": true,
+			"charFollow": "gf",
+			"bpm": 155,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[82800, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[82800, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[82800, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[82800, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[82800, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83100, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83100, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83175, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83250, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83250, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83400, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83400, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83475, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83550, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83550, 1, 0, null, null, "", 0, "", false, true, "", true, false, false],
+				[83700, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83700, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83775, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83850, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83850, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83996.25, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 157,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[84000, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[84000, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[84000, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[84000, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[84000, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[84075, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[84150, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[84300, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[84300, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[84600, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[84600, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[84900, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[84900, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[84975, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[85050, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[85125, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[85198.125, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 159,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[85200, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[85200, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[85200, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[85200, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[85200, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[85500, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[85500, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[85575, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[85650, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[85650, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[85725, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[85800, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[85800, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[85875, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[85950, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[85950, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[86025, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[86100, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[86100, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[86175, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[86250, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[86250, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[86325, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[86396.25, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false],
+				[86398.125, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 162,
+			"changeBPM": false
+		},
+		{
+			"zoomTime": 0,
+			"followY": 0,
+			"sectionBeats": 4,
+			"stgZoom": true,
+			"altAnim": false,
+			"zoom": 1.1,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "INSTANT",
+			"sectionNotes": [
+				[86400, 4, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[86400, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[86400, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[86400, 5, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[86400, 0, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[86550, 7, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[86550, 6, 0, null, null, "", 0, "", false, false, "", true, false, true],
+				[86550, 2, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[86550, 1, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[86700, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[86700, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[87000, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[87000, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[87300, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[87300, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[87596.25, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"tweenZoom": "INSTANT",
+			"gfSection": false,
+			"followCam": true,
+			"charFollow": "dad",
+			"bpm": 164,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[87600, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[87600, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[87600, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[87600, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[87600, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[87900, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[87900, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[88050, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[88050, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[88200, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[88200, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[88350, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[88350, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[88500, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[88500, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[88650, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[88650, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[88792.5, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 166,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[88800, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[88800, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[88800, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[88800, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[88800, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[88950, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[88950, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[89025, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[89025, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[89100, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[89100, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[89400, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[89400, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[89700, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[89700, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[89996.25, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 168,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[90000, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[90000, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[90000, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[90000, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[90000, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[90150, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[90225, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[90300, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[90300, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[90450, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[90450, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[90600, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[90600, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[90750, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[90750, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[90900, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[90900, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[90975, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[91050, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[91050, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[91125, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[91196.25, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "dad",
+			"bpm": 171,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"stgZoom": true,
+			"altAnim": false,
+			"zoom": 0.6,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[91200, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[91200, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[91200, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[91200, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[91200, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[91500, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[91500, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[91575, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[91650, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[91725, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[91800, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[91800, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[92100, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[92100, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[92250, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[92398.125, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"gfSection": false,
+			"followCam": true,
+			"charFollow": "bf",
+			"bpm": 173,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[92400, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[92400, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[92400, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[92400, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[92400, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[92700, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[92700, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[92775, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[92850, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[92850, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93000, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93000, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93075, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93150, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93150, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93300, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93300, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93375, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93450, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93450, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93598.125, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 175,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[93600, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93600, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93600, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[93600, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[93600, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[93675, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93750, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93900, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[93900, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[94200, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[94200, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[94500, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[94500, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[94575, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[94650, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[94725, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[94798.125, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 178,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[94800, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[94800, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[94800, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[94800, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[94800, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[95100, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95100, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95175, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95250, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95250, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95325, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95400, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95400, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95475, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95550, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95550, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95625, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95700, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95700, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95775, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95850, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95850, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95925, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[95996.25, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 180,
+			"changeBPM": false
+		},
+		{
+			"zoomTime": 8,
+			"sectionBeats": 4,
+			"stgZoom": true,
+			"altAnim": false,
+			"zoom": 0.9,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[96000, 0, 225, null, null, "", 0, "", true, false, "", true, false, false],
+				[96000, 7, 225, null, null, "", 0, "", true, false, "", true, false, false],
+				[96000, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[96000, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[96000, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[96300, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[96300, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[96600, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[96600, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[96900, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[96900, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[97192.5, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"tweenZoom": "expoOut",
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 182,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[97200, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[97200, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[97200, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[97200, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[97200, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[97500, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[97500, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[97650, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[97650, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[97800, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[97800, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[97950, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[97950, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[98100, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[98100, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[98250, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[98250, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[98398.125, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 184,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[98400, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[98400, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[98400, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[98400, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[98400, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[98550, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[98550, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[98625, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[98625, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[98700, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[98700, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[99000, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[99000, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[99300, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[99300, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[99594.375, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 187,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[99600, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[99600, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[99600, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[99600, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[99600, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[99750, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[99825, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[99900, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[99900, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[100050, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[100050, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[100200, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[100200, 2, 525, null, null, "", 0, "", true, false, "", true, false, false],
+				[100350, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[100500, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[100650, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[100796.25, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", false, true, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 189,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"stgZoom": true,
+			"altAnim": false,
+			"zoom": 1,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[100800, 5, 1125, null, null, "", 0, "", true, false, "", true, false, false],
+				[100800, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[100800, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[100800, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, true, "", true, false, false],
+				[100800, 1, 1125, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 191,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 193,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 196,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[104400, 5, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, false, "", true, false, false],
+				[104400, 6, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, false, "", true, false, false],
+				[104400, 7, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, false, "", true, false, false],
+				[104400, 4, 0, "Jalapeno Note BOOM SOUND", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 198,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [],
+			"gfSection": false,
+			"followCam": false,
+			"charFollow": "bf",
+			"bpm": 200,
+			"changeBPM": false
+		}
+	],
+	"player2": "perec",
+	"followCamOffset": 42,
+	"skipCountdown": true,
+	"art": "Naitnich, ZarX, UrSus, Perec.HUI",
+	"offset": 0,
+	"music": "Food House feat.Perec.HUI",
+	"song": "Fire Thoser",
+	"speed": 2.67,
+	"format": "gold_v1_convert",
+	"toggleTransIn": false,
+	"events": [
+		[
+			0,
+			[
+				["Set Camera Bop", "0", "0"]
+			]
+		],
+		[
+			4800,
+			[
+				["Set Camera Bop", "1", "1"],
+				["Fade Camera", "0xFF000000", "1", "camoverlayhud", "true", ""]
+			]
+		],
+		[
+			14400,
+			[
+				["Show Song Default", "", "", "", "", ""]
+			]
+		],
+		[
+			23400,
+			[
+				["Set Camera Bop", "99", "1"],
+				["Zoom Camera", "expoOut", "1.2", "8", "direct"],
+				["Focus Camera", "dad", "8", "expoOut", "", ""]
+			]
+		],
+		[
+			24000,
+			[
+				["Set Camera Bop", "2", "2"]
+			]
+		],
+		[
+			28800,
+			[
+				["Subtitles", "ДИ", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			28950,
+			[
+				["Subtitles", "ДИ НАХ!!", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			29100,
+			[
+				["Zoom Camera", "CLASSIC", "0.7", "", "direct"]
+			]
+		],
+		[
+			35700,
+			[
+				["Subtitles", "Иг", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			36000,
+			[
+				["Subtitles", "Игры", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			36300,
+			[
+				["Subtitles", "Игры ни", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			36450,
+			[
+				["Subtitles", "Игры никог", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			36600,
+			[
+				["Subtitles", "Игры никогда", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			36975,
+			[
+				["Subtitles", "Игры никогда не", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			37200,
+			[
+				["Subtitles", "Игры никогда не за", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			37500,
+			[
+				["Subtitles", "Игры никогда не закон", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			37725,
+			[
+				["Subtitles", "Игры никогда не закончать", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			37950,
+			[
+				["Subtitles", "Игры никогда не закончаться!", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			38700,
+			[
+				["Zoom Camera", "CLASSIC", "0.7", "", "direct", ""]
+			]
+		],
+		[
+			42600,
+			[
+				["Set Camera Bop", "999", "2"]
+			]
+		],
+		[
+			43200,
+			[
+				["Set Camera Bop", "1", "1"]
+			]
+		],
+		[
+			57075,
+			[
+				["Subtitles", "ТЫ", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			57300,
+			[
+				["Subtitles", "ТЫ УМ", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			57600,
+			[
+				["Subtitles", "ТЫ УМРЕШЬ!", "9", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			59175,
+			[
+				["Subtitles", "ВСЕ", "9", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			59550,
+			[
+				["Subtitles", "ВСЕ УМ", "9", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			59775,
+			[
+				["Subtitles", "ВСЕ УМРУТ!", "9", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			61200,
+			[
+				["Set Camera Bop", "9999", "2"]
+			]
+		],
+		[
+			61200,
+			[
+				["Subtitles", "ВЫ", "4", "0xFFFF0000", "32, 1.25", "null,null,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			61500,
+			[
+				["Zoom Camera", "expoOut", "0.8", "4", "direct", ""]
+			]
+		],
+		[
+			61500,
+			[
+				["Subtitles", "УМ", "4", "0xFFFF0000", "32, 1.25", "null,null,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			61800,
+			[
+				["Zoom Camera", "expoOut", "1", "4", "direct"]
+			]
+		],
+		[
+			61800,
+			[
+				["Subtitles", "УМРЁ", "4", "0xFFFF0000", "32, 1.25", "null,null,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			62100,
+			[
+				["Zoom Camera", "expoOut", "1.2", "4", "direct", ""]
+			]
+		],
+		[
+			62100,
+			[
+				["Subtitles", "УМРЁТЕ!", "4", "0xFFFF0000", "32, 1.25", "null,null,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			62400,
+			[
+				["Set Camera Bop", "1", "1"]
+			]
+		],
+		[
+			81000,
+			[
+				["Set Camera Bop", "888", "1"],
+				["Zoom Camera", "expoOut", "1.2", "8", "direct"],
+				["Focus Camera", "dad", "8", "expoOut", "", ""]
+			]
+		],
+		[
+			81600,
+			[
+				["Set Camera Bop", "2", "2"]
+			]
+		],
+		[
+			86400,
+			[
+				["Subtitles", "Еблан?", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			86550,
+			[
+				["Subtitles", "Еблан?", "4", "0xFFFF0000", "32, 1.25", "bop,fade,HouseofTerrorRus.ttf"]
+			]
+		],
+		[
+			86700,
+			[
+				["Zoom Camera", "CLASSIC", "0.4", null, "direct"],
+				["Focus Camera", "gf", "", "CLASSIC", "", ""]
+			]
+		],
+		[
+			96300,
+			[
+				["Zoom Camera", "CLASSIC", "0.6", "12", "direct"]
+			]
+		],
+		[
+			100800,
+			[
+				["Set Camera Bop", "999", "999"]
+			]
+		]
+	],
+	"gfVersion": "gf",
+	"toggleTransOut": false,
+	"code": "Perec.HUI",
+	"chart": "Perec.HUI",
+	"needsVoices": true,
+	"stage": "night",
+	"bpm": 200
+}

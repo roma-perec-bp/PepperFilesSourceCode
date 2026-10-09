@@ -1,0 +1,3 @@
+Fading used in Too slow
+Value1: Starting Opacity
+Value2: Duration

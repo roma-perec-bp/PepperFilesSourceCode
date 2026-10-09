@@ -1,0 +1,29 @@
+{
+	"directory": "bf_mix",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+
+	"hide_girlfriend": true,
+
+	"boyfriend": [770, 200],
+	"girlfriend": [300, 130],
+	"opponent": [200, 225],
+
+	"camera_opponent": [50, 0],
+
+	"preload": {
+		"images/darkerVG": 3,
+		"images/screenstatic": 3,
+		"images/shade": 3,
+
+		"images/Xenostage/P3_Eggman": 3,
+		"images/Xenostage/p3_glitch": 3,
+		"images/Xenostage/p3_Grass": 3,
+		"images/Xenostage/P3_Knuckles": 3,
+		"images/Xenostage/P3_SonicStat": 3,
+		"images/Xenostage/P3_Stat": 3,
+		"images/Xenostage/P3_Tails": 3,
+		"images/Xenostage/p3_Trees": 3,
+		"images/Xenostage/p3_Trees2": 3
+	}
+}

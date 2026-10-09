@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IdlePerec"
+		},
+		{
+			"offsets": [65, 20],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftPerec"
+		},
+		{
+			"offsets": [65, -252],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownPerec"
+		},
+		{
+			"offsets": [-2, 38],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UpPerec"
+		},
+		{
+			"offsets": [8, -28],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightPerec"
+		},
+		{
+			"offsets": [70, -20],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh1",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7],
+			"name": "laugh"
+		},
+		{
+			"offsets": [70, -20],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh2",
+			"indices": [7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+			"name": "laugh"
+		},
+		{
+			"offsets": [81, -38],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh3",
+			"indices": [17, 18, 19, 20, 21, 22, 23],
+			"name": "laugh"
+		},
+		{
+			"offsets": [82, -38],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh4",
+			"indices": [24, 25, 26, 27, 28, 29, 30, 31, 32, 33],
+			"name": "laugh"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"iconScale": 1,
+	"image": "characters/perec_exe_ASSETS",
+	"opponentArrows": [
+		["0xFF000000", "0xFFFFFFFF", "0xFF000000"],
+		["0xFF000000", "0xFFFFFFFF", "0xFF000000"],
+		["0xFF000000", "0xFFFFFFFF", "0xFF000000"],
+		["0xFF000000", "0xFFFFFFFF", "0xFF000000"]
+	],
+	"position": [-690, 60],
+	"iconOffsets": [0, 10],
+	"iconBlend": null,
+	"healthicon": "ohNo",
+	"danceEvery": 2,
+	"iconFlipX": false,
+	"flip_x": false,
+	"iconFps24": 24,
+	"healthbar_colors": [0, 0, 0],
+	"camera_position": [40, 150],
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

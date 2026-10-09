@@ -1,0 +1,68 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"anim": "cheer",
+			"fps": 24,
+			"name": "Cheer",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"anim": "combo50",
+			"fps": 24,
+			"name": "Cheer",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"anim": "combo100",
+			"fps": 24,
+			"name": "Cheer",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"anim": "combo200",
+			"fps": 24,
+			"name": "Cheer",
+			"indices": []
+		},
+		{
+			"offsets": [0,0],
+			"loop": false,
+			"anim": "drop75",
+			"fps": 24,
+			"name": "ComboBreak"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "BLeft"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Bright"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/3d_gf",
+	"position": [-12, 4],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [165, 0, 77],
+	"camera_position": [0, 0],
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,2 @@
+V1 is the Extra Character Tag
+V2 is the Json name of the character

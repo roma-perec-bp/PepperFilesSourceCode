@@ -1,0 +1,108 @@
+{
+	"animations": [
+		{
+			"offsets": [8, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "idle",
+			"loop": false,
+			"name": "BFPISSEDIdle"
+		},
+		{
+			"offsets": [8, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BFPISSEDLeft"
+		},
+		{
+			"offsets": [8, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BFPISSEDDown"
+		},
+		{
+			"offsets": [8, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BFPISSEDUp"
+		},
+		{
+			"offsets": [8, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BFPISSEDRight"
+		},
+		{
+			"offsets": [8, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BFPISSED Left Miss"
+		},
+		{
+			"offsets": [8, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BFPISSED Down Miss"
+		},
+		{
+			"offsets": [8, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BFPISSED Up Miss"
+		},
+		{
+			"offsets": [8, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BFPISSED Right Miss"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"iconScale": 5,
+	"image": "characters/bfPixelangryNew",
+	"opponentArrows": [
+		["0xFFC24B99", "0xFFFFFFFF", "0xFF3C1F56"],
+		["0xFF00FFFF", "0xFFFFFFFF", "0xFF1542B7"],
+		["0xFF12FA05", "0xFFFFFFFF", "0xFF0A4447"],
+		["0xFFF9393F", "0xFFFFFFFF", "0xFF651038"]
+	],
+	"position": [183, 547],
+	"iconOffsets": [280, 10],
+	"iconBlend": null,
+	"healthicon": "bf-pixel",
+	"danceEvery": 2,
+	"iconFlipX": false,
+	"flip_x": true,
+	"iconFps24": 24,
+	"healthbar_colors": [123, 214, 246],
+	"camera_position": [180, -140],
+	"sing_duration": 4,
+	"scale": 6,
+	"_editor_isPlayer": true
+}

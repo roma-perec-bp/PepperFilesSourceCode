@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"anim": "cheer",
+			"fps": 24,
+			"name": "cheer",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"anim": "combo50",
+			"fps": 24,
+			"name": "cheer",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"anim": "combo100",
+			"fps": 24,
+			"name": "cheer",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"anim": "combo200",
+			"fps": 24,
+			"name": "cheer",
+			"indices": []
+		},
+		{
+			"offsets": [0, -10],
+			"loop": false,
+			"anim": "drop75",
+			"fps": 24,
+			"name": "sad"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "dancel"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "dancer"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"iconScale": 1,
+	"image": "characters/bd/gf-cool-new",
+	"opponentArrows": [
+		["0xFFC24B99", "0xFFFFFFFF", "0xFF3C1F56"],
+		["0xFF00FFFF", "0xFFFFFFFF", "0xFF1542B7"],
+		["0xFF12FA05", "0xFFFFFFFF", "0xFF0A4447"],
+		["0xFFF9393F", "0xFFFFFFFF", "0xFF651038"]
+	],
+	"position": [-122, -176],
+	"iconOffsets": [0, 0],
+	"iconBlend": null,
+	"healthicon": "gf",
+	"danceEvery": 1,
+	"iconFlipX": false,
+	"flip_x": false,
+	"iconFps24": 24,
+	"healthbar_colors": [165, 0, 77],
+	"camera_position": [0, 0],
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

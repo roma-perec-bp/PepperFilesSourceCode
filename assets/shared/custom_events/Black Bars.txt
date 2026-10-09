@@ -1,0 +1,2 @@
+value1: time
+value2: distance

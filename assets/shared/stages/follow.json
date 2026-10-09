@@ -1,0 +1,31 @@
+{
+	"directory": "final",
+	"defaultZoom": 0.5,
+	"stageUI": "",
+
+	"boyfriend": [1750, 400],
+	"girlfriend": [1150, 150],
+	"opponent": [350, 400],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [-250, -100],
+	"camera_opponent": [0, -20],
+	"camera_girlfriend": [150, 0],
+	"camera_speed": 1,
+
+	"preload": {
+		"images/darkerVG": 3,
+		"images/follow/ahuetSTATIC": 3,
+		"images/follow/circle": 2,
+		"images/follow/clouds": 3,
+		"images/follow/die": 3,
+		"images/follow/eyes_bg": 3,
+		"images/follow/eyes_center": 3,
+		"images/follow/home": 3,
+		"images/follow/notes": 2,
+		"images/follow/Particles": 3,
+		"images/follow/scanline": 3,
+		"images/follow/stars": 3,
+		"images/follow/shit": 3
+	}
+}

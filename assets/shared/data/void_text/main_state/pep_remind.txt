@@ -1,0 +1,7 @@
+:left:normal:Хорошо, скажу ещё раз
+:default:normal:Тебе нужно пройти все недели в BP V6
+:default:normal:Пройти все песни в BP Wokeless Edition
+:default:normal:И полностью пройти игру Pepper's Case
+:look:normal:Порядок абсолютно не важен
+:default:normal:Путь если что - assets/games/unused и вон они
+:happy:normal:Удачи!

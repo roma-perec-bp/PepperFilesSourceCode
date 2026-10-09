@@ -1,0 +1,3 @@
+Stuff used in You Can't Run
+Value1: Target Opacity
+Value2: Starting Opacity

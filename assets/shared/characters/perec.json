@@ -1,0 +1,76 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IdlePerec",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [65, 20],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftPerec",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [65, -252],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownPerec",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-2, 38],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpPerec",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [8, -28],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightPerec",
+			"indices": []
+		},
+		{
+			"offsets": [41, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "trans",
+			"loop": false,
+			"name": "trans"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"iconScale": 1,
+	"image": "characters/perec_ASSETS, characters/perec_TRANS",
+	"opponentArrows": [
+		["0xFF000000", "0xFFFFFFFF", "0xFFff0073"],
+		["0xFF000000", "0xFFFFFFFF", "0xFFf25158"],
+		["0xFF000000", "0xFFFFFFFF", "0xFFFF0000"],
+		["0xFF000000", "0xFFFFFFFF", "0xFFff6d00"]
+	],
+	"position": [0, 0],
+	"iconOffsets": [0, 10],
+	"iconBlend": null,
+	"healthicon": "jap",
+	"danceEvery": 2,
+	"iconFlipX": false,
+	"flip_x": false,
+	"iconFps24": 24,
+	"healthbar_colors": [192, 7, 10],
+	"camera_position": [40, 150],
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

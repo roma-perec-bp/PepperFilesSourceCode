@@ -1,0 +1,251 @@
+{
+	"camera_boyfriend": [
+		-150,
+		-50
+	],
+	"preload": {
+		"images/p2/dark": 2,
+		"images/p2/ground": 3,
+		"images/p2/roofNight": 3,
+		"images/p2/SMMStatic": 2,
+		"images/p2/trees": 3,
+		"images/p2/shade": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "xeno",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		891,
+		188
+	],
+	"stageUI": "",
+	"girlfriend": [
+		446,
+		209
+	],
+	"camera_girlfriend": [
+		-250,
+		0
+	],
+	"defaultZoom": 0.75,
+	"objects": [
+		{
+			"x": -1340,
+			"blend": "normal",
+			"y": -837,
+			"scale": [
+				3,
+				3
+			],
+			"image": "p2/SMMStatic",
+			"flipX": false,
+			"filters": 2,
+			"color": "666666",
+			"angle": 0,
+			"name": "bg",
+			"firstAnimation": "idle",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				0.3,
+				0.3
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 24,
+					"anim": "idle",
+					"flipX": false,
+					"indices": [],
+					"name": "damfstatic"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -1527,
+			"blend": "normal",
+			"y": -705,
+			"scale": [
+				2,
+				2
+			],
+			"image": "p2/trees",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "tree",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.8,
+				0.8
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1487,
+			"blend": "normal",
+			"y": 553,
+			"scale": [
+				2,
+				2
+			],
+			"image": "p2/ground",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "floor",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -4569,
+			"blend": "normal",
+			"y": -902,
+			"scale": [
+				9,
+				9
+			],
+			"image": "p2/roofNight",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "roof",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0.0001,
+			"type": "sprite"
+		},
+		{
+			"x": 270,
+			"blend": "normal",
+			"y": 697,
+			"scale": [
+				1.85,
+				1.1
+			],
+			"image": "p2/shade",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "shade2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"x": -483,
+			"blend": "normal",
+			"y": 648,
+			"scale": [
+				1.5,
+				1.5
+			],
+			"image": "p2/shade",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "shade1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 825,
+			"blend": "normal",
+			"y": 760,
+			"scale": [
+				1,
+				1
+			],
+			"image": "p2/shade",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "shade0",
+			"antialiasing": true,
+			"flipY": true,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -2584,
+			"blend": "normal",
+			"y": -848,
+			"scale": [
+				2,
+				2
+			],
+			"image": "p2/dark",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "dark",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0.5,
+			"type": "sprite"
+		}
+	],
+	"opponent": [
+		-271,
+		139
+	],
+	"directory": "exe",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

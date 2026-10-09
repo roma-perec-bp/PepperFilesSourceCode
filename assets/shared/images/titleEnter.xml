@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="titleEnter.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ENTER FREEZE0000" x="10" y="125" width="761" height="105"/>
+	<SubTexture name="ENTER IDLE0000" x="10" y="125" width="761" height="105"/>
+	<SubTexture name="ENTER PRESSED0000" x="10" y="10" width="761" height="105"/>
+	<SubTexture name="ENTER PRESSED0001" x="10" y="125" width="761" height="105"/>
+</TextureAtlas>

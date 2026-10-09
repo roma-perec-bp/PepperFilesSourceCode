@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LORK_TRANS.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lork_trans0000" x="822" y="1272" width="292" height="619" frameX="-169" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0001" x="969" y="643" width="445" height="619" frameX="-190" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0002" x="969" y="643" width="445" height="619" frameX="-190" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0003" x="491" y="639" width="468" height="619" frameX="-185" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0004" x="491" y="639" width="468" height="619" frameX="-185" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0005" x="1055" y="10" width="476" height="623" frameX="-188" frameY="0" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0006" x="1055" y="10" width="476" height="623" frameX="-188" frameY="0" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0007" x="435" y="1268" width="377" height="619" frameX="-179" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0008" x="10" y="639" width="471" height="619" frameX="-29" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0009" x="10" y="639" width="471" height="619" frameX="-29" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0010" x="540" y="10" width="505" height="619" frameX="-16" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0011" x="540" y="10" width="505" height="619" frameX="-16" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0012" x="10" y="10" width="520" height="619" frameX="0" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0013" x="10" y="10" width="520" height="619" frameX="0" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0014" x="10" y="1268" width="415" height="619" frameX="-105" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0015" x="10" y="1268" width="415" height="619" frameX="-105" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0016" x="10" y="1268" width="415" height="619" frameX="-105" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0017" x="10" y="1268" width="415" height="619" frameX="-105" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0018" x="10" y="1268" width="415" height="619" frameX="-105" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0019" x="10" y="1268" width="415" height="619" frameX="-105" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0020" x="10" y="1268" width="415" height="619" frameX="-105" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0021" x="10" y="1268" width="415" height="619" frameX="-105" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0022" x="10" y="1268" width="415" height="619" frameX="-105" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0023" x="10" y="1268" width="415" height="619" frameX="-105" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0024" x="10" y="1268" width="415" height="619" frameX="-105" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0025" x="10" y="1268" width="415" height="619" frameX="-105" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0026" x="10" y="1268" width="415" height="619" frameX="-105" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0027" x="10" y="1268" width="415" height="619" frameX="-105" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="lork_trans0028" x="10" y="1268" width="415" height="619" frameX="-105" frameY="-4" frameWidth="664" frameHeight="623"/>
+	<SubTexture name="static_lork0000" x="1124" y="1272" width="291" height="619"/>
+</TextureAtlas>

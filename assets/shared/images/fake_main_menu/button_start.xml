@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="button_start.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="buttom_start_default0000" x="377" y="196" width="334" height="167"/>
+	<SubTexture name="buttom_start_default0001" x="377" y="196" width="334" height="167"/>
+	<SubTexture name="buttom_start_default0002" x="377" y="196" width="334" height="167"/>
+	<SubTexture name="buttom_start_default0003" x="377" y="196" width="334" height="167"/>
+	<SubTexture name="buttom_start_default0004" x="377" y="196" width="334" height="167"/>
+	<SubTexture name="buttom_start_default0005" x="377" y="373" width="333" height="164" frameX="-1" frameY="0" frameWidth="334" frameHeight="167" rotated="false"/>
+	<SubTexture name="buttom_start_default0006" x="377" y="373" width="333" height="164" frameX="-1" frameY="0" frameWidth="334" frameHeight="167" rotated="false"/>
+	<SubTexture name="buttom_start_default0007" x="377" y="373" width="333" height="164" frameX="-1" frameY="0" frameWidth="334" frameHeight="167" rotated="false"/>
+	<SubTexture name="buttom_start_default0008" x="377" y="373" width="333" height="164" frameX="-1" frameY="0" frameWidth="334" frameHeight="167" rotated="false"/>
+	<SubTexture name="buttom_start_default0009" x="377" y="373" width="333" height="164" frameX="-1" frameY="0" frameWidth="334" frameHeight="167" rotated="false"/>
+	<SubTexture name="buttom_start_default0010" x="10" y="382" width="332" height="160" frameX="-2" frameY="-2" frameWidth="334" frameHeight="167" rotated="false"/>
+	<SubTexture name="buttom_start_default0011" x="10" y="382" width="332" height="160" frameX="-2" frameY="-2" frameWidth="334" frameHeight="167" rotated="false"/>
+	<SubTexture name="buttom_start_default0012" x="10" y="382" width="332" height="160" frameX="-2" frameY="-2" frameWidth="334" frameHeight="167" rotated="false"/>
+	<SubTexture name="buttom_start_default0013" x="10" y="382" width="332" height="160" frameX="-2" frameY="-2" frameWidth="334" frameHeight="167" rotated="false"/>
+	<SubTexture name="buttom_start_default0014" x="10" y="382" width="332" height="160" frameX="-2" frameY="-2" frameWidth="334" frameHeight="167" rotated="false"/>
+	<SubTexture name="buttom_start_selected0000" x="10" y="10" width="357" height="176"/>
+	<SubTexture name="buttom_start_selected0001" x="10" y="10" width="357" height="176"/>
+	<SubTexture name="buttom_start_selected0002" x="377" y="10" width="357" height="176"/>
+	<SubTexture name="buttom_start_selected0003" x="377" y="10" width="357" height="176"/>
+	<SubTexture name="buttom_start_selected0004" x="10" y="196" width="357" height="176"/>
+	<SubTexture name="buttom_start_selected0005" x="10" y="196" width="357" height="176"/>
+</TextureAtlas>

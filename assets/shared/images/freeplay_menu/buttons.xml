@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buttons.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="butt_default0000" x="81" y="10" width="56" height="212"/>
+	<SubTexture name="butt_pressed0000" x="147" y="10" width="38" height="144" frameX="-11" frameY="-43" frameWidth="61" frameHeight="230"/>
+	<SubTexture name="butt_pressed0001" x="10" y="10" width="61" height="230"/>
+	<SubTexture name="butt_pressed0002" x="10" y="10" width="61" height="230"/>
+</TextureAtlas>

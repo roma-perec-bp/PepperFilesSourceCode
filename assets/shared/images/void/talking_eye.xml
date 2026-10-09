@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="talking_eye.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="640" y="357" width="620" height="254"/>
+	<SubTexture name="default0000" x="10" y="357" width="620" height="337"/>
+	<SubTexture name="frown0000" x="1270" y="357" width="620" height="242"/>
+	<SubTexture name="happy0000" x="1270" y="609" width="620" height="232"/>
+	<SubTexture name="kill0000" x="1270" y="10" width="620" height="337"/>
+	<SubTexture name="left0000" x="10" y="10" width="620" height="337"/>
+	<SubTexture name="look0000" x="640" y="10" width="620" height="337"/>
+	<SubTexture name="sad0000" x="640" y="621" width="620" height="219"/>
+</TextureAtlas>

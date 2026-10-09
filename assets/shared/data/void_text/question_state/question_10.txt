@@ -1,0 +1,7 @@
+:look:normal:Хм....
+:left:normal:Эээ...
+:default:normal:Код
+:default:normal:Нули и единички
+:left:normal:Материя которая людям неизвестна 
+:default:normal:Я сам не знаю!
+:kill:normal:Это странно

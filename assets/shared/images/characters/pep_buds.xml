@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pep_buds.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down-pep0000" x="10" y="10" width="279" height="518" frameX="0" frameY="-26" frameWidth="279" frameHeight="544"/>
+	<SubTexture name="down-pep0001" x="10" y="10" width="279" height="518" frameX="0" frameY="-26" frameWidth="279" frameHeight="544"/>
+	<SubTexture name="down-pep0002" x="267" y="594" width="263" height="533" frameX="-8" frameY="0" frameWidth="279" frameHeight="544"/>
+	<SubTexture name="down-pep0003" x="267" y="594" width="263" height="533" frameX="-8" frameY="0" frameWidth="279" frameHeight="544"/>
+	<SubTexture name="down-pep0004" x="267" y="594" width="263" height="533" frameX="-8" frameY="0" frameWidth="279" frameHeight="544"/>
+	<SubTexture name="down-pep0005" x="267" y="594" width="263" height="533" frameX="-8" frameY="0" frameWidth="279" frameHeight="544"/>
+	<SubTexture name="down-pep0006" x="267" y="594" width="263" height="533" frameX="-8" frameY="0" frameWidth="279" frameHeight="544"/>
+	<SubTexture name="down-pep0007" x="267" y="594" width="263" height="533" frameX="-8" frameY="0" frameWidth="279" frameHeight="544"/>
+	<SubTexture name="down-pep0008" x="267" y="594" width="263" height="533" frameX="-8" frameY="0" frameWidth="279" frameHeight="544"/>
+	<SubTexture name="down-pep0009" x="267" y="594" width="263" height="533" frameX="-8" frameY="0" frameWidth="279" frameHeight="544"/>
+	<SubTexture name="down-pep0010" x="267" y="594" width="263" height="533" frameX="-8" frameY="0" frameWidth="279" frameHeight="544"/>
+	<SubTexture name="down-pep0011" x="267" y="594" width="263" height="533" frameX="-8" frameY="0" frameWidth="279" frameHeight="544"/>
+	<SubTexture name="down-pep0012" x="267" y="594" width="263" height="533" frameX="-8" frameY="0" frameWidth="279" frameHeight="544"/>
+	<SubTexture name="down-pep0013" x="267" y="594" width="263" height="533" frameX="-8" frameY="0" frameWidth="279" frameHeight="544"/>
+	<SubTexture name="down-pep0014" x="267" y="594" width="263" height="533" frameX="-8" frameY="0" frameWidth="279" frameHeight="544"/>
+	<SubTexture name="idle-pep0000" x="299" y="10" width="247" height="574"/>
+	<SubTexture name="idle-pep0001" x="299" y="10" width="247" height="574"/>
+	<SubTexture name="idle-pep0002" x="10" y="538" width="247" height="574"/>
+	<SubTexture name="idle-pep0003" x="10" y="538" width="247" height="574"/>
+	<SubTexture name="idle-pep0004" x="556" y="10" width="247" height="574"/>
+	<SubTexture name="idle-pep0005" x="556" y="10" width="247" height="574"/>
+	<SubTexture name="left-pep0000" x="968" y="664" width="235" height="525" frameX="0" frameY="-30" frameWidth="249" frameHeight="556"/>
+	<SubTexture name="left-pep0001" x="968" y="664" width="235" height="525" frameX="0" frameY="-30" frameWidth="249" frameHeight="556"/>
+	<SubTexture name="left-pep0002" x="1213" y="645" width="217" height="556" frameX="-32" frameY="0" frameWidth="249" frameHeight="556"/>
+	<SubTexture name="left-pep0003" x="1213" y="645" width="217" height="556" frameX="-32" frameY="0" frameWidth="249" frameHeight="556"/>
+	<SubTexture name="left-pep0004" x="1213" y="645" width="217" height="556" frameX="-32" frameY="0" frameWidth="249" frameHeight="556"/>
+	<SubTexture name="left-pep0005" x="1213" y="645" width="217" height="556" frameX="-32" frameY="0" frameWidth="249" frameHeight="556"/>
+	<SubTexture name="left-pep0006" x="1213" y="645" width="217" height="556" frameX="-32" frameY="0" frameWidth="249" frameHeight="556"/>
+	<SubTexture name="left-pep0007" x="1213" y="645" width="217" height="556" frameX="-32" frameY="0" frameWidth="249" frameHeight="556"/>
+	<SubTexture name="left-pep0008" x="1213" y="645" width="217" height="556" frameX="-32" frameY="0" frameWidth="249" frameHeight="556"/>
+	<SubTexture name="left-pep0009" x="1213" y="645" width="217" height="556" frameX="-32" frameY="0" frameWidth="249" frameHeight="556"/>
+	<SubTexture name="left-pep0010" x="1213" y="645" width="217" height="556" frameX="-32" frameY="0" frameWidth="249" frameHeight="556"/>
+	<SubTexture name="left-pep0011" x="1213" y="645" width="217" height="556" frameX="-32" frameY="0" frameWidth="249" frameHeight="556"/>
+	<SubTexture name="left-pep0012" x="1213" y="645" width="217" height="556" frameX="-32" frameY="0" frameWidth="249" frameHeight="556"/>
+	<SubTexture name="left-pep0013" x="1213" y="645" width="217" height="556" frameX="-32" frameY="0" frameWidth="249" frameHeight="556"/>
+	<SubTexture name="left-pep0014" x="1213" y="645" width="217" height="556" frameX="-32" frameY="0" frameWidth="249" frameHeight="556"/>
+	<SubTexture name="right-pep0000" x="1042" y="10" width="196" height="625" frameX="-22" frameY="0" frameWidth="218" frameHeight="625"/>
+	<SubTexture name="right-pep0001" x="1042" y="10" width="196" height="625" frameX="-22" frameY="0" frameWidth="218" frameHeight="625"/>
+	<SubTexture name="right-pep0002" x="751" y="664" width="207" height="607" frameX="0" frameY="-14" frameWidth="218" frameHeight="625"/>
+	<SubTexture name="right-pep0003" x="751" y="664" width="207" height="607" frameX="0" frameY="-14" frameWidth="218" frameHeight="625"/>
+	<SubTexture name="right-pep0004" x="751" y="664" width="207" height="607" frameX="0" frameY="-14" frameWidth="218" frameHeight="625"/>
+	<SubTexture name="right-pep0005" x="751" y="664" width="207" height="607" frameX="0" frameY="-14" frameWidth="218" frameHeight="625"/>
+	<SubTexture name="right-pep0006" x="751" y="664" width="207" height="607" frameX="0" frameY="-14" frameWidth="218" frameHeight="625"/>
+	<SubTexture name="right-pep0007" x="751" y="664" width="207" height="607" frameX="0" frameY="-14" frameWidth="218" frameHeight="625"/>
+	<SubTexture name="right-pep0008" x="751" y="664" width="207" height="607" frameX="0" frameY="-14" frameWidth="218" frameHeight="625"/>
+	<SubTexture name="right-pep0009" x="751" y="664" width="207" height="607" frameX="0" frameY="-14" frameWidth="218" frameHeight="625"/>
+	<SubTexture name="right-pep0010" x="751" y="664" width="207" height="607" frameX="0" frameY="-14" frameWidth="218" frameHeight="625"/>
+	<SubTexture name="right-pep0011" x="751" y="664" width="207" height="607" frameX="0" frameY="-14" frameWidth="218" frameHeight="625"/>
+	<SubTexture name="right-pep0012" x="751" y="664" width="207" height="607" frameX="0" frameY="-14" frameWidth="218" frameHeight="625"/>
+	<SubTexture name="right-pep0013" x="751" y="664" width="207" height="607" frameX="0" frameY="-14" frameWidth="218" frameHeight="625"/>
+	<SubTexture name="right-pep0014" x="751" y="664" width="207" height="607" frameX="0" frameY="-14" frameWidth="218" frameHeight="625"/>
+	<SubTexture name="up-pep0000" x="540" y="594" width="201" height="643" frameX="-10" frameY="0" frameWidth="219" frameHeight="657"/>
+	<SubTexture name="up-pep0001" x="540" y="594" width="201" height="643" frameX="-10" frameY="0" frameWidth="219" frameHeight="657"/>
+	<SubTexture name="up-pep0002" x="813" y="10" width="219" height="644" frameX="0" frameY="-13" frameWidth="219" frameHeight="657"/>
+	<SubTexture name="up-pep0003" x="813" y="10" width="219" height="644" frameX="0" frameY="-13" frameWidth="219" frameHeight="657"/>
+	<SubTexture name="up-pep0004" x="813" y="10" width="219" height="644" frameX="0" frameY="-13" frameWidth="219" frameHeight="657"/>
+	<SubTexture name="up-pep0005" x="813" y="10" width="219" height="644" frameX="0" frameY="-13" frameWidth="219" frameHeight="657"/>
+	<SubTexture name="up-pep0006" x="813" y="10" width="219" height="644" frameX="0" frameY="-13" frameWidth="219" frameHeight="657"/>
+	<SubTexture name="up-pep0007" x="813" y="10" width="219" height="644" frameX="0" frameY="-13" frameWidth="219" frameHeight="657"/>
+	<SubTexture name="up-pep0008" x="813" y="10" width="219" height="644" frameX="0" frameY="-13" frameWidth="219" frameHeight="657"/>
+	<SubTexture name="up-pep0009" x="813" y="10" width="219" height="644" frameX="0" frameY="-13" frameWidth="219" frameHeight="657"/>
+	<SubTexture name="up-pep0010" x="813" y="10" width="219" height="644" frameX="0" frameY="-13" frameWidth="219" frameHeight="657"/>
+	<SubTexture name="up-pep0011" x="813" y="10" width="219" height="644" frameX="0" frameY="-13" frameWidth="219" frameHeight="657"/>
+	<SubTexture name="up-pep0012" x="813" y="10" width="219" height="644" frameX="0" frameY="-13" frameWidth="219" frameHeight="657"/>
+	<SubTexture name="up-pep0013" x="813" y="10" width="219" height="644" frameX="0" frameY="-13" frameWidth="219" frameHeight="657"/>
+	<SubTexture name="up-pep0014" x="813" y="10" width="219" height="644" frameX="0" frameY="-13" frameWidth="219" frameHeight="657"/>
+</TextureAtlas>

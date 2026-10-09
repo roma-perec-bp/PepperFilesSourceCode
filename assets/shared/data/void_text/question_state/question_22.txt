@@ -1,0 +1,6 @@
+:left:normal:Фнф игрушка неплохая, концепт неплохой
+:default:normal:Но я нашел игру получше!
+:default:normal:Слышал об игре DOOM?
+:default:normal:Такая прикольная штучка
+:happy:normal:Тебе стоит в неё сыграть!
+:happy:normal:Игра адская, буквально!

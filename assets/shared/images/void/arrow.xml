@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arrow.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="button0000" x="10" y="10" width="62" height="185"/>
+	<SubTexture name="press0000" x="82" y="10" width="54" height="161"/>
+</TextureAtlas>

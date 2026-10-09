@@ -1,0 +1,31 @@
+{
+	"directory": "bf_mix",
+	"defaultZoom": 0.5,
+	"stageUI": "bp",
+
+	"boyfriend": [1750, 400],
+	"girlfriend": [850, 340],
+	"opponent": [300, 450],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [-250, -160],
+	"camera_opponent": [0, -20],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1,
+
+	"preload": {
+		"images/darkerVG": 3,
+		"images/screenstatic": 3,
+		"images/shade": 3,
+
+		"images/roofexe/darkness": 3,
+		"images/roofexe/day": 3,
+		"images/roofexe/funny": 3,
+		"images/roofexe/hell": 3,
+		"images/roofexe/home": 3,
+		"images/roofexe/RedVG": 3,
+		"images/roofexe/sky": 3,
+		"images/roofexe/smoke": 3,
+		"images/roofexe/Starman_BG_Fire_Assets": 3
+	}
+}

@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle0",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [348, 2],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [45, -152],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [28, 328],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [-73, -8],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 42,
+			"flipX": false,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "idle"
+		},
+		{
+			"offsets": [80, -40],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singLEFT-old",
+			"loop": false,
+			"name": "left-old"
+		},
+		{
+			"offsets": [-30, -240],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singDOWN-old",
+			"loop": false,
+			"name": "down-old"
+		},
+		{
+			"offsets": [-100, 260],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singUP-old",
+			"loop": false,
+			"name": "up-old"
+		},
+		{
+			"offsets": [-110, -30],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singRIGHT-old",
+			"loop": false,
+			"name": "right-old"
+		},
+		{
+			"offsets": [80, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singLEFT-boner",
+			"loop": false,
+			"name": "left-boner"
+		},
+		{
+			"offsets": [-20, -200],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singDOWN-boner",
+			"loop": false,
+			"name": "down-boner"
+		},
+		{
+			"offsets": [0, 160],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singUP-boner",
+			"loop": false,
+			"name": "up-boner"
+		},
+		{
+			"offsets": [-100, -10],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singRIGHT-boner",
+			"loop": false,
+			"name": "right-boner"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"iconScale": 1,
+	"image": "characters/jackson_v2, characters/jacksonReal, characters/michael",
+	"opponentArrows": [
+		["0xFF000000", "0xFFFFFFFF", "0xFF006600"],
+		["0xFF000000", "0xFFFFFFFF", "0x001100"],
+		["0xFF000000", "0xFFFFFFFF", "0xFF00FF00"],
+		["0xFF000000", "0xFFFFFFFF", "0xFF004200"]
+	],
+	"position": [-10, 150],
+	"iconOffsets": [0, 0],
+	"iconBlend": null,
+	"healthicon": "jap",
+	"danceEvery": 2,
+	"iconFlipX": false,
+	"flip_x": false,
+	"iconFps24": 24,
+	"healthbar_colors": [192, 7, 10],
+	"camera_position": [-10, -40],
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,26 @@
+{
+	"directory": "pizdec",
+	"defaultZoom": 0.5,
+	"stageUI": "bp",
+
+	"boyfriend": [1750, 400],
+	"girlfriend": [850, 340],
+	"opponent": [300, 450],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [-250, -160],
+	"camera_opponent": [0, -20],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1,
+
+	"preload": {
+		"images/home": 3,
+		"images/sky": 3,
+		"images/lightning": 2,
+		"images/particle": 2,
+		"images/Starman_BG_Fire_Assets": 3,
+		"images/erect/bottomSmokeAdd": 2,
+		"images/erect/blueLight": 2,
+		"images/erect/houseLight": 2
+	}
+}

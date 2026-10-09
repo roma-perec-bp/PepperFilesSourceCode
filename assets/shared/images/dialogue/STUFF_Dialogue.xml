@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="STUFF_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf_dialogue0000" x="10" y="1503" width="400" height="407"/>
+	<SubTexture name="doomsday_xeno_dialogue0000" x="10" y="10" width="464" height="806"/>
+	<SubTexture name="exe_dialogue0000" x="484" y="10" width="354" height="690"/>
+	<SubTexture name="gf_dialouge0000" x="420" y="1503" width="292" height="409"/>
+	<SubTexture name="xeno_dialogue0000" x="10" y="826" width="472" height="667"/>
+	<SubTexture name="xeno_mad_dialogue0000" x="492" y="710" width="321" height="747"/>
+</TextureAtlas>

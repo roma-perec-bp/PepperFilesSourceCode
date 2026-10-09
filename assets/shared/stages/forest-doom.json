@@ -1,0 +1,351 @@
+{
+	"camera_boyfriend": [
+		-150,
+		-50
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "pep-stage",
+		"dad": "doomsday_peper"
+	},
+	"preload": {
+		"images/p2/staticBACKGROUND2": 3,
+		"images/p2/scene_1": 3,
+		"images/p2/trees_broke": 3,
+		"images/p2/scene_2": 3,
+		"images/p2/overlay": 2,
+		"images/p2/dark": 2,
+		"images/p2/guy": 3,
+		"images/p2/ground": 3,
+		"images/p2/trees": 3,
+		"images/p2/shade": 2
+	},
+	"girlfriend": [
+		191,
+		124
+	],
+	"stageUI": "",
+	"boyfriend": [
+		891,
+		188
+	],
+	"defaultZoom": 0.75,
+	"objects": [
+		{
+			"x": -1377,
+			"blend": "normal",
+			"y": -1455,
+			"scale": [
+				3,
+				3
+			],
+			"image": "p2/staticBACKGROUND2",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "bg",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"loop": true,
+					"fps": 24,
+					"anim": "idle",
+					"flipX": false,
+					"indices": [],
+					"name": "menuSTATICNEW instance 1"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -1394,
+			"blend": "normal",
+			"y": -705,
+			"scale": [
+				2,
+				2
+			],
+			"image": "p2/trees",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "tree",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.8,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1394,
+			"blend": "normal",
+			"y": -705,
+			"scale": [
+				2,
+				2
+			],
+			"image": "p2/trees_broke",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "tree_destroyed",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.8,
+				0.8
+			],
+			"alpha": 0.0001,
+			"type": "sprite"
+		},
+		{
+			"x": -1487,
+			"blend": "normal",
+			"y": 553,
+			"scale": [
+				2,
+				2
+			],
+			"image": "p2/ground",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "floor",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -483,
+			"blend": "normal",
+			"y": 648,
+			"scale": [
+				1.5,
+				1.5
+			],
+			"image": "p2/shade",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "shade1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 825,
+			"blend": "normal",
+			"y": 760,
+			"scale": [
+				1,
+				1
+			],
+			"image": "p2/shade",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "shade0",
+			"antialiasing": true,
+			"flipY": true,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1968,
+			"blend": "normal",
+			"y": -1041,
+			"scale": [
+				1,
+				1
+			],
+			"image": "p2/scene_1",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "stage1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0,
+			"type": "sprite"
+		},
+		{
+			"x": -1981,
+			"blend": "normal",
+			"y": -1059,
+			"scale": [
+				1,
+				1
+			],
+			"image": "p2/scene_2",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "stage2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0,
+			"type": "sprite"
+		},
+		{
+			"x": 161,
+			"blend": "normal",
+			"y": 210,
+			"scale": [
+				1,
+				1
+			],
+			"image": "p2/guy",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "guy",
+			"firstAnimation": "sitting",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0,
+			"animations": [
+				{
+					"loop": false,
+					"offsets": [
+						15,
+						221
+					],
+					"anim": "look",
+					"fps": 24,
+					"name": "look",
+					"indices": [],
+					"flipX": false
+				},
+				{
+					"loop": true,
+					"offsets": [
+						0,
+						0
+					],
+					"anim": "sitting",
+					"fps": 24,
+					"name": "sitting",
+					"indices": [],
+					"flipX": false
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -2584,
+			"blend": "normal",
+			"y": -848,
+			"scale": [
+				2,
+				2
+			],
+			"image": "p2/dark",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "dark",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0.8,
+			"type": "sprite"
+		},
+		{
+			"x": -2068,
+			"blend": "add",
+			"y": -2618,
+			"scale": [
+				2,
+				2
+			],
+			"image": "p2/overlay",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "overlay",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 0.0001,
+			"type": "sprite"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		-50
+	],
+	"camera_speed": 1,
+	"directory": "exe",
+	"opponent": [
+		-271,
+		139
+	],
+	"camera_opponent": [
+		0,
+		-50
+	],
+	"hide_girlfriend": false
+}

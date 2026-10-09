@@ -1,0 +1,242 @@
+{
+    "entries": [
+      {
+        "header": "FNF: Pepper's Files",
+        "body": [
+          { "line": "Made By Ogre Crew" },
+          { "line": "Made in Gold Funk, Godot, Nightmare Vision, PE 0.6.3 & V-Slice" }
+        ]
+      },
+      {
+        "header": "Creator and director",
+        "body": [
+          { "line": "ROMA PEREC" }
+        ]
+      },
+      {
+        "header": "Software used",
+        "body": [
+          { "line": "HaxeFlixel" },
+          { "line": "Adobe Animate" },
+          { "line": "Better Texture Atlas" },
+          { "line": "Flash CS4" },
+          { "line": "Blender" },
+          { "line": "Godot Engine" },
+          { "line": "Sony Vegas" },
+          { "line": "Wondershare Filmora" },
+          { "line": "IbisPaint" },
+          { "line": "FL studio 25" },
+          { "line": "Audacity" },
+          { "line": "Visual Studio Code" },
+          { "line": "GIMP" },
+          { "line": "Adobe Photoshop" },
+          { "line": "Aseprite" }
+        ]
+      },
+      {
+        "header": "Main Cast",
+        "body": [
+          { "line": "All Pepper's VA, Main Artist, Coding, Main Charter, Main Animator, Sound Designer, Main Covermaker and Musician: ROMA PEREC" },
+          { "line": "Most of the BP Assets: BP Team & BP DLC Team" },
+          { "line": "Funkin Libraries: FunkinCrew" },
+          { "line": "Most of the parts of Gold Funk: Shadow Mario" },
+          { "line": "OST Art and Second Banner: KateWTF" },
+          { "line": "Most of the Psych Fixes: MeguminBOT AKA. Lulu" },
+          { "line": "Week Banners: Raldman" },
+          { "line": "Loading Screen Arts: C1tr4m0n, k4tyaww, Toster, Agent In Blue, Hedgehog_gamer, Christmas_tree23" }
+        ]
+      },
+      {
+        "header": "WEEK P 2 Cast:",
+        "body": [
+          { "line": "Roof Background art: Naitnich" },
+          { "line": "Zombie Pepper's Sprites: ZarX" },
+          { "line": "Zombie Pepper's icon: UrSus" },
+          { "line": "Zombie Pepper VA: ROMA PEREC" },
+          { "line": "Michael.json VA: Umbra" },
+          { "line": "BF Sprite from: Mario Madness" },
+          { "line": "Mos Thoser song: Food House" },
+          { "line": "Too Far Gone song: Disharmonie" },
+          { "line": "Default BP Logo: ioika" },
+          { "line": "Fog Assets: FunkinCrew" },
+          { "line": "Fire Asset: PVZ Team" }
+        ]
+      },
+      {
+        "header": "PEREC.HUI Cast:",
+        "body": [
+          { "line": "Render Arts: C1tr4m0n" },
+          { "line": "YOU Va: Boyfriend Chromatic" },
+          { "line": "KATE Va: KateWTF Chromatic" },
+          { "line": "ROM Va: ROMA PEREC Chromatic" },
+          { "line": "Most of the sounds: Undertale, DOOM 1-2, ZvukiPro" },
+          { "line": "Most of the texture: Stock Google Images" },
+          { "line": "Most of the BP Assets: Legumi, mister kirpi4, Ioika" }
+        ]
+      },
+      {
+        "header": "WEEK P (BF MIX) Cast:",
+        "body": [
+          { "line": "With Cone song: Rostan" },
+          { "line": "Obituary song: JammyFlavor & Sturm/Churgney Gurgney" },
+          { "line": "Triple Trouble song: Juno & punkett & MarStarBro" },
+          { "line": "All Stars song: KennyL & scrumbo_ & antinarious & TheOneWhoShallNotBeNamed & theWAHbox & RedTv53" },
+          { "line": "BF Sprite from: Mario Madness, Sonic Legacy & Vs Sonic.exe" },
+          { "line": "HWAW Sprites and Grave Asset: Poet Digitalniy" },
+          { "line": "RandomShorts Sprites: mister kirpi4" },
+          { "line": "Lork Sprites: Legumi" }
+        ]
+      },
+      {
+        "header": "WEEK EXE Cast:",
+        "body": [
+          { "line": "Too Slow (Encore) song: MarStarBro & Saster" },
+          { "line": "You Can't Run (Encore) song: SimplyCrispy, Saster, MarStarBro, & KGBepis" },
+          { "line": "Doomsday song: Vruzzzen" },
+          { "line": "BF Sprite by: ZERO_ANIMATIONS" },
+          { "line": "Running BF Sprite by: Motorfrog Team" },
+          { "line": "Backgrounds Assets by: Agent In Blue" },
+          { "line": "Render Arts by: k4tyaww" },
+          { "line": "Custom NoteKinds from: Vs Sonic.exe" },
+          { "line": "Dialogue Code: Vs Shaggy" },
+          { "line": "Intro Dialogue Song: High piano cover by Hundrec" },
+          { "line": "BF Pixel Assets: DDTO team & Motorfrog team" },
+          { "line": "Void Room Theme: MryMaster AKA.Drem4iks AKA.Pelmen feat.ROMA PEREC" }
+        ]
+      },
+      {
+        "header": "BP V6 Cast:",
+        "body": [
+          { "line": "Main Charter, Main ChromaticMaker, Covermaker & Peashooter VA: Hedgehog Gamer" },
+          { "line": "Main Artist, Render Arts & Squash VA: Badtime" },
+          { "line": "Main Icon, Background Artist & Zombie With Jack Box VA: Agent in Blue" },
+          { "line": "Squash Charter: Badtime" },
+          { "line": "BRUTAL PIZDEC Song Charters: ROMA PEREC & Hedgehog Gamer & BadTime" },
+          { "line": "Scam, 666, Ambiguity & Grounded song: sibottle" },
+          { "line": "Pepper Week recharts: ROMA PEREC & Hedgehog Gamer" },
+          { "line": "Original BP DEMO: BP DEMO team" }
+        ]
+      },
+      {
+        "header": "BP Wokeless Edition Cast:",
+        "body": [
+          { "line": "Nightmare Vision by: DuskieWhy" },
+          { "line": "BOOM (BF Mix) song: Stif" },
+          { "line": "Week P stage shades and lights: Stif" },
+          { "line": "Inspiration for Untitled song: VS HWAW Mod" },
+          { "line": "Untitled Background Asset and Discovery jumpscare flash: Raldman" },
+          { "line": "BF Sprite from: Basement Show" },
+          { "line": "BF Ourple Sprite from: Vs Ourple Guy" },
+          { "line": "Discovery slight inspiration: Lore D-sides song" },
+          { "line": "Overfire (BF Mix) inspiration: Underground song" }
+        ]
+      },
+      {
+        "header": "Pepper's Case Cast:",
+        "body": [
+          { "line": "Level 6 ending flashes: Raldman" },
+          { "line": "Render Arts by: Agent In Blue" }
+        ]
+      },
+      {
+        "header": "Finale Cast",
+        "body": [
+          { "line": "Followed song: Blackberri & Headdzo & kiwiquest" },
+          { "line": "Hell Valley Erect song: Ame, FrikkoFrik" },
+          { "line": "Buds And Bluds song: niffirg" },
+          { "line": "Last Stand Opponents: BP and BP DLC Sprites by Artist Team" },
+          { "line": "BF Sprite by: PhantomArcade (Edit by: SPG64 and Ashley" },
+          { "line": "Hell Valley Particle code: HaxeFlixel particle code example" },
+          { "line": "Hell Valley Background Asset: BP DEMO Artist team" },
+          { "line": "Fire In Games Are Over song: Indie Cross Team" },
+          { "line": "Transparent Window code: DuskieWhy" },
+          { "line": "Notification code: mr_chaoss" }
+        ]
+      },
+      {
+        "header": "Misc",
+        "body": [
+          { "line": "Splash Hold Notes Code: PumpSuki & DuskieWhy" },
+          { "line": "Classic BF Alt poses by Legooey and also from Funkin Remnants" },
+          { "line": "Pixel BF In Triple Trouble from: Hypno Lullaby v2 Cancelled Build" },
+          { "line": "Abandoned BF For BF MM Skin in Triple Trouble from: Mario Madness" },
+          { "line": "Hell Valley BF For BF Redrawn Skin in Triple Trouble from: Funkin Mario Galaxy" },
+          { "line": "INDIE CROSS BF By: Indie Cross Team" },
+          { "line": "Demise BF for Too Fire MM BF Skin from: Mario Madness" },
+          { "line": "Minus BF Skins by: Minus Team " },
+          { "line": "BF BadTime Skin by: BadTime " },
+          { "line": "Oneshot BF Skin by: Oneshot Team " },
+          { "line": "3D BF Skin from: Dave & Bambi " },
+          { "line": "Encore BF by: Sonic.exe team " },
+          { "line": "Bad BF By: Chocolatte with a side of milk" },
+          { "line": "Skip Feature by: KadeDev " },
+          { "line": "Frozen Hold Animation: Rodney " },
+          { "line": "Most of the video effects presets: SugarMoon " },
+          { "line": "It's Time To Drink Water: ROMA PEREC & IrisBunny" },
+          { "line": "Ogre Crew HD Logo: Dionysus" }
+        ]
+      },
+      {
+        "header": "Beta Testers",
+        "body": [
+          { "line": "Umbra" },
+          { "line": "Unknown" },
+          { "line": "Hedgehog Gamer" },
+          { "line": "BadTime" },
+          { "line": "gmd glzfmann" },
+          { "line": "Raldman" }
+        ]
+      },
+      {
+        "header": "Special Thanks (And People who i wanna mention here)",
+        "body": [
+          { "line": "MryMaster AKA.Drem4iks AKA.Pelmen" },
+          { "line": "Umbra" },
+          { "line": "C1tr4m0n"},
+          { "line": "Willy Willowson" },
+          { "line": "Christmas_tree23" },
+          { "line": "Samolet" },
+          { "line": "MrVandek" },
+          { "line": "Ioika" },
+          { "line": "ZarX" },
+          { "line": "M4rio_Lol" },
+          { "line": "Poet_Digitalniy" },
+          { "line": "Danill (Miieeii)" },
+          { "line": "Random Short" },
+          { "line": "How What And Why" },
+          { "line": "Rostan" },
+          { "line": "N" },
+          { "line": "HIGH STAR FRUIT YES YES" },
+          { "line": "SK64" },
+          { "line": "ElectroPea" },
+          { "line": "Mlaofmd" },
+          { "line": "Dionysus" },
+          { "line": "Rasul" },
+          { "line": "Kate Wtf" },
+          { "line": "Felix_14" },
+          { "line": "Nert_ez" },
+          { "line": "Hedgehog Gamer" },
+          { "line": "IrisBunny" },
+          { "line": "Raldman" },
+          { "line": "Toster" },
+          { "line": "Rinolit" },
+          { "line": "Applemman" },
+          { "line": "Stif" },
+          { "line": "Agent In Blue" },
+          { "line": "gmd glzfmann" },
+          { "line": "Badtime1207" },
+          { "line": "GlebDX" },
+          { "line": "glavnifanatlexibeybleydera" },
+          { "line": "PigParappa" },
+          { "line": "Okroshka Kartoshka" },
+          { "line": "Kay_jey" },
+          { "line": "k4tyaww" },
+          { "line": "Aleg 黑人" },
+          { "line": "alexey79709" },
+          { "line": "Most of the Funkin Contributors ppl" },
+          { "line": "Funkin Crew" }
+        ]
+      }
+  
+    ]
+  }

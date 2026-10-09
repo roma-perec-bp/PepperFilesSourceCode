@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "lyrics",
+			"fps": 24,
+			"name": "lyrics",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "final",
+			"fps": 24,
+			"name": "final",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"iconScale": 1,
+	"image": "characters/HUI_FRONT",
+	"opponentArrows": [
+		["0xFF000000", "0xFFFFFFFF", "0xFFC24B99"],
+		["0xFF000000", "0xFFFFFFFF", "0xFF00FFFF"],
+		["0xFF000000", "0xFFFFFFFF", "0xFF12FA05"],
+		["0xFF000000", "0xFFFFFFFF", "0xFFF9393F"]
+	],
+	"position": [0, -500],
+	"iconOffsets": [0, 10],
+	"iconBlend": "",
+	"healthicon": "death",
+	"danceEvery": 2,
+	"iconFlipX": false,
+	"flip_x": false,
+	"iconFps24": 24,
+	"healthbar_colors": [156, 0, 0],
+	"camera_position": [-260, 170],
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,185 @@
+package funkin.backend;
+
+import flixel.system.ui.FlxSoundTray;
+import openfl.display.Bitmap;
+import funkin.utils.MathUtil;
+
+import openfl.Assets;
+import openfl.Lib;
+import flixel.system.FlxAssets;
+import openfl.display.Bitmap;
+import openfl.display.BitmapData;
+
+/**
+ *  Extends the default flixel soundtray, but with some art
+ *  and lil polish!
+ *
+ *  Gets added to the game in Main.hx, right after FlxGame is new'd
+ *  since it's a Sprite rather than Flixel related object
+ */
+class FunkinSoundTrayBp extends FlxSoundTray
+{
+  var graphicScale:Float = 0.30;
+  var lerpYPos:Float = 0;
+  var alphaTarget:Float = 0;
+  var volumeMaxSound:String;
+
+  public function new()
+  {
+    // calls super, then removes all children to add our own
+    // graphics
+    super();
+    removeChildren();
+
+    var bg:Bitmap = new Bitmap(getImage("images/soundtray/volumebox_bp"));
+    bg.scaleX = graphicScale;
+    bg.scaleY = graphicScale;
+    bg.smoothing = true;
+    addChild(bg);
+
+    y = -height;
+    visible = false;
+
+    // makes an alpha'd version of all the bars (bar_10.png)
+    var backingBar:Bitmap = new Bitmap(getImage("images/soundtray/bars_10_bp"));
+    backingBar.x = 9;
+    backingBar.y = 5;
+    backingBar.scaleX = graphicScale;
+    backingBar.scaleY = graphicScale;
+    backingBar.smoothing = true;
+    addChild(backingBar);
+
+    backingBar.alpha = 0.4;
+
+    // clear the bars array entirely, it was initialized
+    // in the super class
+    _bars = [];
+
+    // 1...11 due to how block named the assets,
+    // we are trying to get assets bars_1-10
+    for (i in 1...11)
+    {
+      var bar:Bitmap = new Bitmap(getImage("images/soundtray/bars_" + i + "_bp"));
+      bar.x = 9;
+      bar.y = 5;
+      bar.scaleX = graphicScale;
+      bar.scaleY = graphicScale;
+      bar.smoothing = true;
+      addChild(bar);
+      _bars.push(bar);
+    }
+
+    screenCenter();
+    y = -height - 10;
+
+    volumeUpSound = "soundtray/Volup";
+    volumeDownSound = "soundtray/Voldown";
+    volumeMaxSound = "soundtray/VolMAX";
+  }
+
+  function getImage(path:String):Dynamic
+	{
+		final imagePath = Paths.getPath('$path.png', IMAGE);
+		#if MODS_ALLOWED
+		return BitmapData.fromFile(imagePath);
+		#end
+		return Assets.getBitmapData(imagePath);
+	}
+
+  function getSound(path):openfl.media.Sound
+	{
+		final key:String = 'soundtray/$path';
+		return Paths.returnSound('sounds/$key');
+	}
+
+  override public function update(ms:Float):Void
+  {
+    var elapsed = ms / 1000.0;
+
+    // If it has volume, we want to auto-hide after 1 second (1000ms), we simply decrement a timer
+    var hasVolume:Bool = (!FlxG.sound.muted && FlxG.sound.volume > 0);
+
+    if (hasVolume)
+    {
+      // Animate sound tray thing
+      if (_timer > 0)
+      {
+        _timer -= elapsed;
+        if (_timer <= 0)
+        {
+          lerpYPos = -height - 10;
+          alphaTarget = 0;
+        }
+      }
+      else if (y <= -height)
+      {
+        visible = false;
+        active = false;
+      }
+    }
+    else if (!visible)
+    {
+      showTray();
+    }
+
+    y = MathUtil.smoothLerpPrecision(y, lerpYPos, elapsed, 0.768);
+    alpha = MathUtil.smoothLerpPrecision(alpha, alphaTarget, elapsed, 0.307);
+    screenCenter();
+  }
+
+  override function showIncrement():Void
+  {
+    moveTrayMakeVisible(true);
+    saveVolumePreferences();
+  }
+
+  override function showDecrement():Void
+  {
+    moveTrayMakeVisible(false);
+    saveVolumePreferences();
+  }
+
+  function moveTrayMakeVisible(up:Bool = false):Void
+  {
+    showTray();
+
+    if (!silent)
+    {
+      // This is a String currently, but there is or was a Flixel PR to change this to a FlxSound or a Sound bject
+      var sound:Null<String> = FlxG.sound.volume == 1 ? volumeMaxSound : (up ? volumeUpSound : volumeDownSound);
+      if (sound != null) FlxG.sound.play(Paths.sound(sound));
+    }
+  }
+
+  function showTray():Void
+  {
+    _timer = 2;
+    lerpYPos = 10;
+    visible = true;
+    active = true;
+    alphaTarget = 1;
+
+    updateBars();
+  }
+
+  function updateBars():Void
+  {
+    var globalVolume:Int = FlxG.sound.muted || FlxG.sound.volume == 0 ? 0 : Math.round(FlxG.sound.logToLinear(FlxG.sound.volume) * 10);
+
+    for (i in 0..._bars.length) _bars[i].visible = i < globalVolume;
+  }
+
+  function saveVolumePreferences():Void
+  {
+    // Actually save when the volume is changed / modified
+    #if FLX_SAVE
+    // Save sound preferences
+    if (FlxG.save.isBound)
+    {
+      FlxG.save.data.mute = FlxG.sound.muted;
+      FlxG.save.data.volume = FlxG.sound.volume;
+      FlxG.save.flush();
+    }
+    #end
+  }
+}

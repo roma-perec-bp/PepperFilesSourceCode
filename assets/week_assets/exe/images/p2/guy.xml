@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="guy.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="look0000" x="10" y="2016" width="536" height="654" frameX="0" frameY="-337" frameWidth="536" frameHeight="1000"/>
+	<SubTexture name="look0001" x="10" y="2016" width="536" height="654" frameX="0" frameY="-337" frameWidth="536" frameHeight="1000"/>
+	<SubTexture name="look0002" x="10" y="1006" width="512" height="1000" frameX="-24" frameY="0" frameWidth="536" frameHeight="1000"/>
+	<SubTexture name="look0003" x="10" y="1006" width="512" height="1000" frameX="-24" frameY="0" frameWidth="536" frameHeight="1000"/>
+	<SubTexture name="look0004" x="541" y="10" width="518" height="984" frameX="-18" frameY="-10" frameWidth="536" frameHeight="1000"/>
+	<SubTexture name="look0005" x="541" y="10" width="518" height="984" frameX="-18" frameY="-10" frameWidth="536" frameHeight="1000"/>
+	<SubTexture name="look0006" x="10" y="10" width="521" height="986" frameX="-15" frameY="-10" frameWidth="536" frameHeight="1000"/>
+	<SubTexture name="look0007" x="10" y="10" width="521" height="986" frameX="-15" frameY="-10" frameWidth="536" frameHeight="1000"/>
+	<SubTexture name="look0008" x="532" y="1006" width="519" height="986" frameX="-17" frameY="-10" frameWidth="536" frameHeight="1000"/>
+	<SubTexture name="look0009" x="532" y="1006" width="519" height="986" frameX="-17" frameY="-10" frameWidth="536" frameHeight="1000"/>
+	<SubTexture name="look0010" x="541" y="10" width="518" height="984" frameX="-18" frameY="-10" frameWidth="536" frameHeight="1000"/>
+	<SubTexture name="look0011" x="541" y="10" width="518" height="984" frameX="-18" frameY="-10" frameWidth="536" frameHeight="1000"/>
+	<SubTexture name="look0012" x="10" y="10" width="521" height="986" frameX="-15" frameY="-10" frameWidth="536" frameHeight="1000"/>
+	<SubTexture name="look0013" x="10" y="10" width="521" height="986" frameX="-15" frameY="-10" frameWidth="536" frameHeight="1000"/>
+	<SubTexture name="look0014" x="532" y="1006" width="519" height="986" frameX="-17" frameY="-10" frameWidth="536" frameHeight="1000"/>
+	<SubTexture name="sitting0000" x="1061" y="1004" width="505" height="775"/>
+	<SubTexture name="sitting0001" x="1061" y="1004" width="505" height="775"/>
+	<SubTexture name="sitting0002" x="1061" y="1789" width="503" height="774" frameX="-2" frameY="-1" frameWidth="505" frameHeight="775"/>
+	<SubTexture name="sitting0003" x="1061" y="1789" width="503" height="774" frameX="-2" frameY="-1" frameWidth="505" frameHeight="775"/>
+	<SubTexture name="sitting0004" x="1069" y="10" width="501" height="773" frameX="-3" frameY="0" frameWidth="505" frameHeight="775"/>
+	<SubTexture name="sitting0005" x="1069" y="10" width="501" height="773" frameX="-3" frameY="0" frameWidth="505" frameHeight="775"/>
+	<SubTexture name="sitting0006" x="1061" y="1004" width="505" height="775"/>
+	<SubTexture name="sitting0007" x="1061" y="1004" width="505" height="775"/>
+	<SubTexture name="sitting0008" x="1061" y="1789" width="503" height="774" frameX="-2" frameY="-1" frameWidth="505" frameHeight="775"/>
+	<SubTexture name="sitting0009" x="1061" y="1789" width="503" height="774" frameX="-2" frameY="-1" frameWidth="505" frameHeight="775"/>
+	<SubTexture name="sitting0010" x="1069" y="10" width="501" height="773" frameX="-3" frameY="0" frameWidth="505" frameHeight="775"/>
+	<SubTexture name="sitting0011" x="1069" y="10" width="501" height="773" frameX="-3" frameY="0" frameWidth="505" frameHeight="775"/>
+	<SubTexture name="sitting0012" x="1061" y="1004" width="505" height="775"/>
+	<SubTexture name="sitting0013" x="1061" y="1004" width="505" height="775"/>
+	<SubTexture name="sitting0014" x="1061" y="1789" width="503" height="774" frameX="-2" frameY="-1" frameWidth="505" frameHeight="775"/>
+</TextureAtlas>

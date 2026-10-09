@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF idle dance" x="0" y="0" width="0" height="0" frameX="-2" frameY="0" frameWidth="0" frameHeight="0"/>
+</TextureAtlas>

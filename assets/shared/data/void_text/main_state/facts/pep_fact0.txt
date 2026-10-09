@@ -1,0 +1,10 @@
+:default:normal:Забавный факт
+:left:normal:Я не хочу быть перцем!
+:frown:normal:И не хочу иметь этот вот... точка хуй в конце!
+:default:normal:Хочу быть кем то лучше
+:angry:normal:Быть более устрашающим
+:angry:normal:Жутким и сильным!
+:frown:normal:А не это вот
+:default:normal:И имя! Не перец.хуй! А что то типа...
+:default:normal:Антергенг!
+:left:normal:Я еще поработаю над этим...

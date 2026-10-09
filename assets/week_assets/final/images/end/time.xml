@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="time.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="time_seq0000" x="10" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0001" x="10" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0002" x="467" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0003" x="467" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0004" x="924" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0005" x="924" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0006" x="1381" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0007" x="1381" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0008" x="1838" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0009" x="1838" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0010" x="2295" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0011" x="2295" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0012" x="2752" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0013" x="2752" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0014" x="3209" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0015" x="3209" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0016" x="10" y="673" width="447" height="653"/>
+	<SubTexture name="time_seq0017" x="10" y="673" width="447" height="653"/>
+	<SubTexture name="time_seq0018" x="2752" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0019" x="2752" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0020" x="3209" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0021" x="467" y="673" width="447" height="653"/>
+	<SubTexture name="time_seq0022" x="924" y="673" width="447" height="653"/>
+	<SubTexture name="time_seq0023" x="1381" y="673" width="447" height="653"/>
+	<SubTexture name="time_seq0024" x="1838" y="673" width="447" height="653"/>
+	<SubTexture name="time_seq0025" x="2295" y="673" width="447" height="653"/>
+	<SubTexture name="time_seq0026" x="467" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0027" x="2752" y="673" width="447" height="653"/>
+	<SubTexture name="time_seq0028" x="3209" y="673" width="447" height="653"/>
+	<SubTexture name="time_seq0029" x="10" y="1336" width="447" height="653"/>
+	<SubTexture name="time_seq0030" x="467" y="1336" width="447" height="653"/>
+	<SubTexture name="time_seq0031" x="924" y="1336" width="447" height="653"/>
+	<SubTexture name="time_seq0032" x="1381" y="1336" width="447" height="653"/>
+	<SubTexture name="time_seq0033" x="1838" y="1336" width="447" height="653"/>
+	<SubTexture name="time_seq0034" x="2295" y="1336" width="447" height="653"/>
+	<SubTexture name="time_seq0035" x="2295" y="1336" width="447" height="653"/>
+	<SubTexture name="time_seq0036" x="10" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0037" x="10" y="10" width="447" height="653"/>
+	<SubTexture name="time_seq0038" x="1838" y="1336" width="447" height="653"/>
+	<SubTexture name="time_seq0039" x="1838" y="1336" width="447" height="653"/>
+	<SubTexture name="time_seq0040" x="2295" y="1336" width="447" height="653"/>
+	<SubTexture name="time_seq0041" x="2295" y="1336" width="447" height="653"/>
+	<SubTexture name="time_seq0042" x="10" y="10" width="447" height="653"/>
+</TextureAtlas>

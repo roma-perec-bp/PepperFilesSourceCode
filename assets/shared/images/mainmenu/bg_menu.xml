@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg_menu.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 10000" x="0" y="0" width="684" height="865"/>
+	<SubTexture name="Symbol 10001" x="0" y="865" width="684" height="865"/>
+	<SubTexture name="Symbol 10002" x="684" y="0" width="684" height="865"/>
+	<SubTexture name="Symbol 10003" x="684" y="865" width="684" height="865"/>
+</TextureAtlas>

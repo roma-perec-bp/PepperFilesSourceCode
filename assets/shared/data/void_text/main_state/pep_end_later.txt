@@ -1,0 +1,2 @@
+:look:normal:Ну, ладно
+:left:normal:Я особо не тороплюсь

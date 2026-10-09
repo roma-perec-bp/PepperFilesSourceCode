@@ -1,0 +1,5 @@
+:default:?
+:default:Хм?
+:default:Что-то нужно?
+:default:Что-то хотел?
+:default:Привет?

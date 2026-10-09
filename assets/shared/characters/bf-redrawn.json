@@ -1,0 +1,198 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left normal"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down normal"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right normal"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up normal"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "left miss"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "down miss"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "up miss"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "right miss"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "hey",
+			"loop": false,
+			"name": "hey"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "scared",
+			"loop": true,
+			"name": "scared"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singLEFT-alt2",
+			"loop": false,
+			"name": "left alt a"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singDOWN-alt2",
+			"loop": false,
+			"name": "down alt a"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singUP-alt2",
+			"loop": false,
+			"name": "up alt a"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singRIGHT-alt2",
+			"loop": false,
+			"name": "right alt a"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "left alt b"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "down alt b"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "up alt b"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "right alt b"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"iconScale": 1,
+	"image": "characters/neoBF",
+	"opponentArrows": [
+		["0xFFC24B99", "0xFFFFFFFF", "0xFF3C1F56"],
+		["0xFF00FFFF", "0xFFFFFFFF", "0xFF1542B7"],
+		["0xFF12FA05", "0xFFFFFFFF", "0xFF0A4447"],
+		["0xFFF9393F", "0xFFFFFFFF", "0xFF651038"]
+	],
+	"position": [-20, 280],
+	"iconOffsets": [-10, 0],
+	"iconBlend": null,
+	"healthicon": "bf",
+	"danceEvery": 2,
+	"iconFlipX": false,
+	"flip_x": true,
+	"iconFps24": 24,
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [0, 0],
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

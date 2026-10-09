@@ -1,0 +1,13 @@
+{	
+	"titlex": 325,
+	"titley": 0,
+	"startx":455,
+	"starty":630,
+	"gfx":512,
+	"gfy":-440,
+	"backgroundSprite":"roof",
+	"bpm":136,
+	
+	"animation": "dance",
+	"idle": true
+}

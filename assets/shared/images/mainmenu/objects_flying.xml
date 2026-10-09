@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="objects_flying.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="obj_00000" x="525" y="461" width="490" height="285"/>
+	<SubTexture name="obj_10000" x="1025" y="402" width="272" height="379"/>
+	<SubTexture name="obj_20000" x="10" y="10" width="505" height="571"/>
+	<SubTexture name="obj_30000" x="919" y="10" width="316" height="382"/>
+	<SubTexture name="obj_40000" x="315" y="756" width="386" height="226"/>
+	<SubTexture name="obj_50000" x="10" y="591" width="295" height="333"/>
+	<SubTexture name="obj_60000" x="525" y="10" width="384" height="441"/>
+</TextureAtlas>

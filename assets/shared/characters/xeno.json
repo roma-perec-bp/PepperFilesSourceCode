@@ -1,0 +1,180 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle-normal",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [60, 2],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down-normal",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [20, 7],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left-normal",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [64, 13],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up-normal",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [139, 21],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right-normal",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [177, 8],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "laugh",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": true,
+			"offsets": [12, 0],
+			"anim": "idle-mad",
+			"fps": 24,
+			"name": "idle-mad",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [26, 4],
+			"anim": "singDOWN-mad",
+			"fps": 24,
+			"name": "down-mad",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singLEFT-mad",
+			"fps": 24,
+			"name": "left-mad",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [7, 13],
+			"anim": "singUP-mad",
+			"fps": 24,
+			"name": "up-mad",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [75, 19],
+			"anim": "singRIGHT-mad",
+			"fps": 24,
+			"name": "right-mad",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [177, 8],
+			"anim": "singDOWN-alt-mad",
+			"fps": 24,
+			"name": "laugh",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [113, 45],
+			"anim": "scream",
+			"fps": 24,
+			"name": "scream",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [113, 45],
+			"anim": "scream-mad",
+			"fps": 24,
+			"name": "scream",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [193, 39],
+			"anim": "end-mad",
+			"fps": 24,
+			"name": "end",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [211, 45],
+			"anim": "cut",
+			"fps": 24,
+			"name": "lyric",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [148, 19],
+			"anim": "guitar",
+			"fps": 24,
+			"name": "guitar",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"iconScale": 1,
+	"image": "characters/Xenophane_Perec",
+	"opponentArrows": [
+		["0xFFC24B99", "0xFFFFFFFF", "0xFF3C1F56"],
+		["0xFF00FFFF", "0xFFFFFFFF", "0xFF1542B7"],
+		["0xFF12FA05", "0xFFFFFFFF", "0xFF0A4447"],
+		["0xFFF9393F", "0xFFFFFFFF", "0xFF651038"]
+	],
+	"position": [-980, -440],
+	"iconOffsets": [0, 20],
+	"iconBlend": "",
+	"healthicon": "xeno-normal",
+	"danceEvery": 2,
+	"iconFlipX": false,
+	"flip_x": false,
+	"iconFps24": 24,
+	"healthbar_colors": [79, 0, 0],
+	"camera_position": [260, 50],
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

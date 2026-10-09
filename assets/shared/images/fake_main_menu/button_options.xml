@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="button_options.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="buttom_options_default0000" x="354" y="152" width="302" height="133" frameX="-2" frameY="0" frameWidth="305" frameHeight="133" rotated="false"/>
+	<SubTexture name="buttom_options_default0001" x="354" y="152" width="302" height="133" frameX="-2" frameY="0" frameWidth="305" frameHeight="133" rotated="false"/>
+	<SubTexture name="buttom_options_default0002" x="354" y="152" width="302" height="133" frameX="-2" frameY="0" frameWidth="305" frameHeight="133" rotated="false"/>
+	<SubTexture name="buttom_options_default0003" x="354" y="152" width="302" height="133" frameX="-2" frameY="0" frameWidth="305" frameHeight="133" rotated="false"/>
+	<SubTexture name="buttom_options_default0004" x="354" y="152" width="302" height="133" frameX="-2" frameY="0" frameWidth="305" frameHeight="133" rotated="false"/>
+	<SubTexture name="buttom_options_default0005" x="354" y="295" width="304" height="129" frameX="0" frameY="-1" frameWidth="305" frameHeight="133" rotated="false"/>
+	<SubTexture name="buttom_options_default0006" x="354" y="295" width="304" height="129" frameX="0" frameY="-1" frameWidth="305" frameHeight="133" rotated="false"/>
+	<SubTexture name="buttom_options_default0007" x="354" y="295" width="304" height="129" frameX="0" frameY="-1" frameWidth="305" frameHeight="133" rotated="false"/>
+	<SubTexture name="buttom_options_default0008" x="354" y="295" width="304" height="129" frameX="0" frameY="-1" frameWidth="305" frameHeight="133" rotated="false"/>
+	<SubTexture name="buttom_options_default0009" x="354" y="295" width="304" height="129" frameX="0" frameY="-1" frameWidth="305" frameHeight="133" rotated="false"/>
+	<SubTexture name="buttom_options_default0010" x="354" y="10" width="305" height="132" frameX="0" frameY="0" frameWidth="305" frameHeight="133" rotated="false"/>
+	<SubTexture name="buttom_options_default0011" x="354" y="10" width="305" height="132" frameX="0" frameY="0" frameWidth="305" frameHeight="133" rotated="false"/>
+	<SubTexture name="buttom_options_default0012" x="354" y="10" width="305" height="132" frameX="0" frameY="0" frameWidth="305" frameHeight="133" rotated="false"/>
+	<SubTexture name="buttom_options_default0013" x="354" y="10" width="305" height="132" frameX="0" frameY="0" frameWidth="305" frameHeight="133" rotated="false"/>
+	<SubTexture name="buttom_options_default0014" x="354" y="10" width="305" height="132" frameX="0" frameY="0" frameWidth="305" frameHeight="133" rotated="false"/>
+	<SubTexture name="buttom_options_selected0000" x="10" y="10" width="334" height="151"/>
+	<SubTexture name="buttom_options_selected0001" x="10" y="10" width="334" height="151"/>
+	<SubTexture name="buttom_options_selected0002" x="10" y="171" width="334" height="151"/>
+	<SubTexture name="buttom_options_selected0003" x="10" y="171" width="334" height="151"/>
+	<SubTexture name="buttom_options_selected0004" x="10" y="332" width="334" height="151"/>
+	<SubTexture name="buttom_options_selected0005" x="10" y="332" width="334" height="151"/>
+</TextureAtlas>

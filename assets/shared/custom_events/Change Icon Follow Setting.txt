@@ -1,0 +1,3 @@
+V1 is the Extra Character Tag
+V2 is the property to change (is gonna normally do the opposite that it was doing)
+The available properties are: active, position, visible, alpha, frame

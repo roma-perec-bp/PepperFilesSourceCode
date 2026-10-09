@@ -1,0 +1,34 @@
+{
+	"camera_boyfriend": [
+		-200,
+		0
+	],
+	"stageUI": "",
+	"boyfriend": [
+		1050,
+		124
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.6,
+	"camera_speed": 1,
+	"directory": "final",
+	"opponent": [
+		-103,
+		97
+	],
+	"camera_opponent": [
+		0,
+		50
+	],
+	"preload": {
+		"images/cosmic/artefact": 3,
+		"images/cosmic/gradient": 3,
+		"images/cosmic/sad": 3,
+		"images/cosmic/grasswalk": 3,
+		"images/cosmic/bg": 3
+	},
+	"hide_girlfriend": true
+}

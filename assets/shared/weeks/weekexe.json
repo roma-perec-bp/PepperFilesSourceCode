@@ -1,0 +1,46 @@
+{
+	"songs": [
+		[
+			"Too Fire",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"You Can't Fire",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Doomsday",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "weekexe",
+	"variations": "",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Vs Pepper.EXE",
+	"weekName": "Week EXE",
+	"hideStoryMode": false,
+	"weekBefore": "Pepper.EXE",
+	"startUnlocked": true
+}

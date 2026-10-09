@@ -1,0 +1,10 @@
+:default:normal:Хуйня!
+:kill:normal:Серьезно!
+:default:normal:Без сюжетная хуйня!
+:left:normal:Арт клэш на каждой песне!
+:look:normal:Песни хуйня!
+:default:normal:Все хуйня!
+:left:normal:Длс еще выходил
+:look:normal:Не ну он хорош
+:default:normal:Но тоже хуйня!
+:left:normal:Мне жаль разработчиков этого поноса

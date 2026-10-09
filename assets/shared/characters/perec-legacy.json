@@ -1,0 +1,72 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [140, -28],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [10, -290],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [-57, 60],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [-50, -15],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"iconScale": 1,
+	"image": "characters/ZOMBIE PEREC",
+	"opponentArrows": [
+		["0xFF000000", "0xFFFFFFFF", "0xFFff0073"],
+		["0xFF000000", "0xFFFFFFFF", "0xFFf25158"],
+		["0xFF000000", "0xFFFFFFFF", "0xFFFF0000"],
+		["0xFF000000", "0xFFFFFFFF", "0xFFff6d00"]
+	],
+	"position": [0, 0],
+	"iconOffsets": [0, 0],
+	"iconBlend": "",
+	"healthicon": "perec",
+	"danceEvery": 2,
+	"iconFlipX": false,
+	"flip_x": false,
+	"iconFps24": 24,
+	"healthbar_colors": [255, 0, 0],
+	"camera_position": [60, 130],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

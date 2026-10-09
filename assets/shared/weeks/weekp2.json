@@ -1,0 +1,46 @@
+{
+	"songs": [
+		[
+			"Fire Thoser",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Too Fire Gone",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fire",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "weekp2",
+	"variations": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Bp v2",
+	"weekName": "Week P 2",
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

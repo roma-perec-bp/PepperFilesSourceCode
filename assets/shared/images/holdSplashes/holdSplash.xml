@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="holdSplash.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="holdCover0000" x="143" y="380" width="118" height="133" frameX="-1" frameY="-3" frameWidth="124" frameHeight="142"/>
+	<SubTexture name="holdCover0001" x="143" y="523" width="116" height="132" frameX="-8" frameY="-5" frameWidth="124" frameHeight="142"/>
+	<SubTexture name="holdCover0002" x="10" y="380" width="123" height="142" frameX="0" frameY="0" frameWidth="124" frameHeight="142"/>
+	<SubTexture name="holdCoverEnd0000" x="10" y="532" width="102" height="84" frameX="-126" frameY="-27" frameWidth="361" frameHeight="180"/>
+	<SubTexture name="holdCoverEnd0001" x="376" y="377" width="350" height="167" frameX="-6" frameY="-6" frameWidth="361" frameHeight="180"/>
+	<SubTexture name="holdCoverEnd0002" x="10" y="10" width="357" height="180" frameX="-4" frameY="0" frameWidth="361" frameHeight="180"/>
+	<SubTexture name="holdCoverEnd0003" x="10" y="10" width="357" height="180" frameX="-4" frameY="0" frameWidth="361" frameHeight="180"/>
+	<SubTexture name="holdCoverEnd0004" x="377" y="10" width="347" height="176" frameX="-9" frameY="-3" frameWidth="361" frameHeight="180"/>
+	<SubTexture name="holdCoverEnd0005" x="377" y="196" width="355" height="171" frameX="0" frameY="-6" frameWidth="361" frameHeight="180"/>
+	<SubTexture name="holdCoverEnd0006" x="10" y="200" width="356" height="170" frameX="0" frameY="-8" frameWidth="361" frameHeight="180"/>
+	<SubTexture name="holdCoverStart0000" x="271" y="380" width="76" height="110"/>
+</TextureAtlas>

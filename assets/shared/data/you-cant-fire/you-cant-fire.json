@@ -1,0 +1,3337 @@
+{
+	"player1": "bf-zero",
+	"fadeOutStart": true,
+	"fadeDuration": 999,
+	"inFrontFade": true,
+	"notes": [
+		{
+			"sectionNotes": [],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": true,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"zoomTime": 64,
+			"zoom": 1.1,
+			"mustHitSection": false,
+			"sectionNotes": [],
+			"tweenFollow": "CLASSIC",
+			"zoomCam": true,
+			"followCam": true,
+			"tweenZoom": "linear",
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "bf"
+		},
+		{
+			"sectionNotes": [],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "bf"
+		},
+		{
+			"sectionNotes": [],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"zoomTime": 32,
+			"zoom": 0.7,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"sectionNotes": [
+				[8571.42857142857, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[9857.14285714286, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[9857.14285714286, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "smootherStepInOut",
+			"followTime": 32,
+			"followCam": true,
+			"tweenZoom": "smootherStepInOut",
+			"charFollow": "gf"
+		},
+		{
+			"sectionNotes": [
+				[10285.7142857143, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[10285.7142857143, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"zoomTime": 32,
+			"zoom": 1.2,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"sectionNotes": [
+				[12000, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[12428.5714285714, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[12428.5714285714, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "expoInOut",
+			"followTime": 32,
+			"followCam": true,
+			"tweenZoom": "expoInOut",
+			"charFollow": "dad",
+			"followX": -50
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 1,
+			"mustHitSection": false,
+			"sectionNotes": [
+				[13714.2857142857, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[13714.2857142857, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[13714.2857142857, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[13928.5714285714, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[14142.8571428571, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[14357.1428571429, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[14571.4285714286, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[14571.4285714286, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[14785.7142857143, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[15000, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[15000, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[15000, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"zoomCam": false,
+			"tweenZoom": "CLASSIC",
+			"followCam": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 1,
+			"mustHitSection": false,
+			"sectionNotes": [
+				[15428.5714285714, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[15642.8571428571, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[15696.4285714286, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[15750, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[15857.1428571429, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[15964.2857142857, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[16071.4285714286, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[16178.5714285714, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[16285.7142857143, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[16392.8571428571, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[16500, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[16607.1428571429, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[16714.2857142857, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[16821.4285714286, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[16928.5714285714, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"zoomCam": true,
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[17142.8571428571, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[17357.1428571429, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[17410.7142857143, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[17464.2857142857, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[17571.4285714286, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[17678.5714285714, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[17785.7142857143, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[17892.8571428571, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18000, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18107.1428571429, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18214.2857142857, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[18267.8571428571, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[18321.4285714286, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[18428.5714285714, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[18642.8571428571, 6, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[18857.1428571429, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[18964.2857142857, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[19071.4285714286, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[19178.5714285714, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[19285.7142857143, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[19339.2857142857, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[19392.8571428571, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[19500, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[19607.1428571429, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[19714.2857142857, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[19821.4285714286, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[19928.5714285714, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[20035.7142857143, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[20035.7142857143, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[20250, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[20357.1428571429, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[20357.1428571429, 4, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[20571.4285714286, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[20785.7142857143, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[20839.2857142857, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[20892.8571428571, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[21000, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[21107.1428571429, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[21214.2857142857, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[21321.4285714286, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[21428.5714285714, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[21642.8571428571, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[21696.4285714286, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[21750, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[21857.1428571429, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[21964.2857142857, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[22071.4285714286, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[22178.5714285714, 6, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[22285.7142857143, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[22285.7142857143, 5, 1500, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[22500, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[22553.5714285714, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[22607.1428571429, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[22714.2857142857, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[22821.4285714286, 3, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[22928.5714285714, 0, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[23035.7142857143, 2, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[23142.8571428571, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[23250, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[23357.1428571429, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[23464.2857142857, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[23571.4285714286, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[23678.5714285714, 0, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[23785.7142857143, 3, 0, null, null, "-alt", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": true,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionNotes": [
+				[24000, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[24214.2857142857, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[24267.8571428571, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[24321.4285714286, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[24428.5714285714, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[24535.7142857143, 0, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[24642.8571428571, 2, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[24750, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[24857.1428571429, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[24964.2857142857, 0, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[25071.4285714286, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[25125, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[25178.5714285714, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[25285.7142857143, 1, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[25446.4285714286, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[25500, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[25553.5714285714, 3, 0, "", null, "-alt", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionNotes": [
+				[25714.2857142857, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[25821.4285714286, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[25928.5714285714, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[26035.7142857143, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[26142.8571428571, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[26196.4285714286, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[26250, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[26357.1428571429, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[26464.2857142857, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[26571.4285714286, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[26678.5714285714, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[26785.7142857143, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[26892.8571428571, 3, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[26892.8571428571, 2, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[27107.1428571429, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[27214.2857142857, 0, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[27214.2857142857, 2, 0, null, null, "-alt", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionNotes": [
+				[27428.5714285714, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[27642.8571428571, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[27696.4285714286, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[27750, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[27803.5714285714, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[27857.1428571429, 3, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[27964.2857142857, 0, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[28071.4285714286, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[28178.5714285714, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[28285.7142857143, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[28285.7142857143, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[28392.8571428571, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[28446.4285714286, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[28500, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[28607.1428571429, 2, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[28714.2857142857, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[28714.2857142857, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[28821.4285714286, 3, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[28928.5714285714, 0, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[29035.7142857143, 2, 0, "", null, "-alt", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 0.8,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[29142.8571428571, 1, 964.285714285714, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[29142.8571428571, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[29250, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[29357.1428571429, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[29464.2857142857, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[29571.4285714286, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[29678.5714285714, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[29785.7142857143, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[29892.8571428571, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[30000, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[30214.2857142857, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[30214.2857142857, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[30321.4285714286, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[30428.5714285714, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[30428.5714285714, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[30535.7142857143, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[30642.8571428571, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[30642.8571428571, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[30750, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[30750, 3, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"charFollow": "gf"
+		},
+		{
+			"sectionNotes": [
+				[30857.1428571429, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[30857.1428571429, 1, 803.571428571429, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[30964.2857142857, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[31071.4285714286, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[31178.5714285714, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[31285.7142857143, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[31285.7142857143, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[31392.8571428571, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[31500, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[31607.1428571429, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[31714.2857142857, 2, 803.571428571429, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[31714.2857142857, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[31928.5714285714, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[32035.7142857143, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[32142.8571428571, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[32142.8571428571, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[32250, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[32357.1428571429, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[32464.2857142857, 5, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"zoomTime": 32,
+			"sectionBeats": 4,
+			"zoom": 1,
+			"mustHitSection": false,
+			"tweenFollow": "quartInOut",
+			"sectionNotes": [
+				[32571.4285714286, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[32571.4285714286, 0, 1178.57142857143, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[32678.5714285714, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[32785.7142857143, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[32892.8571428571, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[33000, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[33107.1428571428, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[33160.7142857143, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[33214.2857142857, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[33321.4285714286, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[33428.5714285714, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[33428.5714285714, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[33535.7142857143, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[33642.8571428571, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[33642.8571428571, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[33750, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[33857.1428571428, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[33964.2857142857, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[34017.8571428571, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[34071.4285714286, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[34071.4285714286, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[34178.5714285714, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[34178.5714285714, 3, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"followTime": 32,
+			"followCam": true,
+			"tweenZoom": "quartInOut",
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[34285.7142857143, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[34285.7142857143, 1, 803.571428571429, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[34392.8571428571, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[34500, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[34607.1428571429, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[34714.2857142857, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[34714.2857142857, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[34821.4285714286, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[34928.5714285714, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[34982.1428571429, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[35035.7142857143, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[35142.8571428571, 3, 589.285714285714, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[35142.8571428571, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[35357.1428571429, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[35571.4285714286, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[35785.7142857143, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[35785.7142857143, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[35892.8571428571, 0, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": true,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 1,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[36000, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[36107.1428571429, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[36214.2857142857, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[36321.4285714286, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[36428.5714285714, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[36428.5714285714, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[36535.7142857143, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[36642.8571428571, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[36750, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[36857.1428571429, 2, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[37071.4285714286, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[37178.5714285714, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[37285.7142857143, 3, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[37392.8571428571, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[37500, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[37607.1428571429, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 1.1,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[37714.2857142857, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[37821.4285714286, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[37928.5714285714, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[38035.7142857143, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[38142.8571428571, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[38250, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[38357.1428571428, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[38464.2857142857, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[38571.4285714286, 2, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[38678.5714285714, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[38785.7142857143, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[38892.8571428571, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[39000, 3, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[39107.1428571428, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[39214.2857142857, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[39321.4285714286, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"tweenZoom": "CLASSIC",
+			"followCam": false,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 1.2,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[39428.5714285714, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[39535.7142857143, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[39642.8571428571, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[39750, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[39857.1428571429, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[39964.2857142857, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[40017.8571428572, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[40071.4285714286, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[40178.5714285714, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[40285.7142857143, 0, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[40392.8571428571, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[40500, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[40500, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[40607.1428571428, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[40714.2857142857, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[40821.4285714286, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[40875, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[40928.5714285714, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[41035.7142857143, 3, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"followCam": false,
+			"tweenZoom": "CLASSIC",
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 1.3,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[41142.8571428572, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[41250, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[41357.1428571429, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[41464.2857142857, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[41571.4285714286, 3, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[41678.5714285714, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[41732.1428571429, 0, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[41785.7142857143, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[41892.8571428571, 0, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[42000, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[42107.1428571429, 0, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[42160.7142857143, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[42214.2857142857, 2, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[42428.5714285714, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[42642.8571428572, 3, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"tweenZoom": "CLASSIC",
+			"followCam": false,
+			"charFollow": "bf"
+		},
+		{
+			"sectionNotes": [
+				[42857.1428571429, 1, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[42857.1428571429, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[42964.2857142857, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[43071.4285714286, 3, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[43071.4285714286, 0, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[43071.4285714286, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[43178.5714285714, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[43285.7142857143, 2, 1232.14285714286, null, "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[43285.7142857143, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[43392.8571428572, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[43500, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[43500, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[43607.1428571429, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[43714.2857142857, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[43821.4285714286, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[43928.5714285714, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[43928.5714285714, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[44035.7142857143, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[44142.8571428572, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[44250, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[44357.1428571429, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[44357.1428571429, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[44464.2857142857, 5, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[44571.4285714286, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[44678.5714285714, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[44785.7142857143, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[44892.8571428572, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[45000, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[45107.1428571429, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[45214.2857142857, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[45214.2857142857, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[45321.4285714286, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[45428.5714285714, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[45535.7142857143, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[45642.8571428572, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[45642.8571428572, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[45750, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[45857.1428571429, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[45964.2857142857, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[46071.4285714286, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[46178.5714285714, 6, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 0.9,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[46285.7142857143, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[46285.7142857143, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[46392.8571428572, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[46392.8571428572, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[46500, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[46607.1428571429, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[46607.1428571429, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[46714.2857142857, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[46821.4285714286, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[46821.4285714286, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[46928.5714285714, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[46928.5714285714, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[47035.7142857143, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[47142.8571428572, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[47142.8571428572, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[47250, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[47357.1428571429, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[47357.1428571429, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[47464.2857142857, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[47464.2857142857, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[47571.4285714286, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[47678.5714285714, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[47785.7142857143, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[47785.7142857143, 3, 0, null, null, "", 0, "", true, true, "", true, false, false],
+				[47785.7142857143, 2, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[47892.8571428572, 5, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"charFollow": "gf"
+		},
+		{
+			"sectionNotes": [
+				[48000, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[48000, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[48107.1428571429, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[48214.2857142857, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[48321.4285714286, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[48321.4285714286, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[48428.5714285714, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[48428.5714285714, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[48535.7142857143, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[48535.7142857143, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[48589.2857142857, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[48642.8571428572, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[48642.8571428572, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[48642.8571428572, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[48750, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[48750, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[48857.1428571429, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[48857.1428571429, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[48964.2857142857, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[48964.2857142857, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[49071.4285714286, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[49178.5714285714, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[49178.5714285714, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[49285.7142857143, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[49392.8571428572, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[49392.8571428572, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[49500, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[49500, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[49607.1428571429, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[49607.1428571429, 2, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 1,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[49714.2857142857, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[49714.2857142857, 5, 1392.85714285714, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[49821.4285714286, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[49928.5714285714, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[50035.7142857143, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[50142.8571428572, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[50250, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[50357.1428571429, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[50464.2857142857, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[50571.4285714286, 0, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[50571.4285714286, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[50678.5714285714, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[50785.7142857143, 3, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[50892.8571428572, 0, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[51000, 2, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[51107.1428571429, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[51214.2857142857, 3, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[51321.4285714286, 1, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"charFollow": "bf",
+			"followX": 0
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 1.1,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[51428.5714285715, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[51535.7142857143, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[51642.8571428572, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[51750, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[51857.1428571429, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[51964.2857142857, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[52071.4285714286, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[52178.5714285714, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[52285.7142857143, 3, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[52392.8571428572, 2, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[52428.5714285715, 0, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[52464.2857142857, 3, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[52500, 1, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[52607.1428571429, 3, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[52714.2857142857, 2, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[52821.4285714286, 0, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[52928.5714285714, 3, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[53035.7142857143, 2, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"tweenZoom": "CLASSIC",
+			"followCam": false,
+			"charFollow": "bf"
+		},
+		{
+			"zoomTime": 24,
+			"sectionBeats": 4,
+			"zoom": 1,
+			"mustHitSection": true,
+			"tweenFollow": "expoIn",
+			"sectionNotes": [
+				[53142.8571428572, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[53142.8571428572, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[53250, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[53357.1428571429, 0, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[53464.2857142857, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[53464.2857142857, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[53571.4285714286, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[53678.5714285714, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[53785.7142857143, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[53785.7142857143, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[53892.8571428572, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[53892.8571428572, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[54000, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[54000, 0, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[54000, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[54107.1428571429, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[54214.2857142857, 3, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[54321.4285714286, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[54321.4285714286, 0, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[54428.5714285714, 2, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[54535.7142857143, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[54642.8571428572, 7, 0, null, null, "", 0, "", true, true, "", true, false, false],
+				[54642.8571428572, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[54642.8571428572, 3, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[54750, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[54750, 4, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"followTime": 32,
+			"tweenZoom": "circInOut",
+			"followCam": true,
+			"charFollow": "dad",
+			"followX": -250
+		},
+		{
+			"sectionNotes": [
+				[54857.1428571429, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[54857.1428571429, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[54857.1428571429, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[54964.2857142857, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[55071.4285714286, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[55178.5714285714, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[55178.5714285715, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[55285.7142857143, 0, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[55285.7142857143, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[55392.8571428572, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[55392.8571428572, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[55446.4285714286, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[55500, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[55500.0000000001, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[55607.1428571429, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[55607.1428571429, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[55714.2857142857, 0, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[55714.2857142857, 6, 803.571428571429, null, null, "", 0, "", true, true, "", true, false, false],
+				[55714.2857142857, 4, 803.571428571429, null, null, "", 0, "", true, true, "", true, false, false],
+				[55714.2857142857, 7, 803.571428571429, null, null, "", 0, "", true, true, "", true, false, false],
+				[55821.4285714286, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[55857.1428571429, 2, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[55892.8571428572, 3, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[55928.5714285715, 0, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[56035.7142857143, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[56142.8571428572, 2, 375, "", null, "-alt", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad",
+			"followX": -150
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 1,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[56571.4285714286, 1, 1285.71428571429, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[57428.5714285715, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[57642.8571428572, 5, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[58071.4285714286, 6, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"followCam": true,
+			"tweenZoom": "CLASSIC",
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[58285.7142857143, 4, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[58714.2857142858, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[58928.5714285715, 4, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[59357.1428571429, 6, 1125, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[59357.1428571429, 5, 267.857142857143, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[60642.8571428572, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[60857.1428571429, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[60857.1428571429, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[61071.4285714286, 2, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[61500, 3, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": true,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionNotes": [
+				[61714.2857142858, 2, 375, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[62142.8571428572, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[62250, 0, 482.142857142857, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[62785.7142857143, 1, 1125, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[62785.7142857143, 3, 589.285714285714, "", "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionNotes": [
+				[64285.7142857143, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[64500, 5, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[64928.5714285715, 6, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": true,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[65142.8571428572, 4, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[65571.4285714286, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[65785.7142857143, 4, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[66214.2857142858, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[66214.2857142858, 6, 1125, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[67500.0000000001, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[67500.0000000001, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[67714.2857142858, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[67928.5714285715, 0, 375, null, null, "", 0, "", true, false, "", true, false, false],
+				[67928.5714285715, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[68357.1428571429, 1, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": true,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionNotes": [
+				[68571.4285714286, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[68785.7142857143, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[69000.0000000001, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[69000.0000000001, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[69214.2857142858, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[69642.8571428572, 0, 589.285714285714, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[69642.8571428572, 3, 589.285714285714, "", "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionNotes": [
+				[71142.8571428572, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[71357.1428571429, 7, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[71785.7142857143, 6, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": true,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[72000, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[72214.2857142858, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[72267.8571428572, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[72321.4285714286, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[72428.5714285715, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[72642.8571428572, 7, 375, null, "stutter", "", 0, "", true, true, "Default Ghost", true, false, false],
+				[72642.8571428572, 4, 375, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[73071.4285714286, 5, 1178.57142857143, "", "stutter", "", 0, "", true, true, "Default Ghost", true, false, false],
+				[73071.4285714286, 6, 1178.57142857143, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[74357.1428571429, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[74571.4285714286, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74785.7142857143, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[75000, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[75053.5714285715, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[75107.1428571429, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[75214.2857142858, 2, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": true,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionNotes": [
+				[75428.5714285715, 1, 375, null, null, "", 0, "", true, false, "", true, false, false],
+				[75857.1428571429, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[75910.7142857143, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[76071.4285714286, 2, 375, null, null, "", 0, "", true, false, "", true, false, false],
+				[76500, 3, 589.285714285714, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[76500, 1, 1178.57142857143, "", "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionNotes": [
+				[78000, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[78214.2857142857, 4, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[78642.8571428572, 6, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": true,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[78857.1428571429, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[79071.4285714286, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[79178.5714285714, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[79232.1428571429, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[79285.7142857143, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[79500, 5, 375, "", "stutter", "", 0, "", true, true, "Default Ghost", true, false, false],
+				[79500, 7, 375, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[79928.5714285714, 4, 1178.57142857143, "", "stutter", "", 0, "", true, true, "Default Ghost", true, false, false],
+				[79928.5714285714, 6, 1178.57142857143, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[81214.2857142857, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[81428.5714285714, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[81642.8571428572, 3, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[82071.4285714286, 0, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"gfSection": false,
+			"followCam": true,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"zoomTime": 16,
+			"zoom": 1.3,
+			"mustHitSection": true,
+			"sectionNotes": [
+				[82285.7142857143, 2, 589.285714285714, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[82285.7142857143, 6, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[82714.2857142857, 5, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[82928.5714285714, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[82982.1428571429, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83035.7142857143, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[83142.8571428572, 7, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[83142.8571428572, 0, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[83357.1428571429, 7, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[83571.4285714286, 7, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[83785.7142857143, 7, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "expoIn",
+			"zoomCam": true,
+			"followCam": true,
+			"tweenZoom": "expoIn",
+			"followTime": 16,
+			"charFollow": "dad",
+			"followX": -100
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 1,
+			"mustHitSection": false,
+			"sectionNotes": [
+				[84000, 1, 1607.14285714286, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[84000, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[84000, 5, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[84857.1428571429, 6, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"zoomCam": true,
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[85714.2857142857, 7, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[86570.3277886497, 4, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[87427.4706457926, 7, 803.571428571429, null, null, "", 0, "", true, true, "Arrow Movement Ghost", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[87428.5714285714, 5, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[88284.6135029354, 6, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[88285.7142857143, 5, 803.571428571429, "", null, "", 0, "", true, true, "Arrow Movement Ghost", true, false, false],
+				[89141.7563600783, 4, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[89142.8571428571, 6, 803.571428571429, "", null, "", 0, "", true, true, "Arrow Movement Ghost", true, false, false],
+				[89998.8992172211, 5, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[90000, 4, 803.571428571429, "", "stutter", "", 0.1, "", true, true, "Arrow Movement Ghost", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[90857.1428571429, 1, 803.571428571429, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[90857.1428571429, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[91285.7142857143, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[91714.2857142857, 2, 803.571428571429, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[91714.2857142857, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[92142.8571428571, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": true,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionNotes": [
+				[92571.4285714286, 3, 803.571428571429, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[92571.4285714286, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[93000, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[93428.5714285714, 0, 803.571428571429, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[93428.5714285714, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[93857.1428571429, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[94284.6135029354, 5, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 0.8,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[94285.7142857143, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[94285.7142857143, 1, 803.571428571429, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[94285.7142857143, 3, 803.571428571429, "", null, "", 0, "", true, true, "Arrow Movement Ghost", true, false, false],
+				[94285.7142857143, 7, 803.571428571429, "", null, "", 0, "", true, true, "Arrow Movement Ghost", true, false, false],
+				[94285.7142857143, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[94714.2857142857, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[94714.2857142857, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[95141.7563600783, 6, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[95142.8571428571, 2, 803.571428571429, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[95142.8571428571, 1, 803.571428571429, "", null, "", 0, "", true, true, "Arrow Movement Ghost", true, false, false],
+				[95142.8571428571, 5, 803.571428571429, "", null, "", 0, "", true, true, "Arrow Movement Ghost", true, false, false],
+				[95142.8571428571, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[95142.8571428571, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[95571.4285714286, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[95571.4285714286, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[95998.8992172211, 4, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"charFollow": "gf"
+		},
+		{
+			"sectionNotes": [
+				[96000, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[96000, 6, 803.571428571429, "", null, "", 0, "", true, true, "Arrow Movement Ghost", true, false, false],
+				[96000, 0, 589.285714285714, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[96000, 2, 589.285714285714, "", null, "", 0, "", true, true, "Arrow Movement Ghost", true, false, false],
+				[96000, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[96428.5714285714, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[96428.5714285714, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[96642.8571428571, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[96750, 3, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[96856.042074364, 5, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[96857.1428571428, 2, 803.571428571429, "", "stutter", "-alt", 0, "", true, false, "Arrow Movement Ghost", true, false, false],
+				[96857.1428571428, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[96857.1428571428, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[96857.1428571429, 4, 803.571428571429, "", null, "", 0, "", true, true, "Arrow Movement Ghost", true, false, false],
+				[97285.7142857143, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[97285.7142857143, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 1,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[97714.2857142857, 3, 1392.85714285714, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[97714.2857142857, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[97714.2857142857, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[97714.2857142857, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[97928.5714285714, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[98035.7142857143, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[98142.8571428571, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[98357.1428571428, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[98464.2857142857, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[98571.4285714286, 6, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[98571.4285714286, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[98785.7142857143, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[98892.8571428571, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[98892.8571428571, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[99000, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[99214.2857142857, 6, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 1.05,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[99428.5714285714, 7, 642.857142857143, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[99857.1428571428, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[100071.428571429, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[100178.571428571, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[100285.714285714, 4, 803.571428571429, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[100285.714285714, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"tweenZoom": "CLASSIC",
+			"followCam": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"zoom": 1,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[101142.857142857, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[101142.857142857, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[101357.142857143, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[101464.285714286, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[101571.428571429, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[101678.571428571, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[101785.714285714, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[101892.857142857, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[102000, 5, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[102214.285714286, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[102428.571428571, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[102535.714285714, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[102642.857142857, 4, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"tweenZoom": "CLASSIC",
+			"followCam": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[102857.142857143, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[103071.428571429, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[103125, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[103178.571428571, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[103232.142857143, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[103285.714285714, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[103392.857142857, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[103500, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[103607.142857143, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[103660.714285714, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[103714.285714286, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[103821.428571429, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[103928.571428571, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[104035.714285714, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[104142.857142857, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[104142.857142857, 4, 375, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": true,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionNotes": [
+				[104571.428571429, 5, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[104571.428571429, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[104785.714285714, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[104892.857142857, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[105000, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[105000, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[105214.285714286, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[105321.428571429, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[105428.571428571, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[105428.571428571, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[105428.571428571, 6, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[105428.571428571, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[105642.857142857, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[105750, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[105857.142857143, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[105857.142857143, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[106071.428571429, 2, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": true,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"zoomTime": 0,
+			"sectionBeats": 4,
+			"zoom": 1.05,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"sectionNotes": [
+				[106285.714285714, 3, 589.285714285714, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[106285.714285714, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[106285.714285714, 4, 1392.85714285714, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[106714.285714286, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[106714.285714286, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[106928.571428571, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[107035.714285714, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[107142.857142857, 0, 803.571428571429, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[107142.857142857, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[107571.428571429, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[107571.428571429, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"zoomCam": true,
+			"tweenZoom": "CLASSIC",
+			"followCam": false,
+			"charFollow": "bf"
+		},
+		{
+			"zoomCam": true,
+			"sectionNotes": [
+				[108000, 5, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[108000, 1, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[108000, 3, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[108214.285714286, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[108321.428571429, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[108321.428571429, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[108428.571428571, 3, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[108642.857142857, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[108750, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[108857.142857143, 7, 589.285714285714, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[108857.142857143, 1, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[108964.285714286, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[109071.428571429, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[109178.571428571, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[109285.714285714, 3, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[109285.714285714, 2, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[109500, 0, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[109500, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[109607.142857143, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[109607.142857143, 4, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"sectionBeats": 4,
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"zoom": 1,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.1,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[109714.285714286, 6, 1660.71428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[109714.285714286, 2, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[109714.285714286, 3, 0, "Phantom Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[109928.571428571, 0, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[109928.571428571, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[110142.857142857, 1, 53.5714285714286, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[110250, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[110357.142857143, 3, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[110464.285714286, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[110517.857142857, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[110571.428571429, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[110571.428571429, 3, 375, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[110785.714285714, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[110892.857142857, 0, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[111000, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[111000, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[111214.285714286, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[111321.428571429, 0, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 150,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 0.9,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[111428.571428571, 1, 1660.71428571429, null, "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[111428.571428571, 5, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[111857.142857143, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[112285.714285714, 7, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[112714.285714286, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[113142.857142857, 4, 375, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[113142.857142857, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[113571.428571429, 6, 375, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[114000, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[114000, 5, 375, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[114000, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[114428.571428571, 4, 375, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[114857.142857143, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[114857.142857143, 7, 375, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[115285.714285714, 6, 375, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[115285.714285714, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[115714.285714286, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[115714.285714286, 5, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[116571.428571429, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[116571.428571429, 4, 375, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[117000, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[117000, 6, 375, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[117428.571428571, 5, 375, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[117428.571428571, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[117857.142857143, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[117964.285714286, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[118071.428571429, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[118178.571428571, 7, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[118285.714285714, 1, 803.571428571429, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[118714.285714286, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[119142.857142857, 3, 803.571428571429, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[119571.428571429, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[120000, 0, 375, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[120000, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[120428.571428571, 2, 375, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[120428.571428571, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[120857.142857143, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[120857.142857143, 3, 0, null, null, "", 0, "", true, true, "", true, false, false],
+				[120857.142857143, 1, 375, null, "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[121285.714285714, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[121500, 2, 0, "", null, "-alt", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"followY": 50,
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.2,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[121714.285714286, 3, 375, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[121714.285714286, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[122142.857142857, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[122142.857142857, 0, 375, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[122571.428571428, 2, 589.285714285714, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[123000, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[123214.285714286, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[123321.428571428, 3, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"gfSection": false,
+			"followX": 50,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"followY": 100,
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.4,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[123428.571428571, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[123642.857142857, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[123750, 0, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[123857.142857143, 1, 375, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[124285.714285714, 2, 803.571428571429, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[124285.714285714, 3, 0, "", null, "", 0, "", true, true, "", true, false, false],
+				[124285.714285714, 0, 0, null, null, "", 0, "", true, true, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"gfSection": false,
+			"followX": 100,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.1,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [],
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.3,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[130285.714285714, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[130500, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[130714.285714286, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[130928.571428571, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[131142.857142857, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[131357.142857143, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false],
+				[131571.428571428, 5, 0, "Static Note", null, "-alt", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"gfSection": false,
+			"followX": -50,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[132000, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[132107.142857143, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[132214.285714286, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[132267.857142857, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[132321.428571428, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[132375, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[132642.857142857, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[132750, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[132857.142857143, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[132964.285714286, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[133071.428571428, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[133178.571428571, 4, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[133178.571428571, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[133607.142857143, 5, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[133714.285714286, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[133821.428571428, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[133928.571428571, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[134035.714285714, 5, 267.857142857143, "", null, "", 0, "", true, false, "", true, false, false],
+				[134142.857142857, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[134357.142857143, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[134464.285714286, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[134571.428571428, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[134678.571428571, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[134785.714285714, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[134892.857142857, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[135000, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[135107.142857143, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[135214.285714286, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[135321.428571428, 6, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"stgZoom": false,
+			"altAnim": false,
+			"zoom": 1.1,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[135428.571428571, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[135428.571428571, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[135535.714285714, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[135642.857142857, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[135750, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[135857.142857143, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[135964.285714286, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[136071.428571428, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[136178.571428571, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[136392.857142857, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[136500, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[136607.142857143, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[136821.428571428, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[136928.571428571, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[137035.714285714, 1, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.2,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[137142.857142857, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[137250, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[137250, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[137357.142857143, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[137571.428571428, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[137678.571428571, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[137785.714285714, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[137892.857142857, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[138000, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[138053.571428571, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[138107.142857143, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[138160.714285714, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[138267.857142857, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[138321.428571428, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[138535.714285714, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[138642.857142857, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[138750, 3, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[138857.142857143, 0, 803.571428571429, "", "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"gfSection": false,
+			"followX": -50,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.25,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[140571.428571428, 7, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[140571.428571428, 4, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[141107.142857143, 5, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[141476.785714286, 6, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[141750, 7, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[142071.428571428, 4, 0, null, null, "", 0, "", false, true, "", false, true, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[142285.714285714, 5, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[142285.714285714, 6, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[142714.285714286, 5, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[142714.285714286, 4, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[143142.857142857, 7, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[143142.857142857, 5, 0, null, null, "", 0, "", false, true, "", false, true, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.15,
+			"mustHitSection": false,
+			"zoomCam": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[144000, 7, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[144000, 6, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[144428.571428571, 6, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[144428.571428571, 5, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[144857.142857143, 4, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[144857.142857143, 7, 0, null, null, "", 0, "", false, true, "", false, true, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.2,
+			"mustHitSection": false,
+			"zoomCam": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[145714.285714286, 5, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[145714.285714286, 6, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[146142.857142857, 6, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[146142.857142857, 7, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[146571.428571428, 7, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[146571.428571428, 4, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[147321.428571428, 5, 0, null, null, "", 0, "", false, true, "", false, true, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.1,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[147428.571428571, 6, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[147642.857142857, 4, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[148071.428571428, 7, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[148285.714285714, 6, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[148607.142857143, 6, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[148928.571428571, 4, 0, null, null, "", 0, "", false, true, "", false, true, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[149142.857142857, 7, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[149464.285714286, 7, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[149785.714285714, 5, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[150000, 6, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[150642.857142857, 4, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[150642.857142857, 5, 0, null, null, "", 0, "", false, true, "", false, true, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"followY": 50,
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.3,
+			"mustHitSection": false,
+			"zoomCam": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[150857.142857143, 7, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[151071.428571428, 5, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[151285.714285714, 6, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[151500, 4, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[151714.285714286, 5, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[151928.571428571, 5, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[152142.857142857, 7, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[152357.142857143, 6, 0, null, null, "", 0, "", false, true, "", false, true, false]
+			],
+			"followTime": 25,
+			"tweenZoom": "CLASSIC",
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[152571.428571428, 4, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[152571.428571428, 5, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[153000, 7, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[153000, 6, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[153428.571428571, 4, 0, null, null, "", 0, "", false, true, "", false, true, false],
+				[153428.571428571, 7, 0, null, null, "", 0, "", false, true, "", false, true, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[154285.714285714, 6, 803.571428571429, null, null, "", 0, "", true, false, "", true, true, false],
+				[154285.714285714, 7, 0, null, null, "", 0, "", true, false, "", true, true, false],
+				[154285.714285714, 4, 0, null, null, "", 0, "", true, false, "", true, true, false],
+				[154928.571428571, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[155142.857142857, 3, 375, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[155571.428571428, 2, 375, "", "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenZoom": "CLASSIC",
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"zoomTime": 32,
+			"zoom": 0.6,
+			"typeOfSection": 0,
+			"gfSection": false,
+			"charFollow": "gf",
+			"sectionBeats": 4,
+			"followY": -50,
+			"altAnim": false,
+			"mustHitSection": false,
+			"sectionNotes": [
+				[156000, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[156000, 1, 1232.14285714286, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[156000, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[156428.571428571, 5, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[156857.142857143, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[156857.142857143, 7, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[156857.142857143, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[156857.142857143, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[157285.714285714, 6, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[157285.714285714, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "smootherStepInOut",
+			"zoomCam": true,
+			"followCam": true,
+			"followTime": 32,
+			"tweenZoom": "smootherStepInOut",
+			"bpm": 140,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[157714.285714286, 5, 1017.85714285714, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[157714.285714286, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[157714.285714286, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[158250, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[158357.142857143, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[158464.285714286, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[158571.428571428, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[158678.571428571, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[158785.714285714, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[159000, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[159000, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[159214.285714286, 0, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[159428.571428571, 2, 910.714285714286, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[159428.571428571, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[159642.857142857, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[159857.142857143, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[160071.428571428, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[160178.571428571, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[160178.571428571, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[160232.142857143, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[160285.714285714, 6, 375, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[160714.285714286, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[160714.285714286, 5, 375, "", "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"zoomTime": 64,
+			"zoom": 1,
+			"typeOfSection": 0,
+			"gfSection": false,
+			"charFollow": "dad",
+			"sectionBeats": 4,
+			"stgZoom": false,
+			"altAnim": false,
+			"mustHitSection": false,
+			"sectionNotes": [
+				[161142.857142857, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[161142.857142857, 7, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[161142.857142857, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[161571.428571428, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[161678.571428571, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[161839.285714286, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[161892.857142857, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[161946.428571428, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[162000, 7, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[162000, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[162428.571428571, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[162642.857142857, 5, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "smootherStepInOut",
+			"zoomCam": true,
+			"tweenZoom": "smootherStepInOut",
+			"followCam": true,
+			"followTime": 64,
+			"bpm": 140,
+			"changeBPM": false
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[162857.142857143, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[162857.142857143, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[162857.142857143, 2, 375, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[162857.142857143, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[163285.714285714, 3, 375, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[163285.714285714, 6, 321.428571428571, "", null, "", 0, "", true, false, "", true, false, false],
+				[163285.714285714, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[163714.285714286, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[163714.285714286, 1, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[163714.285714286, 5, 321.428571428571, "", null, "", 0, "", true, false, "", true, false, false],
+				[163714.285714286, 0, 803.571428571429, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[163928.571428571, 2, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[164142.857142857, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[164142.857142857, 3, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[164142.857142857, 7, 321.428571428571, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[164571.428571428, 6, 535.714285714286, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[164571.428571428, 2, 535.714285714286, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[164571.428571428, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[164571.428571428, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[165428.571428571, 1, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[165428.571428571, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[165428.571428571, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[165482.142857143, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[165535.714285714, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[165589.285714286, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[165857.142857143, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[165857.142857143, 3, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[166071.428571428, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[166071.428571428, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[166285.714285714, 0, 1392.85714285714, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[166285.714285714, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[166714.285714286, 4, 375, null, null, "", 0, "", true, false, "", true, false, false],
+				[166714.285714286, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[166928.571428571, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[167142.857142857, 5, 375, null, null, "", 0, "", true, false, "", true, false, false],
+				[167571.428571428, 6, 375, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[168000, 7, 803.571428571429, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[168000, 5, 803.571428571429, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[168000, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[168214.285714286, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[168642.857142857, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[168857.142857143, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[169285.714285714, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[169285.714285714, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[169714.285714286, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[169714.285714286, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[169928.571428571, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[170035.714285714, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[170142.857142857, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[170142.857142857, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[170357.142857143, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[170410.714285714, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[170464.285714286, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[170571.428571428, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[170678.571428571, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[170785.714285714, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[170892.857142857, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[171000, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[171107.142857143, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[171107.142857143, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[171214.285714286, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[171321.428571428, 6, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": true,
+			"tweenZoom": "CLASSIC",
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[171428.571428571, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[171642.857142857, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[171750, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[171857.142857143, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[172071.428571428, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[172178.571428571, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[172285.714285714, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[172500, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[172607.142857143, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[172714.285714286, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[172928.571428571, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[173035.714285714, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[173142.857142857, 5, 803.571428571429, null, null, "", 0, "", true, false, "", true, false, false],
+				[173142.857142857, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[173357.142857143, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[173464.285714286, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[173571.428571428, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[173571.428571428, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[173571.428571428, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[173785.714285714, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[173839.285714286, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[173892.857142857, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[174000, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[174000, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[174107.142857143, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[174214.285714286, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[174321.428571428, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[174428.571428571, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[174535.714285714, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[174535.714285714, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[174642.857142857, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[174750, 2, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[174857.142857143, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[175071.428571428, 2, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[175071.428571428, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[175285.714285714, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[175285.714285714, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[175500, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[175714.285714286, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[175928.571428571, 0, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[176035.714285714, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[176142.857142857, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[176142.857142857, 0, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[176357.142857143, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[176357.142857143, 1, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[176571.428571428, 2, 1071.42857142857, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[176571.428571428, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[176678.571428571, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[176785.714285714, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[176785.714285714, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[176785.714285714, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[176892.857142857, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[177000, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[177107.142857143, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[177214.285714286, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[177214.285714286, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[177321.428571428, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[177428.571428571, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[177428.571428571, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[177535.714285714, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[177642.857142857, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[177750, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[177857.142857143, 7, 375, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[178071.428571428, 4, 160.714285714286, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[178071.428571428, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.1,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[178285.714285714, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[178392.857142857, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[178500, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[178607.142857143, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[178714.285714286, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[178821.428571428, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[178928.571428571, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[178928.571428571, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[179035.714285714, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[179142.857142857, 6, 53.5714285714286, null, null, "", 0, "", true, false, "", true, false, false],
+				[179142.857142857, 4, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[179357.142857143, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[179571.428571428, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[179785.714285714, 7, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"tweenZoom": "CLASSIC",
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[180000, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[180000, 5, 750, "", null, "", 0, "", true, false, "", true, false, false],
+				[180000, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[180107.142857143, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[180214.285714286, 0, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[180214.285714286, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[180321.428571428, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[180428.571428571, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[180428.571428571, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[180535.714285714, 0, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[180642.857142857, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[180750, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[180857.142857143, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[180964.285714286, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[181071.428571428, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[181178.571428571, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[181285.714285714, 3, 375, "", null, "", 0, "", true, false, "", true, false, false],
+				[181500, 0, 160.714285714286, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": true,
+			"tweenZoom": "CLASSIC",
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.1,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[181714.285714286, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[181821.428571428, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[181928.571428571, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[182035.714285714, 0, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[182142.857142857, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[182250, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[182357.142857143, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[182464.285714286, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[182571.428571428, 0, 321.428571428571, "", null, "", 0, "", true, false, "", true, false, false],
+				[182571.428571428, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[182785.714285714, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[183000, 1, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[183214.285714286, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[183214.285714286, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[183428.571427571, 1, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"tweenZoom": "CLASSIC",
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[183428.571428571, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[183535.714285714, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[183642.857142857, 2, 750, "", "stutter", "-alt", 0, "", true, false, "", true, false, false],
+				[183642.857142857, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[183750, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[183857.142857143, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[183964.285714286, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[184071.428571428, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[184178.571428571, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[184285.714285714, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[184339.285714286, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[184392.857142857, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[184446.428571428, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[184500, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[184553.571428571, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[184714.285714286, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[184821.428571428, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[184928.571428571, 7, 0, "", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[185142.857142857, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[185250, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[185357.142857143, 6, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[185464.285714286, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[185571.428571428, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[185571.428571428, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[185785.714285714, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[185892.857142857, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[186000, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[186000, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[186107.142857143, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[186214.285714286, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[186321.428571428, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[186428.571428571, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[186535.714285714, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[186642.857142857, 6, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.1,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[186857.142857143, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[186964.285714286, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[187071.428571428, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[187178.571428571, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[187285.714285714, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[187500, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[187607.142857143, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[187714.285714286, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[187928.571428571, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[188142.857142857, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[188250, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[188357.142857143, 6, 0, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"tweenZoom": "CLASSIC",
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.2,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[188571.428571428, 5, 589.285714285714, "", null, "", 0, "", true, false, "", true, false, false],
+				[188785.714285714, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[189214.285714285, 7, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[189321.428571428, 4, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[189428.571428571, 5, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[189535.714285714, 6, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[189642.857142857, 5, 53.5714285714286, null, null, "", 0, "", true, false, "", true, false, false],
+				[189857.142857143, 5, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[189857.142857143, 7, 375, "", "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"tweenZoom": "CLASSIC",
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 0,
+			"mustHitSection": true,
+			"zoomCam": false,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[190285.714285714, 6, 803.571428571429, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[190285.714285714, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[190285.714285714, 4, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[190339.285714285, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[190392.857142857, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[190446.428571428, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[190500, 2, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[190607.142857143, 3, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[190714.285714285, 1, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[190821.428571428, 7, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[190928.571428571, 0, 0, null, null, "-alt", 0, "", true, false, "", true, false, false],
+				[191142.857142857, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[191196.428571428, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[191250, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[191303.571428571, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[191357.142857143, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[191571.428571428, 1, 0, "", null, "-alt", 0, "", true, false, "", true, false, false],
+				[191785.714285714, 3, 0, "", null, "-alt", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": true,
+			"tweenZoom": "CLASSIC",
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[192000, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[192214.285714286, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[192321.428571428, 2, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[192321.428571428, 3, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[192428.571428571, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[192428.571428571, 0, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[192642.857142857, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[192750, 1, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[192857.142857143, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[192857.142857143, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[192964.285714286, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[193071.428571428, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[193178.571428571, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[193285.714285714, 0, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[193500, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"followCam": false,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.3,
+			"mustHitSection": true,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[193714.285714285, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[193821.428571428, 3, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[193928.571428571, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[194035.714285714, 0, 0, "", null, "", 0, "", true, false, "", true, false, false],
+				[194142.857142857, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[194357.142857143, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[194571.428571428, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[194785.714285714, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[195000, 0, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[195214.285714285, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"tweenZoom": "CLASSIC",
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[195428.571428571, 1, 375, "", "stutter", "", 0, "", true, false, "", true, false, false],
+				[195642.857142857, 0, 0, "Phantom Note", null, "", 0, "", true, false, "", true, false, false],
+				[196071.428571428, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[196125, 2, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[196178.571428571, 0, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[196285.714285714, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[196500, 1, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[196714.285714285, 0, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false],
+				[196928.571428571, 3, 0, "Static Note", null, "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": true,
+			"tweenZoom": "CLASSIC",
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad",
+			"followX": 150
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"zoom": 1.2,
+			"mustHitSection": false,
+			"zoomCam": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [
+				[197142.857142857, 2, 1232.14285714286, "", "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"gfSection": false,
+			"followCam": false,
+			"tweenZoom": "CLASSIC",
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "dad",
+			"followX": -50
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [],
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [],
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [],
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [],
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [],
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [],
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [],
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"altAnim": false,
+			"mustHitSection": true,
+			"tweenFollow": "CLASSIC",
+			"typeOfSection": 0,
+			"sectionNotes": [],
+			"followCam": true,
+			"gfSection": false,
+			"changeBPM": false,
+			"bpm": 140,
+			"charFollow": "bf"
+		}
+	],
+	"player2": "xeno",
+	"skipArrowTween": true,
+	"followCamOffset": 30,
+	"player3": null,
+	"skipCountdown": true,
+	"fadeCount": false,
+	"art": "Agent In Blue, Perec.EXE",
+	"song": "You Can't Fire",
+	"music": "SimplyCrispy, Saster, MarStarBro, & KGBepis, Cover By: Perec.EXE",
+	"validScore": true,
+	"speed": 3.2,
+	"format": "gold_v1_convert",
+	"toggleTransIn": true,
+	"gfVersion": "gf",
+	"events": [
+		[
+			0,
+			[
+				["Set Camera Bop", "999", "1", "", "", ""]
+			]
+		],
+		[
+			1500,
+			[
+				["Set Camera Bop", "4", "1", "", "", ""]
+			]
+		],
+		[
+			1714.28571428571,
+			[
+				["Fade Camera", "0xFFFF0000", "8", "camoverlayhud", "true", ""]
+			]
+		],
+		[
+			7500,
+			[
+				["Set Camera Bop", "1", "2", "", "", ""]
+			]
+		],
+		[
+			8571.42857142857,
+			[
+				["Set Camera Bop", "1", "1", "", "", ""]
+			]
+		],
+		[
+			13500,
+			[
+				["Set Camera Bop", "1", "2", "", "", ""]
+			]
+		],
+		[
+			13714.2857142857,
+			[
+				["Flash Camera", "0xFFFF0000", "4", "camGame", "", ""]
+			]
+		],
+		[
+			15214.2857142857,
+			[
+				["Set Camera Bop", "1", "1.5", "", "", ""]
+			]
+		],
+		[
+			27428.5714285714,
+			[
+				["Zoom Camera", "CLASSIC", "1.1", "4", "stage", ""]
+			]
+		],
+		[
+			28285.7142857143,
+			[
+				["Zoom Camera", "CLASSIC", "1.2", "4", "stage", ""]
+			]
+		],
+		[
+			35142.8571428571,
+			[
+				["Zoom Camera", "CLASSIC", "1.2", "4", "stage", ""]
+			]
+		],
+		[
+			42857.1428571429,
+			[
+				["Zoom Camera", "expoOut", "1.45", "4", "stage", ""],
+				["Focus Camera", "bf", "4", "expoOut", "50, 50", ""]
+			]
+		],
+		[
+			43285.7142857143,
+			[
+				["Zoom Camera", "CLASSIC", "1", "4", "stage", ""],
+				["Focus Camera", "dad", "4", "CLASSIC", "", ""]
+			]
+		],
+		[
+			55714.2857142857,
+			[
+				["Play Animation", "scream", "dad", "", "", ""],
+				["Zoom Camera", "expoIn", "1.5", "8", "stage", ""]
+			]
+		],
+		[
+			56357.1428571429,
+			[
+				["Set Camera Bop", "4", "1", "", "", ""]
+			]
+		],
+		[
+			56571.4285714286,
+			[
+				["Change Character", "dad", "xeno-pixel", "", "", ""],
+				["Change Character", "bf", "bf-pixel", "", "", ""],
+				["Set Character Visibility", "gf", "0.0001", "0", "", ""],
+				["You Cant Fire Events", "pixel", "", "", "", ""],
+				["Change Note Camera Move Offset", "0", "", "", "", ""]
+			]
+		],
+		[
+			82285.7142857143,
+			[
+				["Subtitles", "Ах ты ебаная-", "16", "dad", "36", "no,no,vcr.ttf"]
+			]
+		],
+		[
+			83785.7142857143,
+			[
+				["Set Camera Bop", "2", "2", "", "", ""]
+			]
+		],
+		[
+			84000,
+			[
+				["Change Character", "dad", "xeno", "", "", ""],
+				["Change Character", "bf", "bf-zero", "", "", ""],
+				["Change Suffix Anim", "dad", "-mad", "", "", ""],
+				["Change Icon", "dad", "xeno-mad", "false,1,0,20", "79,0,0", ""],
+				["You Cant Fire Events", "unpixel", "", "", "", ""],
+				["Change Note Camera Move Offset", "60", "", "", "", ""]
+			]
+		],
+		[
+			90642.8571428571,
+			[
+				["Set Camera Bop", "1", "1", "", "", ""]
+			]
+		],
+		[
+			90857.1428571429,
+			[
+				["Force Dance", "dad", "", "", "", ""]
+			]
+		],
+		[
+			94285.7142857143,
+			[
+				["Add Camera Zoom", "0.045", "0.05", "", "", ""]
+			]
+		],
+		[
+			95142.8571428571,
+			[
+				["Add Camera Zoom", "0.045", "0.05", "", "", ""]
+			]
+		],
+		[
+			96000,
+			[
+				["Add Camera Zoom", "0.045", "0.05", "", "", ""]
+			]
+		],
+		[
+			96857.1428571428,
+			[
+				["Add Camera Zoom", "0.045", "0.05", "", "", ""]
+			]
+		],
+		[
+			97500,
+			[
+				["Set Camera Bop", "1", "1.3", "", "", ""]
+			]
+		],
+		[
+			97714.2857142857,
+			[
+				["Change Note Camera Move Offset", "30", "", "", "", ""]
+			]
+		],
+		[
+			100285.714285714,
+			[
+				["Zoom Camera", "CLASSIC", "1.1", "4", "stage", ""]
+			]
+		],
+		[
+			107142.857142857,
+			[
+				["Zoom Camera", "CLASSIC", "1.1", "4", "stage", ""]
+			]
+		],
+		[
+			111214.285714286,
+			[
+				["Set Camera Bop", "1", "1.6", "", "", ""]
+			]
+		],
+		[
+			117857.142857143,
+			[
+				["Zoom Camera", "expoOut", "1.25", "4", "stage", ""]
+			]
+		],
+		[
+			124928.571428571,
+			[
+				["Set Camera Bop", "1", "1", "", "", ""]
+			]
+		],
+		[
+			125035.714285714,
+			[
+				["Change Suffix Anim", "dad", "", "", "", ""]
+			]
+		],
+		[
+			125138.839285714,
+			[
+				["Change Icon", "dad", "xeno-normal", "false,1,0,20", "79,0,0", ""]
+			]
+		],
+		[
+			125142.857142857,
+			[
+				["Play Animation", "guitar", "dad", "", "", ""]
+			]
+		],
+		[
+			130285.714285714,
+			[
+				["Flash Camera", "0xFFFF0000", "8", "camGame", "", ""]
+			]
+		],
+		[
+			138642.857142857,
+			[
+				["Set Camera Bop", "2", "1", "", "", ""]
+			]
+		],
+		[
+			138857.142857143,
+			[
+				["Black Bars", "1", "50", "", "", ""],
+				["Play Animation", "cut", "dad", "", "", ""]
+			]
+		],
+		[
+			140357.142857143,
+			[
+				["Set Camera Bop", "2", "2", "", "", ""]
+			]
+		],
+		[
+			140571.428571428,
+			[
+				["Subtitles", "След в истории ты просрешь!", "9999", "dad", "36", "fade in,nothing,vcr.ttf"],
+				["Shake Beat", "1", "1", "", "", ""]
+			]
+		],
+		[
+			144000,
+			[
+				["Subtitles", "Ты умрешь! ", "99999", "dad", "36", "fly away,nothing,vcr.ttf"]
+			]
+		],
+		[
+			145714.285714286,
+			[
+				["Subtitles", "Пососешь!", "99999", "dad", "36", "fly away,nothing,vcr.ttf"]
+			]
+		],
+		[
+			147428.571428571,
+			[
+				["Subtitles", "Хватит пытаться сбежать от меня!", "9999", "dad", "36", "fly away,nothing,vcr.ttf"]
+			]
+		],
+		[
+			150428.571428571,
+			[
+				["Focus Camera", "dad", "4", "CLASSIC", "-100,150", ""],
+				["Zoom Camera", "CLASSIC", "1.3", "4", "stage", ""]
+			]
+		],
+		[
+			150857.142857143,
+			[
+				["Subtitles", "Финальным твоим словом будет только БЛЯ!", "32", "0xFFFF0000", "36", "fly away,fadeout,vcr.ttf"]
+			]
+		],
+		[
+			154285.714285714,
+			[
+				["Flash Camera", "0xFFFF0000", "8", "camGame", "", ""],
+				["Change Note Camera Move Offset", "0", "", "", "", ""],
+				["Black Bars", "1", "0", "", "", ""]
+			]
+		],
+		[
+			166285.714285714,
+			[
+				["Change Suffix Anim", "-mad", "", "", "", ""]
+			]
+		],
+		[
+			168000,
+			[
+				["Change Suffix Anim", "dad", "-mad", "", "", ""]
+			]
+		],
+		[
+			168642.857142857,
+			[
+				["Set Camera Bop", "1", "1", "", "", ""]
+			]
+		],
+		[
+			168857.142857143,
+			[
+				["Zoom Camera", "expoIn", "1.7", "8", "stage", ""],
+				["Focus Camera", "dad", "8", "expoIn", "-250", ""],
+				["Play Animation", "scream", "dad", "", "", ""]
+			]
+		],
+		[
+			169285.714285714,
+			[
+				["Shake Beat", "1", "1", "", "", ""]
+			]
+		],
+		[
+			169500,
+			[
+				["Set Camera Bop", "1", "1.7", "", "", ""],
+				["Change Note Camera Move Offset", "69", "", "", "", ""]
+			]
+		],
+		[
+			169714.285714286,
+			[
+				["Change Icon", "dad", "xeno-mad", "false,1,0,20", "79,0,0", ""]
+			]
+		],
+		[
+			183107.142857143,
+			[
+				["Set Camera Bop", "1", "1.9", "", "", ""]
+			]
+		],
+		[
+			183428.571428571,
+			[
+				["Zoom Camera", "expoOut", "1.45", "4", "stage", ""],
+				["Focus Camera", "bf", "4", "expoOut", "50, 50", ""]
+			]
+		],
+		[
+			183642.857142857,
+			[
+				["Zoom Camera", "CLASSIC", "1", "4", "stage", ""],
+				["Focus Camera", "dad", "4", "CLASSIC", "", ""]
+			]
+		],
+		[
+			190071.428571428,
+			[
+				["Set Camera Bop", "2", "2.5", "", "", ""]
+			]
+		],
+		[
+			190285.714285714,
+			[
+				["Zoom Camera", "expoOut", "1.3", "8", "stage", ""]
+			]
+		],
+		[
+			191142.857142857,
+			[
+				["Zoom Camera", "expoOut", "1.35", "8", "stage", ""]
+			]
+		],
+		[
+			192000,
+			[
+				["Zoom Camera", "expoOut", "1.4", "8", "stage", ""]
+			]
+		],
+		[
+			192857.142857143,
+			[
+				["Zoom Camera", "expoOut", "1.5", "8", "stage", ""]
+			]
+		],
+		[
+			195428.571428571,
+			[
+				["Subtitles", "ПРОСТО", "16", "dad", "36", "fade in,nothing,vcr.ttf"]
+			]
+		],
+		[
+			195535.714285714,
+			[
+				["Play Animation", "end", "dad", "", "", ""]
+			]
+		],
+		[
+			196714.285714285,
+			[
+				["Subtitles", "ЗДОХНИ!", "24", "0xFFFF0000", "36", "iu,fade,vcr.ttf"]
+			]
+		],
+		[
+			196928.571428571,
+			[
+				["Set Camera Bop", "9999", "2.5", "", "", ""]
+			]
+		],
+		[
+			197142.857142857,
+			[
+				["Screen Shake", "16, 0.03", "16, 0.03", "16, 0.03", "", ""],
+				["Flash Camera", "0xFFFF0000", "4", "camGame", "", ""]
+			]
+		],
+		[
+			198428.571428571,
+			[
+				["Add Camera Zoom", "", "", "", "", ""]
+			]
+		],
+		[
+			198642.857142857,
+			[
+				["Add Camera Zoom", "", "", "", "", ""]
+			]
+		],
+		[
+			198750,
+			[
+				["Add Camera Zoom", "", "", "", "", ""]
+			]
+		],
+		[
+			198856.473214285,
+			[
+				["Add Camera Zoom", "0.070", "0.070", "", "", ""]
+			]
+		],
+		[
+			198857.142857143,
+			[
+				["Fade Camera", "0xFF000000", "0.0001", "camoverlayhud", "false", ""],
+				["Flash Camera", "0xFFFF0000", "8", "camother", "", ""]
+			]
+		]
+	],
+	"opponentArrowSkin": "noteSkins/NOTE_assets-exe",
+	"toggleTransOut": true,
+	"strumOffset": "Player Focus",
+	"code": "Perec.EXE",
+	"disableDadRGB": true,
+	"needsVoices": true,
+	"stage": "forest",
+	"chart": "bone_ & Perec.EXE",
+	"bpm": 140
+}

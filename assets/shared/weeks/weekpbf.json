@@ -1,0 +1,46 @@
+{
+	"songs": [
+		[
+			"Obrutality",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Triple Trouble",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"The end",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "weekbfmix",
+	"variations": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Rematch",
+	"weekName": "Week P (bf mix)",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

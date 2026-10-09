@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-bf-final.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fromLosing0000" x="330" y="330" width="150" height="150"/>
+	<SubTexture name="fromLosing0001" x="330" y="330" width="150" height="150"/>
+	<SubTexture name="fromLosing0002" x="330" y="490" width="150" height="150"/>
+	<SubTexture name="fromLosing0003" x="330" y="490" width="150" height="150"/>
+	<SubTexture name="idle0000" x="10" y="10" width="150" height="150"/>
+	<SubTexture name="idle0001" x="10" y="10" width="150" height="150"/>
+	<SubTexture name="idle0002" x="170" y="10" width="150" height="150"/>
+	<SubTexture name="idle0003" x="170" y="10" width="150" height="150"/>
+	<SubTexture name="idle0004" x="330" y="10" width="150" height="150"/>
+	<SubTexture name="idle0005" x="330" y="10" width="150" height="150"/>
+	<SubTexture name="losing0000" x="170" y="170" width="150" height="150"/>
+	<SubTexture name="losing0001" x="170" y="170" width="150" height="150"/>
+	<SubTexture name="losing0002" x="170" y="170" width="150" height="150"/>
+	<SubTexture name="losing0003" x="170" y="170" width="150" height="150"/>
+	<SubTexture name="losing0004" x="170" y="170" width="150" height="150"/>
+	<SubTexture name="losing0005" x="330" y="170" width="150" height="150"/>
+	<SubTexture name="losing0006" x="330" y="170" width="150" height="150"/>
+	<SubTexture name="losing0007" x="330" y="170" width="150" height="150"/>
+	<SubTexture name="losing0008" x="330" y="170" width="150" height="150"/>
+	<SubTexture name="losing0009" x="330" y="170" width="150" height="150"/>
+	<SubTexture name="losing0010" x="170" y="330" width="150" height="150"/>
+	<SubTexture name="losing0011" x="170" y="330" width="150" height="150"/>
+	<SubTexture name="losing0012" x="170" y="330" width="150" height="150"/>
+	<SubTexture name="losing0013" x="170" y="330" width="150" height="150"/>
+	<SubTexture name="losing0014" x="170" y="330" width="150" height="150"/>
+	<SubTexture name="losing0015" x="170" y="490" width="150" height="150"/>
+	<SubTexture name="losing0016" x="170" y="490" width="150" height="150"/>
+	<SubTexture name="losing0017" x="170" y="490" width="150" height="150"/>
+	<SubTexture name="losing0018" x="170" y="490" width="150" height="150"/>
+	<SubTexture name="losing0019" x="170" y="490" width="150" height="150"/>
+	<SubTexture name="toLosing0000" x="10" y="170" width="150" height="150"/>
+	<SubTexture name="toLosing0001" x="10" y="170" width="150" height="150"/>
+	<SubTexture name="toLosing0002" x="10" y="330" width="150" height="150"/>
+	<SubTexture name="toLosing0003" x="10" y="330" width="150" height="150"/>
+	<SubTexture name="toLosing0004" x="10" y="490" width="150" height="150"/>
+	<SubTexture name="toLosing0005" x="10" y="490" width="150" height="150"/>
+</TextureAtlas>

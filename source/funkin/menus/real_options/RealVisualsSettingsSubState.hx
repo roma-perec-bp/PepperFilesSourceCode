@@ -1,0 +1,357 @@
+package funkin.menus.real_options;
+
+import funkin.game.notes.Note;
+import funkin.game.notes.StrumNote;
+import funkin.game.notes.NoteSplash;
+import funkin.debug.FPSCounter.DebugDisplayMode;
+#if (cpp && windows)
+import hxwindowmode.WindowColorMode;
+#end
+
+class RealVisualsSettingsSubState extends RealBaseOptionsMenu
+{
+	var noteOptionID:Int = -1;
+	var notes:FlxTypedGroup<StrumNote>;
+	var splashes:FlxTypedGroup<NoteSplash>;
+	var noteY:Float = 90;
+	public function new()
+	{
+		rpcTitle = 'Visuals Settings Menu'; //for Discord Rich Presence
+
+		// for note skins and splash skins
+		notes = new FlxTypedGroup<StrumNote>();
+		splashes = new FlxTypedGroup<NoteSplash>();
+		for (i in 0...Note.colArray.length)
+		{
+			var note:StrumNote = new StrumNote(370 + (560 / Note.colArray.length) * i, -200, i, 0);
+			changeNoteSkin(note);
+			notes.add(note);
+			
+			var splash:NoteSplash = new NoteSplash(0, 0, NoteSplash.defaultNoteSplash + NoteSplash.getSplashSkinPostfix());
+			splash.inEditor = true;
+			splash.babyArrow = note;
+			splash.ID = i;
+			splash.kill();
+			splashes.add(splash);
+		}
+
+		// options
+		var noteSkins:Array<String> = Mods.mergeAllTextsNamed('images/noteSkins/list.txt');
+		if(noteSkins.length > 0)
+		{
+			if(!noteSkins.contains(ClientPrefs.data.noteSkin))
+				ClientPrefs.data.noteSkin = ClientPrefs.defaultData.noteSkin; //Reset to default if saved noteskin couldnt be found
+
+			noteSkins.insert(0, ClientPrefs.defaultData.noteSkin); //Default skin always comes first
+			var option:RealOption = new RealOption('Note Skins:',
+				"Select your prefered Note skin.",
+				'noteSkin',
+				STRING,
+				noteSkins);
+			addOption(option);
+			option.onChange = onChangeNoteSkin;
+			noteOptionID = optionsArray.length - 1;
+		}
+		
+		var noteSplashes:Array<String> = Mods.mergeAllTextsNamed('images/noteSplashes/list.txt');
+		if(noteSplashes.length > 0)
+		{
+			if(!noteSplashes.contains(ClientPrefs.data.splashSkin))
+				ClientPrefs.data.splashSkin = ClientPrefs.defaultData.splashSkin; //Reset to default if saved splashskin couldnt be found
+
+			noteSplashes.insert(0, ClientPrefs.defaultData.splashSkin); //Default skin always comes first
+			var option:RealOption = new RealOption('Note Splashes:',
+				"Select your prefered Note Splash variation.",
+				'splashSkin',
+				STRING,
+				noteSplashes);
+			addOption(option);
+			option.onChange = onChangeSplashSkin;
+		}
+
+		var option:RealOption = new RealOption('Hold Note Splashes:',
+			"Select your prefered Hold Note Splash variation.",
+			'splashHoldSkin',
+			STRING,
+			['Default', 'Vanilla', 'Impostor', 'NightmareVision']);
+		addOption(option);
+
+		var option:RealOption = new RealOption('Note Splashes Opacity:',
+			'How much transparent should the Note Splashes be.',
+			'splashAlpha',
+			PERCENT);
+		option.scrollSpeed = 1.6;
+		option.minValue = 0.0;
+		option.maxValue = 1;
+		option.changeValue = 0.1;
+		option.decimals = 1;
+		addOption(option);
+		option.onChange = playNoteSplashes;
+
+		var option:RealOption = new RealOption('Hide HUD:',
+			'If checked, hides most HUD elements.',
+			'hideHud',
+			BOOL);
+		addOption(option);
+		
+		var option:RealOption = new RealOption('Time Bar:',
+			"What should the Time Bar display?",
+			'timeBarType',
+			STRING,
+			['Time Left', 'Time Elapsed', 'Song Name', 'Disabled']);
+		addOption(option);
+
+		var option:RealOption = new RealOption('Flashing Lights:',
+			"Uncheck this if you're sensitive to flashing lights!",
+			'flashing',
+			BOOL);
+		addOption(option);
+
+		var option:RealOption = new RealOption('Camera Zooms:',
+			"If unchecked, the camera won't zoom in on a beat hit.",
+			'camZooms',
+			BOOL);
+		addOption(option);
+
+		var option:RealOption = new RealOption('Score Text Grow on Hit:',
+			"If unchecked, disables the Score text growing\neverytime you hit a note.",
+			'scoreZoom',
+			BOOL);
+		addOption(option);
+
+		var option:RealOption = new RealOption('Health Bar Opacity:',
+			'How much transparent should the health bar and icons be.',
+			'healthBarAlpha',
+			PERCENT);
+		option.scrollSpeed = 1.6;
+		option.minValue = 0.0;
+		option.maxValue = 1;
+		option.changeValue = 0.1;
+		option.decimals = 1;
+		addOption(option);
+
+		var option:RealOption = new RealOption('Subtitles:',
+			'If checked, shows subtitles on cutscene and mid-song.',
+			'subtitles',
+			BOOL);
+		addOption(option);
+		
+		#if !mobile
+		var option:RealOption = new RealOption('Debug Display:',
+			'When enabled, FPS and other debug stats are displayed.',
+			'showFPS', //TO-DO rename option name
+			STRING,
+			['Simple', 'Advanced', 'Off']);
+		addOption(option);
+		option.onChange = onChangeFPSCounter;
+		#end
+
+		var option:RealOption = new RealOption('Colorblind Mode:',
+			"Adjust game colors for a color vision deficiency.",
+			'colorblindMode',
+			STRING,
+			['Off', 'Protan', 'Deutan', 'Tritan']);
+		addOption(option);
+		option.onChange = onChangeColorblind;
+
+		var option:RealOption = new RealOption('Colorblind Strength:',
+			"How strongly the colorblind option is applied on a scale of 1-10.",
+			'colorblindStrength',
+			INT);
+		addOption(option);
+		option.onChange = onChangeColorblind;
+
+		option.minValue = funkin.utils.ColorblindFilter.STRENGTH_MIN;
+		option.maxValue = funkin.utils.ColorblindFilter.STRENGTH_MAX;
+		
+		if(FlxG.save.data.progressState != 2)
+		{
+			var option:RealOption = new RealOption('Pause Music:',
+				"What song do you prefer for the Pause Screen?",
+				'pauseMusic',
+				STRING,
+				['None', 'Program Stop', 'Fake Pause', 'Pizdec', 'GardenStop', 'PitStop', 'Tea Time', 'Breakfast', 'Breakfast (Pico)', 'Breakfast (Pixel)']);
+			addOption(option);
+			option.onChange = onChangePauseMusic;
+		}
+
+
+		#if DISCORD_ALLOWED
+		var option:RealOption = new RealOption('Discord Rich Presence:',
+			"Uncheck this to prevent accidental leaks, it will hide the Application from your \"Playing\" box on Discord",
+			'discordRPC',
+			BOOL);
+		addOption(option);
+		#end
+
+		/*var option:Option = new Option('Combo Stacking',
+			"If unchecked, Ratings and Combo won't stack, saving on System Memory and making them easier to read",
+			'comboStacking',
+			BOOL);
+		addOption(option);*/
+
+		#if (cpp && windows)
+		var option:RealOption = new RealOption('Window Dark Mode:',
+			"If checked, will enable Window Dark Mode",
+			'windowDarkMode',
+			BOOL);
+		addOption(option);
+		option.onChange = onChangeWindowMode;
+		#end
+
+		super();
+		add(notes);
+		add(splashes);
+	}
+
+	var notesShown:Bool = false;
+	override function changeSelection(change:Int = 0)
+	{
+		super.changeSelection(change);
+		
+		switch(curOption.variable)
+		{
+			case 'noteSkin', 'splashSkin', 'splashAlpha', 'splashHoldSkin':
+				if(!notesShown)
+				{
+					for (note in notes.members)
+					{
+						FlxTween.cancelTweensOf(note);
+						FlxTween.tween(note, {y: noteY}, Math.abs(note.y / (200 + noteY)) / 3, {ease: FlxEase.quadInOut});
+					}
+				}
+				notesShown = true;
+				if(curOption.variable != 'splashHoldSkin')
+					if(curOption.variable.startsWith('splash') && Math.abs(notes.members[0].y - noteY) < 25) playNoteSplashes();
+
+			default:
+				if(notesShown) 
+				{
+					for (note in notes.members)
+					{
+						FlxTween.cancelTweensOf(note);
+						FlxTween.tween(note, {y: -200}, Math.abs(note.y / (200 + noteY)) / 3, {ease: FlxEase.quadInOut});
+					}
+				}
+				notesShown = false;
+		}
+	}
+
+	#if (cpp && windows)
+	function onChangeWindowMode()
+	{
+		WindowColorMode.setWindowColorMode(ClientPrefs.data.windowDarkMode);
+		WindowColorMode.redrawWindowHeader();
+	}
+	#end
+
+	var changedMusic:Bool = false;
+	function onChangePauseMusic()
+	{
+		if(ClientPrefs.data.pauseMusic == 'None')
+			FlxG.sound.music.volume = 0;
+		else
+			FlxG.sound.playMusic(Paths.music('pause_music/'+Paths.formatToSongPath(ClientPrefs.data.pauseMusic)));
+
+		changedMusic = true;
+	}
+
+	function onChangeNoteSkin()
+	{
+		notes.forEachAlive(function(note:StrumNote) {
+			changeNoteSkin(note);
+			note.centerOffsets();
+			note.centerOrigin();
+		});
+	}
+
+	function changeNoteSkin(note:StrumNote)
+	{
+		var skin:String = Note.defaultNoteSkin;
+		var customSkin:String = skin + Note.getNoteSkinPostfix();
+		if(Paths.fileExists('images/$customSkin.png', IMAGE)) skin = customSkin;
+
+		note.texture = skin; //Load texture and anims
+		note.reloadNote();
+		note.playAnim('static');
+	}
+
+	function onChangeSplashSkin()
+	{
+		var skin:String = NoteSplash.defaultNoteSplash + NoteSplash.getSplashSkinPostfix();
+		for (splash in splashes)
+			splash.loadSplash(skin);
+
+		playNoteSplashes();
+	}
+
+	function playNoteSplashes()
+	{
+		var rand:Int = 0;
+		if (splashes.members[0] != null && splashes.members[0].maxAnims > 1)
+			rand = FlxG.random.int(0, splashes.members[0].maxAnims - 1); // For playing the same random animation on all 4 splashes
+
+		for (splash in splashes)
+		{
+			splash.revive();
+
+			splash.spawnSplashNote(0, 0, splash.ID, null, false);
+			if (splash.maxAnims > 1)
+				splash.noteData = splash.noteData % Note.colArray.length + (rand * Note.colArray.length);
+
+			var anim:String = splash.playDefaultAnim();
+			var conf = splash.config.animations.get(anim);
+			var offsets:Array<Float> = [0, 0];
+
+			var minFps:Int = 22;
+			var maxFps:Int = 26;
+			if (conf != null)
+			{
+				offsets = conf.offsets;
+
+				minFps = conf.fps[0];
+				if (minFps < 0) minFps = 0;
+
+				maxFps = conf.fps[1];
+				if (maxFps < 0) maxFps = 0;
+			}
+
+			splash.offset.set(10, 10);
+			if (offsets != null)
+			{
+				splash.offset.x += offsets[0];
+				splash.offset.y += offsets[1];
+			}
+
+			if (splash.animation.curAnim != null)
+				splash.animation.curAnim.frameRate = FlxG.random.int(minFps, maxFps);
+		}
+	}
+
+	override function destroy()
+	{
+		if(changedMusic && !RealOptionsState.onPlayState) FlxG.sound.playMusic(Paths.music('real_menu/pepper_files'));
+		Note.globalRgbShaders = [];
+		super.destroy();
+	}
+
+	#if !mobile
+	function onChangeFPSCounter()
+	{
+		switch(ClientPrefs.data.showFPS)
+		{
+			case 'Simple':
+				ClientPrefs.setDebugDisplayMode(DebugDisplayMode.Simple);
+			case 'Off':
+				ClientPrefs.setDebugDisplayMode(DebugDisplayMode.Off);
+			case 'Advanced':
+				ClientPrefs.setDebugDisplayMode(DebugDisplayMode.Advanced);
+		}
+	}
+	#end
+
+	function onChangeColorblind()
+	{
+		funkin.utils.ColorblindFilter.apply();
+	}
+}

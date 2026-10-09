@@ -1,0 +1,167 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [53, -8],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [17, 39],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [4, 41],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-10, 47],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-5, 61],
+			"anim": "singLEFT-calm",
+			"fps": 24,
+			"name": "left-calm",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"offsets": [-3, 60],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-calm",
+			"flipX": false,
+			"indices": [],
+			"name": "idle-calm"
+		},
+		{
+			"offsets": [-4, 61],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-calm",
+			"flipX": false,
+			"indices": [],
+			"name": "down-calm"
+		},
+		{
+			"offsets": [-4, 62],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-calm",
+			"flipX": false,
+			"indices": [],
+			"name": "up-calm"
+		},
+		{
+			"offsets": [-3, 62],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-calm",
+			"flipX": false,
+			"indices": [],
+			"name": "right-calm"
+		},
+		{
+			"offsets": [3, 2],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"flipX": false,
+			"indices": [],
+			"name": "left-alt"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"flipX": false,
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [-2, -1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"flipX": false,
+			"indices": [],
+			"name": "down-alt"
+		},
+		{
+			"offsets": [-3, 6],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"flipX": false,
+			"indices": [],
+			"name": "up-alt"
+		},
+		{
+			"offsets": [3, 11],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"flipX": false,
+			"indices": [],
+			"name": "right-alt"
+		},
+		{
+			"loop": false,
+			"offsets": [10, 43],
+			"anim": "jumpscare",
+			"fps": 24,
+			"name": "scream",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [-3, 60],
+			"anim": "trans",
+			"fps": 24,
+			"name": "transition",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"iconScale": 1,
+	"image": "characters/assystant_pep",
+	"opponentArrows": [
+		["0xFF000000", "0xFFFF0000", "0xFF000000"],
+		["0xFF000000", "0xFFFF0000", "0xFF000000"],
+		["0xFF000000", "0xFFFF0000", "0xFF000000"],
+		["0xFF000000", "0xFFFF0000", "0xFF000000"]
+	],
+	"position": [-620, -910],
+	"iconOffsets": [0, 10],
+	"iconBlend": null,
+	"healthicon": "ohNo",
+	"danceEvery": 2,
+	"iconFlipX": false,
+	"flip_x": false,
+	"iconFps24": 24,
+	"healthbar_colors": [0, 0, 0],
+	"camera_position": [50, -100],
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

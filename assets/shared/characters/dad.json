@@ -1,0 +1,31 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [0, 27],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [0, 0],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Dad idle dance"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"iconOffsets": [0, -20],
+	"image": "characters/Dad_assets",
+	"position": [0, 0],
+	"healthicon": "test",
+	"flip_x": false,
+	"healthbar_colors": [175, 102, 206],
+	"camera_position": [0, 0],
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

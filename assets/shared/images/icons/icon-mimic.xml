@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-mimic.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="210" y="10" width="190" height="160" frameX="-7" frameY="-22" frameWidth="208" frameHeight="201"/>
+	<SubTexture name="idle0001" x="197" y="201" width="190" height="161" frameX="-18" frameY="-17" frameWidth="208" frameHeight="201"/>
+	<SubTexture name="idle0002" x="397" y="213" width="148" height="192" frameX="-21" frameY="-9" frameWidth="208" frameHeight="201"/>
+	<SubTexture name="idle0003" x="410" y="10" width="151" height="193" frameX="-21" frameY="0" frameWidth="208" frameHeight="201"/>
+	<SubTexture name="idle0004" x="10" y="10" width="190" height="181" frameX="0" frameY="-13" frameWidth="208" frameHeight="201"/>
+	<SubTexture name="idle0005" x="10" y="201" width="177" height="180" frameX="-20" frameY="-12" frameWidth="208" frameHeight="201"/>
+</TextureAtlas>

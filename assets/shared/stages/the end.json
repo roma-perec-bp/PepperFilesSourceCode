@@ -1,0 +1,49 @@
+{
+	"directory": "bf_mix",
+	"defaultZoom": 0.2,
+	"stageUI": "",
+
+	"boyfriend": [1750, 400],
+	"girlfriend": [850, 340],
+	"opponent": [300, 450],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [-250, -100],
+	"camera_opponent": [0, -20],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1,
+
+	"preload": {
+		"images/darkerVG": 3,
+
+		"images/end/Act_4_FINALE_Lightingmcqueen": 3,
+		"images/end/day": 3,
+		"images/end/hitStatic": 3,
+		"images/end/home": 3,
+		"images/end/home_dead": 3,
+		"images/end/overlay": 2,
+		"images/end/shit": 3,
+		"images/end/sky": 3,
+		"images/end/LYRIC_SEQUENCE/": 3,
+		"images/end/dance_crowd/": 2,
+
+		"images/end/icons/0": 3,
+		"images/end/icons/1": 3,
+		"images/end/icons/2": 3,
+		"images/end/icons/3": 3,
+		"images/end/icons/4": 3,
+		"images/end/icons/5": 3,
+		"images/end/icons/6": 3,
+		"images/end/icons/7": 3,
+		"images/end/icons/8": 3,
+		"images/end/icons/9": 3,
+		"images/end/icons/10": 3,
+		"images/end/icons/11": 3,
+		"images/end/icons/12": 3,
+		"images/end/icons/13": 3,
+		"images/end/icons/14": 3,
+		"images/end/icons/15": 3,
+		"images/end/icons/16": 3,
+		"images/end/icons/17": 3
+	}
+}

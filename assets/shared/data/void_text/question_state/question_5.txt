@@ -1,0 +1,4 @@
+:default:normal:Я ебу?
+:angry:normal:Тот придурок даст действительно придурок!
+:happy:normal:Слава богу что он мертв
+:happy:normal:Благодаря мне

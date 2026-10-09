@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [-30, 129],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down0"
+		},
+		{
+			"offsets": [-64, 45],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up0"
+		},
+		{
+			"offsets": [-31, 132],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DownMiss"
+		},
+		{
+			"offsets": [-57, 47],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "UpMiss"
+		},
+		{
+			"offsets": [201, 36],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Right0"
+		},
+		{
+			"offsets": [-29, 8],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Left0"
+		},
+		{
+			"offsets": [-32, 21],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "LeftMiss"
+		},
+		{
+			"offsets": [196, 30],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "RightMiss"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"iconScale": 1,
+	"image": "characters/Abandoned_BF_Assets",
+	"opponentArrows": [
+		["0xFFC24B99", "0xFFFFFFFF", "0xFF3C1F56"],
+		["0xFF00FFFF", "0xFFFFFFFF", "0xFF1542B7"],
+		["0xFF12FA05", "0xFFFFFFFF", "0xFF0A4447"],
+		["0xFFF9393F", "0xFFFFFFFF", "0xFF651038"]
+	],
+	"position": [-670, 340],
+	"iconOffsets": [-10, 0],
+	"iconBlend": null,
+	"healthicon": "bf",
+	"danceEvery": 2,
+	"iconFlipX": false,
+	"flip_x": false,
+	"iconFps24": 24,
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [-350, -140],
+	"sing_duration": 4,
+	"scale": 1.00000000000002,
+	"_editor_isPlayer": true
+}

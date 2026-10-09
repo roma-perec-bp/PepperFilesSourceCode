@@ -1,0 +1,46 @@
+{
+	"songs": [
+		[
+			"Last Stand",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Hell Valley",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Games are over",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "eye",
+	"variations": "",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Finale",
+	"weekName": "Final Week",
+	"hideStoryMode": false,
+	"weekBefore": "weekexe",
+	"startUnlocked": false
+}

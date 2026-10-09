@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="button_credits.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="buttom_credits_default0000" x="372" y="246" width="350" height="205"/>
+	<SubTexture name="buttom_credits_default0001" x="372" y="246" width="350" height="205"/>
+	<SubTexture name="buttom_credits_default0002" x="372" y="246" width="350" height="205"/>
+	<SubTexture name="buttom_credits_default0003" x="372" y="246" width="350" height="205"/>
+	<SubTexture name="buttom_credits_default0004" x="372" y="246" width="350" height="205"/>
+	<SubTexture name="buttom_credits_default0005" x="372" y="461" width="350" height="204" frameX="0" frameY="0" frameWidth="350" frameHeight="205" rotated="false"/>
+	<SubTexture name="buttom_credits_default0006" x="372" y="461" width="350" height="204" frameX="0" frameY="0" frameWidth="350" frameHeight="205" rotated="false"/>
+	<SubTexture name="buttom_credits_default0007" x="372" y="461" width="350" height="204" frameX="0" frameY="0" frameWidth="350" frameHeight="205" rotated="false"/>
+	<SubTexture name="buttom_credits_default0008" x="372" y="461" width="350" height="204" frameX="0" frameY="0" frameWidth="350" frameHeight="205" rotated="false"/>
+	<SubTexture name="buttom_credits_default0009" x="372" y="461" width="350" height="204" frameX="0" frameY="0" frameWidth="350" frameHeight="205" rotated="false"/>
+	<SubTexture name="buttom_credits_default0010" x="10" y="481" width="347" height="203" frameX="0" frameY="0" frameWidth="350" frameHeight="205" rotated="false"/>
+	<SubTexture name="buttom_credits_default0011" x="10" y="481" width="347" height="203" frameX="0" frameY="0" frameWidth="350" frameHeight="205" rotated="false"/>
+	<SubTexture name="buttom_credits_default0012" x="10" y="481" width="347" height="203" frameX="0" frameY="0" frameWidth="350" frameHeight="205" rotated="false"/>
+	<SubTexture name="buttom_credits_default0013" x="10" y="481" width="347" height="203" frameX="0" frameY="0" frameWidth="350" frameHeight="205" rotated="false"/>
+	<SubTexture name="buttom_credits_default0014" x="10" y="481" width="347" height="203" frameX="0" frameY="0" frameWidth="350" frameHeight="205" rotated="false"/>
+	<SubTexture name="buttom_credits_selected0000" x="372" y="10" width="351" height="226" frameX="0" frameY="0" frameWidth="352" frameHeight="226" rotated="false"/>
+	<SubTexture name="buttom_credits_selected0001" x="372" y="10" width="351" height="226" frameX="0" frameY="0" frameWidth="352" frameHeight="226" rotated="false"/>
+	<SubTexture name="buttom_credits_selected0002" x="10" y="10" width="352" height="226"/>
+	<SubTexture name="buttom_credits_selected0003" x="10" y="10" width="352" height="226"/>
+	<SubTexture name="buttom_credits_selected0004" x="10" y="246" width="352" height="225" frameX="0" frameY="-1" frameWidth="352" frameHeight="226" rotated="false"/>
+	<SubTexture name="buttom_credits_selected0005" x="10" y="246" width="352" height="225" frameX="0" frameY="-1" frameWidth="352" frameHeight="226" rotated="false"/>
+</TextureAtlas>

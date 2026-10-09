@@ -1,0 +1,3 @@
+Prreyeyyeyey
+value1: Text
+value2: Duration

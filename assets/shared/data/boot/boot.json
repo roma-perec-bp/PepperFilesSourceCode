@@ -1,0 +1,399 @@
+{
+	"player1": "bf",
+	"charFocusStart": "bf",
+	"disableHoldCover": true,
+	"fadeOutStart": true,
+	"fadeDuration": 8,
+	"inFrontFade": true,
+	"notes": [
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"tweenFollow": "CLASSIC",
+			"followCam": true,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[7272.72727272727, 3, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[8181.81818181818, 1, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[9090.90909090909, 0, 1250, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[10454.5454545455, 2, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[10909.0909090909, 3, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[11818.1818181818, 0, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[12727.2727272727, 1, 1704.54545454545, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[14545.4545454545, 3, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[15454.5454545455, 2, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[16363.6363636364, 0, 1250, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[17727.2727272727, 1, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[18181.8181818182, 2, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[19090.9090909091, 3, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[20000, 0, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[20909.0909090909, 1, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[21818.1818181818, 2, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[22727.2727272727, 0, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[23636.3636363636, 3, 1250, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[25000, 2, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[25454.5454545455, 3, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[26363.6363636364, 0, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[27272.7272727273, 1, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[28181.8181818182, 2, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[29090.9090909091, 0, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[30000, 1, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[30909.0909090909, 2, 1704.54545454545, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[32727.2727272727, 3, 1704.54545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[34545.4545454545, 0, 1704.54545454545, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[36363.6363636364, 3, 1250, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[36363.6363636364, 1, 1250, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[37727.2727272727, 1, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[37727.2727272727, 2, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[38181.8181818182, 3, 1250, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[38181.8181818182, 0, 1250, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[39545.4545454545, 2, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[39772.7272727273, 1, 0, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[40000, 0, 1250, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[40000, 2, 1250, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[41363.6363636364, 1, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[41363.6363636364, 2, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[41818.1818181818, 3, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[41818.1818181818, 0, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[42727.2727272727, 1, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[42727.2727272727, 0, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[43636.3636363636, 1, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[43636.3636363636, 3, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[44090.9090909091, 2, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[44090.9090909091, 1, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[44545.4545454545, 3, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[44545.4545454545, 0, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[45000, 0, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[45000, 2, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[45454.5454545454, 1, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[45454.5454545454, 3, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[45909.0909090909, 2, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[45909.0909090909, 1, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[46363.6363636364, 3, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[46363.6363636364, 0, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[46818.1818181818, 1, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[47045.4545454545, 2, 0, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[47272.7272727273, 0, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[47272.7272727273, 1, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[47727.2727272727, 3, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[47727.2727272727, 2, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[48181.8181818182, 3, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[48181.8181818182, 0, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[48636.3636363636, 0, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[48636.3636363636, 2, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[49090.9090909091, 2, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[49090.9090909091, 1, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[50000, 3, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[50000, 2, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[50909.0909090909, 0, 1704.54545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[50909.0909090909, 3, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[51363.6363636364, 2, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[51818.1818181818, 3, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[52272.7272727273, 2, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[52727.2727272727, 1, 1704.54545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[52727.2727272727, 3, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[53181.8181818182, 0, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[53636.3636363636, 3, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[54090.9090909091, 0, 0, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[54545.4545454545, 3, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[54545.4545454545, 2, 1704.54545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[54772.7272727273, 0, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[55000, 1, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[55227.2727272727, 0, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[55454.5454545454, 3, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[55681.8181818182, 0, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[55909.0909090909, 3, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[56136.3636363636, 1, 0, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[56363.6363636363, 0, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[56363.6363636363, 3, 1704.54545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[56818.1818181818, 1, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[57272.7272727273, 0, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[57727.2727272727, 2, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[58181.8181818182, 0, 568.181818181818, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[58181.8181818182, 1, 3522.72727272727, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[58863.6363636363, 2, 568.181818181818, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[59545.4545454545, 3, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[60000, 0, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[60454.5454545454, 3, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[60909.0909090909, 2, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[61363.6363636363, 3, 340.909090909091, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[61818.1818181818, 2, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[61818.1818181818, 0, 3522.72727272727, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[62727.2727272727, 3, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[63636.3636363636, 1, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[64545.4545454545, 2, 795.454545454545, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[65454.5454545454, 1, 3522.72727272727, null, "stutter", "", 0, "", true, false, "", true, false, false],
+				[65454.5454545454, 3, 3522.72727272727, null, "stutter", "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"tweenFollow": "CLASSIC",
+			"followCam": true,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[72727.2727272727, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[72803.0303030303, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[72878.7878787878, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[72954.5454545454, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73030.303030303, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73106.0606060606, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73181.8181818181, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73257.5757575757, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73333.3333333333, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73484.8484848485, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73636.3636363636, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73787.8787878788, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[73939.3939393939, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74090.9090909091, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74166.6666666666, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74242.4242424242, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74318.1818181818, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74393.9393939394, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74469.6969696969, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74545.4545454545, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74621.2121212121, 5, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74696.9696969697, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74772.7272727272, 7, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[74848.4848484848, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[75000, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[75151.5151515151, 4, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[75303.0303030303, 6, 0, null, null, "", 0, "", true, false, "", true, false, false],
+				[75454.5454545454, 7, 795.454545454545, null, null, "", 0, "", true, false, "", true, false, false]
+			],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": false,
+			"charFollow": "dad"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"tweenFollow": "CLASSIC",
+			"followCam": false,
+			"mustHitSection": true,
+			"charFollow": "bf"
+		}
+	],
+	"player2": "dad",
+	"skipCountdown": true,
+	"song": "boot",
+	"speed": 1,
+	"format": "gold_v1_convert",
+	"events": [
+		[
+			0,
+			[
+				["Change Scroll Speed", "2.5", "1", "linear", "dad", ""]
+			]
+		],
+		[
+			72727.2727272727,
+			[
+				["Play Animation", "singRIGHT", "dad", "", "", ""],
+				["Glitch", "", "", "", "", ""]
+			]
+		],
+		[
+			76363.6363636363,
+			[
+				["Fade Camera", "0xFFFFFFFF", "16", "camOverlayHud", "false", ""]
+			]
+		],
+		[
+			80000,
+			[
+				["text_logo", "0xFFFFFFFF", "16", "camOverlayHud", "false", ""]
+			]
+		]
+	],
+	"gfVersion": "gf",
+	"strumOffset": "Player Focus",
+	"quietCountdown": true,
+	"originalHealthColors": true,
+	"disableTimeBar": true,
+	"stage": "stage",
+	"needsVoices": true,
+	"bpm": 66
+}

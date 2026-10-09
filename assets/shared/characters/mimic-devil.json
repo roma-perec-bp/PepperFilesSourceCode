@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [-251, -51],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [-260, -51],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [-260, -22],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [-270, -34],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": true,
+			"offsets": [-3, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "intro-dark",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [270, 341],
+			"anim": "intro",
+			"fps": 24,
+			"name": "idle-dark",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/mimic_chars/dark_devil_assets",
+	"position": [-180, -180],
+	"healthicon": "mimic",
+	"flip_x": false,
+	"healthbar_colors": [0, 0, 0],
+	"camera_position": [50, 300],
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

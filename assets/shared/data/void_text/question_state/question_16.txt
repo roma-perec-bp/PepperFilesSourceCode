@@ -1,0 +1,16 @@
+:happy:normal:Слава богу я его убил
+:left:normal:Он такое чмо!
+:default:normal:Уебище
+:default:normal:Урод
+:default:normal:Тварь
+:default:normal:Гавно
+:default:normal:Идиот
+:default:normal:Даун
+:default:normal:Аутист
+:default:normal:Чмо
+:default:normal:Неумёха
+:default:normal:Сучка
+:happy:normal:И много других хороших слов
+:left:normal:А ну и еще он себя и свое ебанное ебало любит
+:sad:normal:И это мой создатель
+:frown:normal:Мне жаль самого себя
